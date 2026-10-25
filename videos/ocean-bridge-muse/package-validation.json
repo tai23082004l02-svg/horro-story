@@ -1,0 +1,11 @@
+{
+  "status": "preproduction_only",
+  "scenes": 16,
+  "narration_words": 240,
+  "estimated_seconds_at_190_wpm": 75.8,
+  "target_seconds": [
+    60,
+    90
+  ],
+  "final_video_exists": false
+}

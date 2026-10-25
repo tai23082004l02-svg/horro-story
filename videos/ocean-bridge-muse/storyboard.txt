@@ -1,0 +1,63 @@
+SCENE 01 — SCALE
+Narration: How do you build a bridge this big in the ocean, when there is no solid ground in sight?
+Visual: Cinematic wide coastal viaduct across blue-green sea, low concrete piers and repeated short spans, distant shore, white workboat for scale. Gentle natural waves; slow controlled aerial reveal. No suspension towers, no oil platforms.
+
+SCENE 02 — REVEAL THE FOUNDATION
+Narration: The answer starts below the water. Here is one way to build a coastal bridge.
+Visual: Transition to a clean 3D engineering cutaway of ONE pier: bridge deck, single column, pile cap, four drilled concrete shafts passing through sediment into competent ground. Keep geometry continuous across all technical shots. This is a conceptual illustration, not footage of a named bridge.
+
+SCENE 03 — SURVEY
+Narration: First, survey vessels map the seabed, while ground investigations reveal what lies beneath it.
+Visual: Survey boat emits illustrated sonar fans toward seabed, then split cutaway shows a geotechnical boring taking samples BELOW seabed. Distinguish surface mapping from ground investigation: sonar alone cannot identify bearing capacity. No fabricated numeric readings.
+
+SCENE 04 — LOAD PATH
+Narration: Engineers design deep foundations to transfer the bridge's weight into suitable ground.
+Visual: Clean cutaway: arrows from deck down pier into cap and four shafts, then into surrounding soil and shaft bases. Show side resistance as well as base resistance; do not imply every foundation must reach bedrock. Labels added in edit, not generated gibberish.
+
+SCENE 05 — CASING
+Narration: For this example, a steel casing helps hold a drilled shaft open through water and unstable soil.
+Visual: Zoomed engineering cutaway, ONE shaft selected from the same four-shaft group. A vertical steel casing extends above water down through soft sediment. Stable work platform/barge; keep water visibly present inside. No cofferdam and no claim the ocean is drained.
+
+SCENE 06 — DRILL CLEAN REINFORCE
+Narration: A drill removes material inside. Then the bottom is cleaned before the reinforcing cage goes in.
+Visual: Three short clearly separated illustrative stages with consistent fixed geometry: drill bucket removes material inside casing; cleaning tool removes bottom debris; crane lowers cylindrical steel reinforcing cage vertically. Actual sequence, not objects morphing into one another. Equipment physically supported.
+
+SCENE 07 — THE WATER PROBLEM
+Narration: But how do you pour concrete into a hole full of water?
+Visual: Hold readable cutaway of water-filled shaft with rebar cage already installed; sea visible outside. Show water inside shaft, not a diver or dry excavation. A short pause invites the concrete question.
+
+SCENE 08 — TREMIE
+Narration: A pipe called a tremie delivers concrete near the bottom, instead of dropping it through the water.
+Visual: Precise 3D cutaway: pipe runs from surface down through rebar cage; discharge outlet near shaft bottom, initially sealed/controlled so concrete is not washed through the water. Concrete starts at bottom and spreads. Never show concrete poured freely from ocean surface.
+
+SCENE 09 — BOTTOM UP
+Narration: Its outlet stays buried in fresh concrete as the concrete level rises, displacing the water above.
+Visual: Most important technical animation. Concrete level rises BOTTOM TO TOP inside shaft, water above displaced upward to controlled collection. Tremie outlet remains embedded below fresh concrete surface throughout; raise it only while preserving embedment. Do not show the pipe end above concrete or seawater turning instantly into concrete.
+
+SCENE 10 — FOUNDATION TO PIER
+Narration: After the concrete gains strength and passes checks, the foundation can support the pier above it.
+Visual: Explicit time-compressed stages separated by cuts: completed shafts after curing and inspection; completed cap above the waterline in this simplified example; concrete pier constructed upward using formwork. No instant loading of fresh concrete. Pier does not float on waves.
+
+SCENE 11 — BUILD ON SHORE
+Narration: Meanwhile, large bridge components are made on land, where construction is easier to control.
+Visual: Precast yard: straight prestressed concrete girders cure on supported beds; workers in hard hats and high visibility clothing for scale. Same grey girder shape later transported. No unsupported lifting or people under loads.
+
+SCENE 12 — TRANSPORT WEATHER
+Narration: Barges carry them out. Crews wait for suitable wind, waves, and currents.
+Visual: Barge transports girders on proper cribbing/seafastening. Tug and offshore crane barge. Gentle manageable waves, then wait/hold before lift. Do not lift in storm conditions or invent exact weather limits.
+
+SCENE 13 — LIFT AND CONNECT
+Narration: A crane lifts each girder onto prepared supports. Connections and the deck follow.
+Visual: Show short construction stages: crane hook with slings raises ONE straight girder; settles it onto prepared bearings at two completed piers; separate cut shows secured girders and deck works. Keep lifting cables taut and connected, crane stable, no unsupported deck floating or traffic on unfinished deck.
+
+SCENE 14 — LONG TERM
+Narration: The finished bridge still needs protection against corrosion and erosion around its foundations.
+Visual: Underwater cutaway of same completed foundation with rock scour protection around seabed and coherent sediment profile. Surface cut shows inspection/protective concrete cover, no dramatic collapse. Do not imply this package designs the exact protection for every site.
+
+SCENE 15 — SCOPE
+Narration: Not every ocean bridge uses this method. Water depth, ground conditions, and bridge design change the solution.
+Visual: Wide coastal viaduct matching opening and cutaway, small inset-style views of differing seabed depth/soil profiles, calm explanatory movement. This particular structure is an illustrative coastal bridge, not an abyssal deep-ocean crossing or any identified real bridge.
+
+SCENE 16 — PAYOFF
+Narration: But the principle stays the same: carry the road's weight through the structure, into the ground below.
+Visual: Final coherent 3D overview linking road deck, girders, bearings, pier, cap, shafts and suitable ground with a continuous colored load-path arrow, then return to completed coastal bridge with normal traffic. End confidently; no subscribe splash, no cliffhanger.

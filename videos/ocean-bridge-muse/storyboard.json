@@ -1,0 +1,114 @@
+[
+  {
+    "id": "01",
+    "beat": "SCALE",
+    "narration": "How do you build a bridge this big in the ocean, when there is no solid ground in sight?",
+    "target_seconds": 6.48,
+    "visual": "Cinematic wide coastal viaduct across blue-green sea, low concrete piers and repeated short spans, distant shore, white workboat for scale. Gentle natural waves; slow controlled aerial reveal. No suspension towers, no oil platforms."
+  },
+  {
+    "id": "02",
+    "beat": "REVEAL THE FOUNDATION",
+    "narration": "The answer starts below the water. Here is one way to build a coastal bridge.",
+    "target_seconds": 5.15,
+    "visual": "Transition to a clean 3D engineering cutaway of ONE pier: bridge deck, single column, pile cap, four drilled concrete shafts passing through sediment into competent ground. Keep geometry continuous across all technical shots. This is a conceptual illustration, not footage of a named bridge."
+  },
+  {
+    "id": "03",
+    "beat": "SURVEY",
+    "narration": "First, survey vessels map the seabed, while ground investigations reveal what lies beneath it.",
+    "target_seconds": 4.82,
+    "visual": "Survey boat emits illustrated sonar fans toward seabed, then split cutaway shows a geotechnical boring taking samples BELOW seabed. Distinguish surface mapping from ground investigation: sonar alone cannot identify bearing capacity. No fabricated numeric readings."
+  },
+  {
+    "id": "04",
+    "beat": "LOAD PATH",
+    "narration": "Engineers design deep foundations to transfer the bridge's weight into suitable ground.",
+    "target_seconds": 4.15,
+    "visual": "Clean cutaway: arrows from deck down pier into cap and four shafts, then into surrounding soil and shaft bases. Show side resistance as well as base resistance; do not imply every foundation must reach bedrock. Labels added in edit, not generated gibberish."
+  },
+  {
+    "id": "05",
+    "beat": "CASING",
+    "narration": "For this example, a steel casing helps hold a drilled shaft open through water and unstable soil.",
+    "target_seconds": 5.82,
+    "visual": "Zoomed engineering cutaway, ONE shaft selected from the same four-shaft group. A vertical steel casing extends above water down through soft sediment. Stable work platform/barge; keep water visibly present inside. No cofferdam and no claim the ocean is drained."
+  },
+  {
+    "id": "06",
+    "beat": "DRILL CLEAN REINFORCE",
+    "narration": "A drill removes material inside. Then the bottom is cleaned before the reinforcing cage goes in.",
+    "target_seconds": 5.48,
+    "visual": "Three short clearly separated illustrative stages with consistent fixed geometry: drill bucket removes material inside casing; cleaning tool removes bottom debris; crane lowers cylindrical steel reinforcing cage vertically. Actual sequence, not objects morphing into one another. Equipment physically supported."
+  },
+  {
+    "id": "07",
+    "beat": "THE WATER PROBLEM",
+    "narration": "But how do you pour concrete into a hole full of water?",
+    "target_seconds": 4.15,
+    "visual": "Hold readable cutaway of water-filled shaft with rebar cage already installed; sea visible outside. Show water inside shaft, not a diver or dry excavation. A short pause invites the concrete question."
+  },
+  {
+    "id": "08",
+    "beat": "TREMIE",
+    "narration": "A pipe called a tremie delivers concrete near the bottom, instead of dropping it through the water.",
+    "target_seconds": 5.82,
+    "visual": "Precise 3D cutaway: pipe runs from surface down through rebar cage; discharge outlet near shaft bottom, initially sealed/controlled so concrete is not washed through the water. Concrete starts at bottom and spreads. Never show concrete poured freely from ocean surface."
+  },
+  {
+    "id": "09",
+    "beat": "BOTTOM UP",
+    "narration": "Its outlet stays buried in fresh concrete as the concrete level rises, displacing the water above.",
+    "target_seconds": 5.48,
+    "visual": "Most important technical animation. Concrete level rises BOTTOM TO TOP inside shaft, water above displaced upward to controlled collection. Tremie outlet remains embedded below fresh concrete surface throughout; raise it only while preserving embedment. Do not show the pipe end above concrete or seawater turning instantly into concrete."
+  },
+  {
+    "id": "10",
+    "beat": "FOUNDATION TO PIER",
+    "narration": "After the concrete gains strength and passes checks, the foundation can support the pier above it.",
+    "target_seconds": 5.48,
+    "visual": "Explicit time-compressed stages separated by cuts: completed shafts after curing and inspection; completed cap above the waterline in this simplified example; concrete pier constructed upward using formwork. No instant loading of fresh concrete. Pier does not float on waves."
+  },
+  {
+    "id": "11",
+    "beat": "BUILD ON SHORE",
+    "narration": "Meanwhile, large bridge components are made on land, where construction is easier to control.",
+    "target_seconds": 4.82,
+    "visual": "Precast yard: straight prestressed concrete girders cure on supported beds; workers in hard hats and high visibility clothing for scale. Same grey girder shape later transported. No unsupported lifting or people under loads."
+  },
+  {
+    "id": "12",
+    "beat": "TRANSPORT WEATHER",
+    "narration": "Barges carry them out. Crews wait for suitable wind, waves, and currents.",
+    "target_seconds": 4.15,
+    "visual": "Barge transports girders on proper cribbing/seafastening. Tug and offshore crane barge. Gentle manageable waves, then wait/hold before lift. Do not lift in storm conditions or invent exact weather limits."
+  },
+  {
+    "id": "13",
+    "beat": "LIFT AND CONNECT",
+    "narration": "A crane lifts each girder onto prepared supports. Connections and the deck follow.",
+    "target_seconds": 4.48,
+    "visual": "Show short construction stages: crane hook with slings raises ONE straight girder; settles it onto prepared bearings at two completed piers; separate cut shows secured girders and deck works. Keep lifting cables taut and connected, crane stable, no unsupported deck floating or traffic on unfinished deck."
+  },
+  {
+    "id": "14",
+    "beat": "LONG TERM",
+    "narration": "The finished bridge still needs protection against corrosion and erosion around its foundations.",
+    "target_seconds": 4.48,
+    "visual": "Underwater cutaway of same completed foundation with rock scour protection around seabed and coherent sediment profile. Surface cut shows inspection/protective concrete cover, no dramatic collapse. Do not imply this package designs the exact protection for every site."
+  },
+  {
+    "id": "15",
+    "beat": "SCOPE",
+    "narration": "Not every ocean bridge uses this method. Water depth, ground conditions, and bridge design change the solution.",
+    "target_seconds": 5.82,
+    "visual": "Wide coastal viaduct matching opening and cutaway, small inset-style views of differing seabed depth/soil profiles, calm explanatory movement. This particular structure is an illustrative coastal bridge, not an abyssal deep-ocean crossing or any identified real bridge."
+  },
+  {
+    "id": "16",
+    "beat": "PAYOFF",
+    "narration": "But the principle stays the same: carry the road's weight through the structure, into the ground below.",
+    "target_seconds": 5.82,
+    "visual": "Final coherent 3D overview linking road deck, girders, bearings, pier, cap, shafts and suitable ground with a continuous colored load-path arrow, then return to completed coastal bridge with normal traffic. End confidently; no subscribe splash, no cliffhanger."
+  }
+]
