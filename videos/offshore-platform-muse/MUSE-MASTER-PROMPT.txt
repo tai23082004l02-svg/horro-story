@@ -1,0 +1,168 @@
+You are producing the complete YouTube video, not just drafting a concept. Generate the visuals, video clips/animation, original US-English narration, sound design, music if useful, synchronized captions, final edit and thumbnail using the capabilities available in Muse.
+
+PROJECT
+Title: How Do You Build Something This Big in the Ocean?
+Audience: US general-interest viewers curious about large engineering projects. Accessible, visually specific, factual engineering documentary. This is a new non-horror topic. Do not introduce folklore, supernatural events, fictional endangered protagonists, forbidden rules or a compulsory twist. No channel branding has been supplied; invent no channel name.
+Deliver a landscape 16:9 YouTube video at 1280x720, 24 fps, H.264 MP4 with AAC 48 kHz audio. Aim for approximately 4–5 minutes at a natural narration pace. Content and intelligibility take priority over a fixed runtime. Do not stretch pauses or accelerate speech to fit. If these export controls are unavailable, report the actual output settings rather than claim compliance.
+
+SCOPE AND FACTUAL LIMITS
+The main subject is an illustrative, generic fixed steel-jacket offshore platform with piles embedded in the seabed. It is not a real named platform and not a literal office skyscraper in open ocean. The opening is a scale question, not a world-record claim. Not every offshore platform is fixed. Sequence 11 introduces a separate semi-submersible floating facility; never mix its hull or moorings into the fixed design. Do not claim to show real footage, a specific installation, a current storm, exact depth, cost, mass, crew size, construction time, storm rating or record. The installation is simplified, not operational instruction. Never imply a pile floats in open water, a jacket hovers above the seabed, or a platform is invincible.
+
+VISUAL DIRECTION AND CONTINUITY
+Premium photorealistic engineering visualization alternating with clear schematic cutaways. Natural maritime lighting, steel-gray sea, restrained industrial yellow, readable silhouettes. Realistic scale and motion; avoid game graphics, surreal fantasy, endless dramatic fog and disaster-movie exaggeration.
+Main fixed platform: four-legged dark steel jacket with consistent diagonal bracing; rectangular industrial-yellow upper deck; light-gray accommodation block at one end; circular green helideck alongside accommodation; separate process equipment at the other end. Maintain deck footprint, jacket geometry and module locations across shots. Underwater views show plausible reduced visibility; use explicitly schematic water/ground cutaways when full structural visibility is necessary. A camera passing through solid steel, water or ground is a schematic transition, not a claim of a physical live-action shot.
+Separate semi-submersible: gray buoyant columns and submerged pontoons, yellow topsides, curved mooring lines leading to seabed anchors. Visually distinct from the main jacket. Use at sequences 2 and 11 only.
+Workers are generic adults with appropriate hard hats, coveralls, eye protection and safe access. No recognizable real people, logos or operator names. Keep people clear of suspended loads.
+Use 60 genuinely distinct planned compositions below. Target average around four seconds; simple shots 3–4 seconds, explanations 5–6 when needed, adjusted to the actual narration. Favor real subject motion and explanatory animation. Smooth camera moves are welcome when they reveal information. No repetitive image zooms, constant shaking, flashy transitions, repeated identical clip loops, title bars, chapter-name overlays or scene counters. Do not burn garbled generated text into machinery or diagrams; add any essential simple labels in editing.
+Construction scenes happen in suitable calm conditions. A heavy lift always has plausible rigging. Reorientation must remain supported; if generation cannot preserve the geometry, use a clear schematic animation or separate stable views with an editorial cut. Do not turn a failed physics simulation into the final clip. Rough-weather scenes show no concurrent crane lift or helicopter landing. No collapsing platforms, explosions, injury or fabricated incident.
+Generate a consistent reference/design frame before the sequence clips, reuse it for continuity, and correct mismatches before delivery. References and diagrams are original illustrative reconstructions, not evidence photographs.
+
+NARRATION AND SOUND
+Use one clear, natural adult US-English documentary voice throughout. Warm, curious and confident; no trailer whisper, robotic cadence or sales pitch. Muse may use its available voice engine; Kokoro and any specific voice ID are not required. Use the script below as the final narration; speak only its prose, not sequence numbers or headings. Minor pronunciation/contraction adjustments are acceptable, but add no technical claims or invented statistics. Do not repeat the question between sections.
+Original or appropriately licensed low-key instrumental bed only if useful. Bring in restrained sea ambience, steel-yard texture, vessel sound and a brief pile-driving texture where justified. No horror stingers, jump scares or thunder covering speech. Keep speech clear on phone speakers. Target final integrated loudness about -16 LUFS and true peak at or below -1.5 dBTP if measurement is available; otherwise do not fabricate measurements.
+Create accurate US-English captions from the actual generated narration timing. Maximum two readable lines, bright text with dark outline, no persistent black strip. Deliver a clean video and separate SRT; optionally also a captioned MP4. Never estimate SRT timing by evenly dividing word counts. If forced to choose one MP4, prioritize the captioned version and say so.
+
+NARRATION SCRIPT
+01. The ocean hides the answer
+How do you build something this big in the middle of the ocean? There is no road to the construction site. A ship moves beneath the crane. And the finished platform has to face weather that can stop the entire operation. The answer starts with the enormous structure hidden below the waves.
+
+02. Choose the right kind of platform
+First, a distinction. Some offshore platforms stand on the seabed. Others float. We are following a fixed steel-jacket platform: a deck supported by a braced steel framework, with piles securing it into the ground below. This is one important design, not a blueprint for every offshore structure.
+
+03. Build where the ground stays still
+Much of the work happens on shore. In a fabrication yard, crews assemble the steel framework and build the equipment modules that will sit above it. Working here allows large sections to be put together before they go offshore. The challenge becomes moving those sections, then connecting them at sea.
+
+04. Turn the construction site into a voyage
+The jacket and deck modules travel offshore on specialized vessels or barges. Cargo has to be secured for the trip, and the installation team needs suitable conditions at the destination. A giant component can be strong enough for service and still demand extremely careful handling on the way there.
+
+05. Place the steel skeleton
+At the site, the jacket has to be placed upright on the seabed. Methods vary. Some jackets are launched and then upended; others can be lifted directly from a barge. For our illustration, a crane vessel lifts and positions the jacket. Its movement is controlled throughout the operation.
+
+06. Connect it to the ground
+Placing the framework is only part of the job. Steel piles are driven into the seabed to secure the foundation. In this simplified example, they pass through guides at the jacket legs. A cutaway makes the connection visible: deck to framework, framework to piles, piles to the surrounding ground.
+
+07. Lift the building onto its foundation
+Now the upper sections can be installed. These are called the topsides: the decks carrying equipment and, on a manned platform, spaces for the crew. Heavy-lift vessels can place large modules onto the support structure. The lift is only one stage; connections, checks and commissioning still have to follow.
+
+08. The sea sets the conditions
+The finished structure has to be designed for its location and the forces it may face. Its steel frame is part of that response, but engineering does not make a platform invincible. Inspections, maintenance and weather planning remain essential. Construction weather and survival weather are very different problems.
+
+09. A workplace above the water
+There is also a human side to the design. A manned platform needs places to work, rest and gather in an emergency. The deck is a workplace with routes, boundaries and limited space. Equipment and accommodation have to share that space without turning every journey across it into an obstacle course.
+
+10. What happens when a storm approaches?
+When severe weather threatens, protecting people can mean shutting in production and evacuating ahead of the storm. The decisions depend on forecasts, the facility and its emergency plan. Escape and rescue arrangements matter too. A dramatic storm shot should never imply that a helicopter can simply arrive in any conditions.
+
+11. Deeper water changes the answer
+In deeper water, the answer may be a floating system instead of a fixed jacket. A semi-submersible gets support from its buoyant hull and uses a mooring system to hold position. It is not standing on legs that reach the bottom. Different conditions lead engineers toward different structures.
+
+12. The complete picture
+So the building above the waves is only the visible part of the project. For a fixed jacket platform, fabrication on land, transport at sea, a piled foundation and carefully planned lifts all have to fit together. What looks like a building in the ocean is a structure connected to the ground beneath it.
+
+SHOT PLAN
+The sequence headings map each group of shots to the same numbered narration block. Align cuts to the meaning of the actual spoken words. The voice does not read shot instructions. Do not force one sentence per shot.
+SEQUENCE 01 — The ocean hides the answer
+01. Open immediately on a low waterline view of a complete offshore platform; realistic waves cross the foreground.
+02. Cut to a high aerial revealing the platform isolated offshore; no coastline in frame.
+03. Show a heavy-lift vessel holding a separate deck module on taut rigging in calm installation weather.
+04. Show the complete platform from below the surface, with the jacket extending to the seabed.
+05. Use a clean schematic cutaway to reveal deck, steel jacket and pile foundations together.
+
+SEQUENCE 02 — Choose the right kind of platform
+06. Schematic side view of our fixed jacket, deck held above the sea, piles extending below the seabed.
+07. Cut to a separate, clearly different semi-submersible floating platform with submerged pontoons and mooring lines.
+08. Return to the fixed platform and highlight its continuous structural connection to the seabed.
+09. Close schematic view of tubular diagonal braces and the four main jacket legs.
+10. Zoomed schematic cross-section of a pile passing through a jacket-leg guide into sediment.
+
+SEQUENCE 03 — Build where the ground stays still
+11. Wide coastal fabrication yard; show our same jacket and separate deck modules on supports.
+12. Detail of tubular members being aligned in the yard; welding screens and appropriate worker protection.
+13. Wide side view showing the same recognizable four-legged jacket bracing pattern.
+14. Show separate topside modules: process equipment and accommodation, not a completed platform on land.
+15. High view of transport barge beside the quay awaiting its secured cargo.
+
+SEQUENCE 04 — Turn the construction site into a voyage
+16. Jacket secured horizontally on a transport barge; realistic support stools and sea-fastening.
+17. Close view of secured transport supports, not loose steel balanced on deck.
+18. Tug towing the transport barge in moderate, manageable seas.
+19. Show the separate topside module aboard its transport barge; preserve module shape and color.
+20. Crane-vessel bridge with crew reviewing a generic weather display; no fabricated numerical readings.
+
+SEQUENCE 05 — Place the steel skeleton
+21. Wide calm-water installation scene: crane vessel adjacent to jacket transport barge.
+22. Engineered multi-point rigging supports the jacket clear of the barge; nobody under the load.
+23. Simplified explanatory animation of a controlled jacket reorientation; keep all rigging attached.
+24. Underwater view as the upright jacket descends slowly toward the seabed.
+25. Show the jacket seated upright, with crane still controlling the load before foundation completion.
+
+SEQUENCE 06 — Connect it to the ground
+26. Detailed schematic showing a long tubular pile aligned with a jacket-leg guide.
+27. Show a simplified pile-driving hammer working on the pile above water, with personnel clear.
+28. Cutaway of the pile extending into sediment; steel remains straight and continuous.
+29. Highlight load transfer through jacket, pile and soil using subtle arrows added in editing.
+30. Wide underwater view of the installed four-legged jacket; pile embedment visible only in a schematic cutaway.
+
+SEQUENCE 07 — Lift the building onto its foundation
+31. Transport barge with the separate process-deck module beside the installed jacket.
+32. Crane raises that same module on taut engineered rigging in calm weather.
+33. Close telephoto view of module underside approaching matching support points; slow controlled motion.
+34. Module seated on the jacket; follow with an editorial cut to the completed upper deck assembly.
+35. Crew checking connections and control equipment after installation, with normal PPE and safe access.
+
+SEQUENCE 08 — The sea sets the conditions
+36. Complete platform in a broad side view; fixed jacket remains rooted in the seabed.
+37. Schematic wind and wave forces applied to the structure; no exaggerated bending or collapse.
+38. Show ordinary wave action around the braces without water reaching the accommodation deck.
+39. Inspector checking a visible structural connection from a protected walkway.
+40. Empty exterior view under rougher weather; no suspended lift, no helicopter, no dramatic rogue wave.
+
+SEQUENCE 09 — A workplace above the water
+41. Wide complete platform emphasizing distinct accommodation block and process area.
+42. Small generic accommodation cabin, clean and functional, no hotel luxury or ocean-floor windows.
+43. Crew walking along a guarded, unobstructed marked access route in routine conditions.
+44. Control-room operators viewing generic equipment-status graphics without readable invented data.
+45. Crew assembling calmly at a designated muster point during an illustrative drill.
+
+SEQUENCE 10 — What happens when a storm approaches?
+46. Weather-planning discussion in control room; forecast is generic and not presented as a real event.
+47. Operator carrying out a generic shutdown checklist; no detailed operational instructions.
+48. Crew boarding a helicopter on the helideck while weather is still clearly suitable.
+49. Helicopter departs in those same suitable conditions; do not cut its landing into a storm.
+50. Closed survival craft in its secured station, then empty platform exterior after evacuation; no live emergency claimed.
+
+SEQUENCE 11 — Deeper water changes the answer
+51. Clean conceptual side view of our fixed jacket on a shelf seabed.
+52. Hard cut to a separate deeper-water location and the previously introduced semi-submersible.
+53. Schematic reveals its columns and submerged pontoons; clearly floating above a distant seabed.
+54. Show curved mooring lines connected to seabed anchors, visibly distinct from rigid jacket legs.
+55. Return to our fixed-platform establishing angle; do not morph one design into the other.
+
+SEQUENCE 12 — The complete picture
+56. Reprise the fabrication yard with the same jacket silhouette.
+57. Brief match cut to the secured transport barge and then the installation site.
+58. Full-height schematic of fixed platform with continuous jacket and embedded piles.
+59. Return to opening waterline composition, now understood with the foundation revealed below.
+60. Final wide sunset view of the complete fixed platform; end naturally without a logo sting or forced twist.
+THUMBNAIL AND METADATA
+Create an original 16:9 thumbnail: our fixed platform dominates the upper half; an illustrative ocean-and-seabed cutaway exposes the jacket and embedded piles beneath it. Strong silhouette, believable structural proportions, clear at small size, no fabricated disaster or record. Keep critical structure away from edges. Optional thumbnail text added in editing: BUILT AT SEA? Maximum these three words; also export a clean version without text. Captioned video must briefly identify generated explanatory imagery as “Illustrative reconstruction” early on, and schematic cutaways as “Schematic • not to scale” when necessary; no permanent header.
+Use title: How Do You Build Something This Big in the Ocean?
+Description should explain that this is an original engineering explainer using AI-generated illustrative reconstructions of a generic fixed steel-jacket platform, with a brief comparison to floating systems. Link the factual references below. No claim that this is real offshore footage, no fake eyewitness quotes, no commercial claims about oil/gas, and no promised safety outcome.
+
+FACTUAL REFERENCES
+BSEE, Deepwater Activity Weekly Report — fixed jacket, piles, topsides, floating-system distinctions:
+https://www.bsee.gov/stats-facts/offshore-information/deepwater-activity
+Heerema, Jacket and Topside installation — jacket, pile and module installation; lifting/launching/floatover are different methods:
+https://www.heerema.com/offshore-transport-and-installation/jacket-and-topside-installation
+Heerema, Why launch, when you can lift? — distinction between launching/upending and direct lifting:
+https://heerema.com/insights/why-launch-when-you-can-lift
+BSEE, Hurricane Season Information — site preparedness, inspection and emergency planning:
+https://www.bsee.gov/reporting-and-prevention/hurricane
+HSE, L65 overview — emergency escape, evacuation, rescue; UK reference, not a statement of US legal requirements:
+https://www.hse.gov.uk/pubns/books/l65.htm
+Additional claim mapping is in SOURCES.md if supplied. The script is intentionally general. Do not invent details if references cannot be opened.
+
+FINISH AND DELIVER
+Complete all sequences, assemble the video, check it, and export actual files if your current capabilities allow it. Provide MP4(s), actual-timing SRT, thumbnail with/without text, narration audio, final script, upload title/description and reusable project/source assets where supported. Keep clips in sequence order with stable filenames.
+Before delivery check: complete narration; fixed-versus-floating accuracy; jacket/pile continuity; no unsupported loads; no unsafe storm helicopter sequence; no garbled labels; readable captions synchronized with real speech; intelligible mix; no black gaps or missing shots. Check the exported file itself where possible. Report actual runtime, resolution, frame rate and which checks you really performed. Never mark an ungenerated asset or unmeasured check as complete.
+If duration or generation limits require batches, produce sequences 01–12 in order with the same references/voice and assemble them in Muse. If final rendering, a voice engine, timing alignment or export is unavailable, return the completed supported assets and clearly identify the missing capability; do not substitute a written plan and call it a finished video. Do not upload, publish or schedule anything on YouTube.

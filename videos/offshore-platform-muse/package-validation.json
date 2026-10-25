@@ -1,0 +1,24 @@
+{
+  "status": "preproduction_package_ready",
+  "video_status": "not_generated",
+  "narration_word_count": 595,
+  "planned_sequences": 12,
+  "planned_shots": 60,
+  "timing_status": "unlocked_pending_Muse_audio",
+  "estimated_narration_seconds_at_135_wpm": 264.4,
+  "checks": {
+    "all_script_blocks_in_master_once": "passed",
+    "all_60_shots_in_master": "passed",
+    "unique_shot_ids": "passed",
+    "required_source_files_present": "passed",
+    "README_relative_links": "passed"
+  },
+  "not_performed": [
+    "Muse generation",
+    "audio timing alignment",
+    "final media rendering",
+    "video/audio quality assurance",
+    "thumbnail generation",
+    "YouTube publication"
+  ]
+}

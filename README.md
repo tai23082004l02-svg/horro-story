@@ -1,5 +1,9 @@
 # horro-story
 
+## Đang chuẩn bị với Muse AI
+
+[How Do You Build Something This Big in the Ocean?](videos/offshore-platform-muse/README.md) — bộ ý tưởng documentary kỹ thuật cho khán giả Mỹ, kịch bản tiếng Anh Mỹ, 60 cảnh dự kiến và [prompt đầy đủ để đưa Muse](videos/offshore-platform-muse/MUSE-MASTER-PROMPT.txt). Người dùng sẽ dùng Muse xử lý hình, video và audio. **Chỉ hoàn thành hồ sơ chuẩn bị; chưa tạo video.** Chủ đề mới mở rộng ngoài kinh dị; những mặc định sản xuất cũ bên dưới không thay thế brief Muse hiện tại.
+
 Quy trình sản xuất video minh họa kể chuyện, kế thừa cách làm đã được người dùng chấp nhận ở dự án [YTB-ng-i-que](https://github.com/tai23082004l02-svg/YTB-ng-i-que). Có thể áp dụng cho kinh dị, bí ẩn, lịch sử, khoa học hoặc thể loại khác; không mặc định mọi video phải mang thương hiệu The Long Wonder.
 
 ## Bắt đầu với chatbot mới

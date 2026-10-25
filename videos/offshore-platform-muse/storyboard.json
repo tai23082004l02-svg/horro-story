@@ -1,0 +1,426 @@
+{
+  "status": "planned_not_generated",
+  "timing_basis": "Record narration first; no fabricated timestamps.",
+  "shots": [
+    {
+      "shot_id": "01",
+      "sequence": 1,
+      "sequence_title": "The ocean hides the answer",
+      "visual": "Open immediately on a low waterline view of a complete offshore platform; realistic waves cross the foreground.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "02",
+      "sequence": 1,
+      "sequence_title": "The ocean hides the answer",
+      "visual": "Cut to a high aerial revealing the platform isolated offshore; no coastline in frame.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "03",
+      "sequence": 1,
+      "sequence_title": "The ocean hides the answer",
+      "visual": "Show a heavy-lift vessel holding a separate deck module on taut rigging in calm installation weather.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "04",
+      "sequence": 1,
+      "sequence_title": "The ocean hides the answer",
+      "visual": "Show the complete platform from below the surface, with the jacket extending to the seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "05",
+      "sequence": 1,
+      "sequence_title": "The ocean hides the answer",
+      "visual": "Use a clean schematic cutaway to reveal deck, steel jacket and pile foundations together.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "06",
+      "sequence": 2,
+      "sequence_title": "Choose the right kind of platform",
+      "visual": "Schematic side view of our fixed jacket, deck held above the sea, piles extending below the seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "07",
+      "sequence": 2,
+      "sequence_title": "Choose the right kind of platform",
+      "visual": "Cut to a separate, clearly different semi-submersible floating platform with submerged pontoons and mooring lines.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "08",
+      "sequence": 2,
+      "sequence_title": "Choose the right kind of platform",
+      "visual": "Return to the fixed platform and highlight its continuous structural connection to the seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "09",
+      "sequence": 2,
+      "sequence_title": "Choose the right kind of platform",
+      "visual": "Close schematic view of tubular diagonal braces and the four main jacket legs.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "10",
+      "sequence": 2,
+      "sequence_title": "Choose the right kind of platform",
+      "visual": "Zoomed schematic cross-section of a pile passing through a jacket-leg guide into sediment.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "11",
+      "sequence": 3,
+      "sequence_title": "Build where the ground stays still",
+      "visual": "Wide coastal fabrication yard; show our same jacket and separate deck modules on supports.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "12",
+      "sequence": 3,
+      "sequence_title": "Build where the ground stays still",
+      "visual": "Detail of tubular members being aligned in the yard; welding screens and appropriate worker protection.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "13",
+      "sequence": 3,
+      "sequence_title": "Build where the ground stays still",
+      "visual": "Wide side view showing the same recognizable four-legged jacket bracing pattern.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "14",
+      "sequence": 3,
+      "sequence_title": "Build where the ground stays still",
+      "visual": "Show separate topside modules: process equipment and accommodation, not a completed platform on land.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "15",
+      "sequence": 3,
+      "sequence_title": "Build where the ground stays still",
+      "visual": "High view of transport barge beside the quay awaiting its secured cargo.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "16",
+      "sequence": 4,
+      "sequence_title": "Turn the construction site into a voyage",
+      "visual": "Jacket secured horizontally on a transport barge; realistic support stools and sea-fastening.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "17",
+      "sequence": 4,
+      "sequence_title": "Turn the construction site into a voyage",
+      "visual": "Close view of secured transport supports, not loose steel balanced on deck.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "18",
+      "sequence": 4,
+      "sequence_title": "Turn the construction site into a voyage",
+      "visual": "Tug towing the transport barge in moderate, manageable seas.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "19",
+      "sequence": 4,
+      "sequence_title": "Turn the construction site into a voyage",
+      "visual": "Show the separate topside module aboard its transport barge; preserve module shape and color.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "20",
+      "sequence": 4,
+      "sequence_title": "Turn the construction site into a voyage",
+      "visual": "Crane-vessel bridge with crew reviewing a generic weather display; no fabricated numerical readings.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "21",
+      "sequence": 5,
+      "sequence_title": "Place the steel skeleton",
+      "visual": "Wide calm-water installation scene: crane vessel adjacent to jacket transport barge.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "22",
+      "sequence": 5,
+      "sequence_title": "Place the steel skeleton",
+      "visual": "Engineered multi-point rigging supports the jacket clear of the barge; nobody under the load.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "23",
+      "sequence": 5,
+      "sequence_title": "Place the steel skeleton",
+      "visual": "Simplified explanatory animation of a controlled jacket reorientation; keep all rigging attached.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "24",
+      "sequence": 5,
+      "sequence_title": "Place the steel skeleton",
+      "visual": "Underwater view as the upright jacket descends slowly toward the seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "25",
+      "sequence": 5,
+      "sequence_title": "Place the steel skeleton",
+      "visual": "Show the jacket seated upright, with crane still controlling the load before foundation completion.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "26",
+      "sequence": 6,
+      "sequence_title": "Connect it to the ground",
+      "visual": "Detailed schematic showing a long tubular pile aligned with a jacket-leg guide.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "27",
+      "sequence": 6,
+      "sequence_title": "Connect it to the ground",
+      "visual": "Show a simplified pile-driving hammer working on the pile above water, with personnel clear.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "28",
+      "sequence": 6,
+      "sequence_title": "Connect it to the ground",
+      "visual": "Cutaway of the pile extending into sediment; steel remains straight and continuous.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "29",
+      "sequence": 6,
+      "sequence_title": "Connect it to the ground",
+      "visual": "Highlight load transfer through jacket, pile and soil using subtle arrows added in editing.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "30",
+      "sequence": 6,
+      "sequence_title": "Connect it to the ground",
+      "visual": "Wide underwater view of the installed four-legged jacket; pile embedment visible only in a schematic cutaway.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "31",
+      "sequence": 7,
+      "sequence_title": "Lift the building onto its foundation",
+      "visual": "Transport barge with the separate process-deck module beside the installed jacket.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "32",
+      "sequence": 7,
+      "sequence_title": "Lift the building onto its foundation",
+      "visual": "Crane raises that same module on taut engineered rigging in calm weather.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "33",
+      "sequence": 7,
+      "sequence_title": "Lift the building onto its foundation",
+      "visual": "Close telephoto view of module underside approaching matching support points; slow controlled motion.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "34",
+      "sequence": 7,
+      "sequence_title": "Lift the building onto its foundation",
+      "visual": "Module seated on the jacket; follow with an editorial cut to the completed upper deck assembly.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "35",
+      "sequence": 7,
+      "sequence_title": "Lift the building onto its foundation",
+      "visual": "Crew checking connections and control equipment after installation, with normal PPE and safe access.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "36",
+      "sequence": 8,
+      "sequence_title": "The sea sets the conditions",
+      "visual": "Complete platform in a broad side view; fixed jacket remains rooted in the seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "37",
+      "sequence": 8,
+      "sequence_title": "The sea sets the conditions",
+      "visual": "Schematic wind and wave forces applied to the structure; no exaggerated bending or collapse.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "38",
+      "sequence": 8,
+      "sequence_title": "The sea sets the conditions",
+      "visual": "Show ordinary wave action around the braces without water reaching the accommodation deck.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "39",
+      "sequence": 8,
+      "sequence_title": "The sea sets the conditions",
+      "visual": "Inspector checking a visible structural connection from a protected walkway.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "40",
+      "sequence": 8,
+      "sequence_title": "The sea sets the conditions",
+      "visual": "Empty exterior view under rougher weather; no suspended lift, no helicopter, no dramatic rogue wave.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "41",
+      "sequence": 9,
+      "sequence_title": "A workplace above the water",
+      "visual": "Wide complete platform emphasizing distinct accommodation block and process area.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "42",
+      "sequence": 9,
+      "sequence_title": "A workplace above the water",
+      "visual": "Small generic accommodation cabin, clean and functional, no hotel luxury or ocean-floor windows.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "43",
+      "sequence": 9,
+      "sequence_title": "A workplace above the water",
+      "visual": "Crew walking along a guarded, unobstructed marked access route in routine conditions.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "44",
+      "sequence": 9,
+      "sequence_title": "A workplace above the water",
+      "visual": "Control-room operators viewing generic equipment-status graphics without readable invented data.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "45",
+      "sequence": 9,
+      "sequence_title": "A workplace above the water",
+      "visual": "Crew assembling calmly at a designated muster point during an illustrative drill.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "46",
+      "sequence": 10,
+      "sequence_title": "What happens when a storm approaches?",
+      "visual": "Weather-planning discussion in control room; forecast is generic and not presented as a real event.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "47",
+      "sequence": 10,
+      "sequence_title": "What happens when a storm approaches?",
+      "visual": "Operator carrying out a generic shutdown checklist; no detailed operational instructions.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "48",
+      "sequence": 10,
+      "sequence_title": "What happens when a storm approaches?",
+      "visual": "Crew boarding a helicopter on the helideck while weather is still clearly suitable.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "49",
+      "sequence": 10,
+      "sequence_title": "What happens when a storm approaches?",
+      "visual": "Helicopter departs in those same suitable conditions; do not cut its landing into a storm.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "50",
+      "sequence": 10,
+      "sequence_title": "What happens when a storm approaches?",
+      "visual": "Closed survival craft in its secured station, then empty platform exterior after evacuation; no live emergency claimed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "51",
+      "sequence": 11,
+      "sequence_title": "Deeper water changes the answer",
+      "visual": "Clean conceptual side view of our fixed jacket on a shelf seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "52",
+      "sequence": 11,
+      "sequence_title": "Deeper water changes the answer",
+      "visual": "Hard cut to a separate deeper-water location and the previously introduced semi-submersible.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "53",
+      "sequence": 11,
+      "sequence_title": "Deeper water changes the answer",
+      "visual": "Schematic reveals its columns and submerged pontoons; clearly floating above a distant seabed.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "54",
+      "sequence": 11,
+      "sequence_title": "Deeper water changes the answer",
+      "visual": "Show curved mooring lines connected to seabed anchors, visibly distinct from rigid jacket legs.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "55",
+      "sequence": 11,
+      "sequence_title": "Deeper water changes the answer",
+      "visual": "Return to our fixed-platform establishing angle; do not morph one design into the other.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "56",
+      "sequence": 12,
+      "sequence_title": "The complete picture",
+      "visual": "Reprise the fabrication yard with the same jacket silhouette.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "57",
+      "sequence": 12,
+      "sequence_title": "The complete picture",
+      "visual": "Brief match cut to the secured transport barge and then the installation site.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "58",
+      "sequence": 12,
+      "sequence_title": "The complete picture",
+      "visual": "Full-height schematic of fixed platform with continuous jacket and embedded piles.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "59",
+      "sequence": 12,
+      "sequence_title": "The complete picture",
+      "visual": "Return to opening waterline composition, now understood with the foundation revealed below.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    },
+    {
+      "shot_id": "60",
+      "sequence": 12,
+      "sequence_title": "The complete picture",
+      "visual": "Final wide sunset view of the complete fixed platform; end naturally without a logo sting or forced twist.",
+      "timing": "Align to actual narration; target ~4 seconds, simple 3\u20134, explanation 5\u20136. No locked timecode."
+    }
+  ]
+}
