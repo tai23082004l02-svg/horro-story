@@ -13,6 +13,7 @@ Quy trình sản xuất video minh họa kể chuyện, kế thừa cách làm �
 
 ## Sản phẩm
 
+- [The Last Voice on Channel Nine — truyện kinh dị hư cấu](videos/channel-nine/README.md): **bản nghe6:15 đã xong**, có kịch bản, SRT và96 cảnh dự kiến; ảnh và MP4 đang bị chặn bởi hạn mức tạo ảnh. Đây chưa phải video minh họa hoàn chỉnh.
 - [Hinterkaifeck — Did Someone Stay?](videos/hinterkaifeck/README.md): video 15 phút 21 giây, 225 hình tĩnh, Kokoro am_michael, 720p/24 fps; có MP4, thumbnail, SRT, nguồn và dự án dựng. [Kết quả kiểm tra](videos/hinterkaifeck/validation-summary.json).
 
 **Phong cách hiện tại:** người dùng tạm bỏ mặc định 2D viền đen/màu phẳng; Hinterkaifeck dùng minh họa bán hiện thực, ánh sáng điện ảnh. Các lựa chọn hình nhiều ô, 720p và không zoom/pan/rung vẫn giữ. Yêu cầu mới của người dùng được ưu tiên.

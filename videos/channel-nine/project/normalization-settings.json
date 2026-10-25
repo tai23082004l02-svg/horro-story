@@ -1,0 +1,69 @@
+{
+  "status": "audio_passed_video_blocked_image_quota",
+  "duration_seconds": 374.75,
+  "first_pass": {
+    "input_i": "-24.87",
+    "input_tp": "-4.52",
+    "input_lra": "2.70",
+    "input_thresh": "-35.49",
+    "output_i": "-16.81",
+    "output_tp": "-4.00",
+    "output_lra": "2.30",
+    "output_thresh": "-27.37",
+    "normalization_type": "dynamic",
+    "target_offset": "0.81"
+  },
+  "two_pass_normalizer": "loudnorm=I=-16:TP=-4:LRA=9:measured_I=-24.87:measured_TP=-4.52:measured_LRA=2.70:measured_thresh=-35.49:offset=0.81:linear=true",
+  "mastering_attempts": [
+    {
+      "gain_db": 0.0,
+      "limiter": null,
+      "filter": "volume=0.000dB",
+      "actual_aac": {
+        "input_i": "-16.36",
+        "input_tp": "-3.63",
+        "input_lra": "2.30",
+        "input_thresh": "-26.95",
+        "output_i": "-16.10",
+        "output_tp": "-4.00",
+        "output_lra": "2.30",
+        "output_thresh": "-26.66",
+        "normalization_type": "dynamic",
+        "target_offset": "0.10"
+      }
+    },
+    {
+      "gain_db": 0.35999999999999943,
+      "limiter": null,
+      "filter": "volume=0.360dB",
+      "actual_aac": {
+        "input_i": "-16.00",
+        "input_tp": "-3.14",
+        "input_lra": "2.40",
+        "input_thresh": "-26.59",
+        "output_i": "-16.10",
+        "output_tp": "-4.00",
+        "output_lra": "2.30",
+        "output_thresh": "-26.66",
+        "normalization_type": "dynamic",
+        "target_offset": "0.10"
+      }
+    }
+  ],
+  "actual_final_aac": {
+    "input_i": "-16.00",
+    "input_tp": "-3.14",
+    "input_lra": "2.40",
+    "input_thresh": "-26.59",
+    "output_i": "-16.10",
+    "output_tp": "-4.00",
+    "output_lra": "2.30",
+    "output_thresh": "-26.66",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "audio_file": "audio-preview.m4a",
+  "video_exists": false,
+  "images_generated": 0,
+  "manual_listening": "not claimed; automated decoding/loudness validation only"
+}

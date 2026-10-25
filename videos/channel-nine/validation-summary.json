@@ -1,0 +1,33 @@
+{
+  "status": "partial_audio_ready_video_blocked",
+  "duration_seconds": 374.75,
+  "audio_decode": "passed",
+  "audio_codec": "aac",
+  "sample_rate": 48000,
+  "channels": 2,
+  "actual_final_aac": {
+    "input_i": "-16.00",
+    "input_tp": "-3.14",
+    "input_lra": "2.40",
+    "input_thresh": "-26.59",
+    "output_i": "-16.10",
+    "output_tp": "-4.00",
+    "output_lra": "2.30",
+    "output_thresh": "-26.66",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "caption_cues": 166,
+  "caption_text_coverage": "all narration words in order",
+  "caption_timing": "Kokoro token times",
+  "planned_shots": 96,
+  "planned_average_shot_seconds": 3.9036458333333335,
+  "image_files_present": 0,
+  "image_files_missing": 96,
+  "missing_image_reason": "image_gen HTTP429 usage_limit_reached",
+  "video_rendered": false,
+  "video_checks": "not run: no new images, no video.mp4",
+  "thumbnail_generated": false,
+  "manual_listening": "not claimed; automated loudness, timing and decode checks",
+  "sha256_audio": "cac8becadb1a3a8687aa5d35a1640d77538b9636d448d6cf21e4e177a300af68"
+}

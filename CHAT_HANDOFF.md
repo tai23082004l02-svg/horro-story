@@ -2,6 +2,12 @@
 
 ## Trạng thái hiện tại
 
+**Tác vụ mới đang dở — Channel Nine:** Người dùng chọn làm video mới theo hướng ảnh nét hơn, kinh dị giải trí; không làm lại Hinterkaifeck. Đã chuẩn bị [The Last Voice on Channel Nine](videos/channel-nine/README.md), truyện hư cấu mới: bản nghe có sound design dài374,750 giây, Kokoro am_michael1.07, AAC48kHz stereo; đo bản AAC thực tế−16,00LUFS/−3,14dBTP, giải mã audio và coverage phụ đề đạt. Có raw voice/mix/bed, script, SRT, story bible,112 prompt ứng viên và96 cảnh được chọn có timing.
+
+**Chặn ngoài môi trường:** image_gen trả HTTP429 usage_limit_reached ngay lần tạo ảnh mới đầu tiên. Công cụ báo reset dự kiến25/10/2026 13:12:11 giờ Việt Nam; phải thử lại sau thay đổi trạng thái thật, không lặp gọi hoặc lách hạn mức. **0/96 ảnh mới, chưa có thumbnail hoặc MP4.** [Báo cáo audio](videos/channel-nine/validation-summary.json) ghi rõ trạng thái partial. [Hướng dẫn tiếp tục](videos/channel-nine/project/README.md) và image-generation.md liệt kê phần còn lại. render_video.py mới chỉ chạy preflight thiếu ảnh; chưa chạy đường dựng/validate_video.py. Không nhận video đã hoàn thành. Không dùng lại ảnh Hinterkaifeck cho truyện này.
+
+Người dùng đang hỏi lựa chọn công cụ tạo nhiều ảnh. Đã kiểm tra tài liệu chính thức: Claude không trực tiếp tạo ảnh minh họa kiểu image-generation; Midjourney Standard/Pro có Relax ảnh không giới hạn số lượng (phải chờ); Gemini Image API có nguồn2K/4K và phù hợp tự động hóa. Chưa có dịch vụ/API tạo ảnh thay thế được kết nối, chưa mua gói hay khai báo credential mới. Không mặc định quyền truy cập/billing cho các dịch vụ này.
+
 Repo: https://github.com/tai23082004l02-svg/horro-story, nhánh bàn giao main. Ngày 25/10/2026, người dùng giao triển khai chủ đề Hinterkaifeck.
 
 Đã sản xuất [Did Someone Stay? The Unsolved Hinterkaifeck Murders](videos/hinterkaifeck/README.md): 920,667 giây (khoảng 15:21), 225 hình khác nhau, trung bình 4,09 giây/cảnh, 298 mục phụ đề, 1280×720/24 fps/H.264/yuv420p/AAC 48 kHz mono. Kokoro am_michael speed 1.07. Bản cuối giải mã toàn bộ không lỗi; AAC đo thực tế −15,99 LUFS / −2,32 dBTP. [Báo cáo](videos/hinterkaifeck/validation-summary.json) có SHA-256 và phạm vi kiểm tra. Nguồn, kịch bản, thumbnail, nội dung đăng và [dự án dựng lại](videos/hinterkaifeck/project/README.md) đều có tệp thật. Không có tác vụ sản xuất còn dở hoặc lỗi kiểm tra bắt buộc còn mở trong bản này; việc đăng YouTube thuộc người dùng.
@@ -19,7 +25,7 @@ Giới hạn: ảnh AI là tái hiện, không phải chân dung hoặc bằng c
 - Hình tĩnh, cắt thẳng, không zoom/pan/rung, không header/tên chương/bộ đếm hoặc dải đen cố định dưới phụ đề.
 - Video dài khoảng 4 giây/cảnh: đơn giản 3–4 giây, giải thích 5–6 giây. Shorts đơn giản 2–3 giây, giải thích 4–5 giây. Không dùng nhịp cũ 4–6 giây làm mặc định mới.
 - Nhiều minh họa khác nhau, đủ người, nhân vật nhất quán, không thay số hình mới bằng crop/zoom.
-- Người dùng từng hỏi ảnh mềm nhưng đã chọn giữ ảnh nhiều ô và 720p. Không tự tạo thử nâng nét, đổi 1080p hoặc 4 cảnh/tấm.
+- Yêu cầu ảnh nét mới ưu tiên ảnh nguồn riêng đủ720p cho Channel Nine, thay cho ô nhỏ phóng lên. Giữ xuất720p, không tự tạo thử nâng nét hoặc đổi1080p. Các tài sản nhiều ô cũ của Hinterkaifeck giữ nguyên.
 - Thể loại mới có thể đổi màu sắc, cảm xúc và cấu trúc kể chuyện. Không mặc định tên kênh The Long Wonder, nhân vật hoặc lịch đăng cũ thuộc repo này.
 - Bàn giao GitHub có link tải thật, không chỉ link cục bộ. Không tự đăng YouTube.
 

@@ -4,6 +4,7 @@ Kế thừa lựa chọn đã chốt từ dự án trước; áp dụng cho repo
 
 ## Nội dung và thể loại
 
+- Yêu cầu mới: ưu tiên video kinh dị giải trí, mở đầu cuốn, không khí căng và có cú trả/cú twist. Có thể sáng tác truyện hư cấu; ghi rõ tính hư cấu. Không biến tình tiết tự sáng tác về người thật/vụ án thật thành khẳng định sự thật.
 - Trao đổi tiếng Việt; sản phẩm mặc định tiếng Anh Mỹ cho khán giả Mỹ.
 - Tự viết kịch bản mới: mở đầu có câu hỏi/tình huống mạnh, diễn tiến có nguyên nhân và kết quả, kết thúc có giá trị. Không chép lời hoặc lấy tài sản của video tham khảo để tái sử dụng khi chưa có quyền.
 - Chất lượng, đủ ý quan trọng hơn thời lượng. Viết dài nếu nội dung xứng đáng; không lặp ý, kéo khoảng trống hoặc làm chậm giọng chỉ để đủ phút. Các mốc thời lượng cũ không phải hạn ngạch cho mọi video.
@@ -18,7 +19,7 @@ Kế thừa lựa chọn đã chốt từ dự án trước; áp dụng cho repo
 - Lập story bible và nhóm hình tham chiếu trước khi tạo hàng loạt: tuổi, tóc, trang phục, vóc dáng, phụ kiện, địa điểm, đạo cụ và quy tắc thế giới. Theo dõi tuổi tác/thời gian; không để một nhân vật sống qua nhiều thế hệ ngoài ý kịch bản.
 - Cảnh nhiều người phải đủ người theo lời kể, phân biệt ngoại hình, tư thế và vai trò. Không mặc định mọi cảnh chỉ có một nhân vật.
 - Xen cảnh toàn, tương tác nhóm, cận mặt, đồ vật, môi trường và hình giải thích. Mỗi hình phục vụ một ý cụ thể.
-- Giữ cách tạo ảnh nhiều ô và xuất 720p đã được chọn. Bộ 4×4 là mẫu gần đây, không bắt buộc cho mọi trường hợp. Không tự đổi thành 4 cảnh/tấm, 1080p hoặc tạo bản thử nâng nét khi chưa có yêu cầu mới. Không gọi ảnh nguồn nhỏ được phóng lớn là ảnh gốc độ phân giải cao.
+- Người dùng đã yêu cầu ảnh nét hơn: với Channel Nine, mỗi cảnh dùng một ảnh nguồn riêng đủ ít nhất1280×720, rồi xuất720p; không phóng ô nhỏ4×4. Ảnh nhiều ô chỉ phù hợp khi từng ô thực sự đủ độ phân giải cần dùng. Không tự đổi sang1080p hoặc làm thử nâng nét. Không gọi ảnh nguồn nhỏ phóng lớn là ảnh gốc độ phân giải cao.
 - Kiểm tra ranh giới thực tế của từng tấm nhiều ô; AI có thể chia hàng/cột lệch. Bỏ đường phân ô, giữ tỷ lệ, không cắt mất người/đạo cụ quan trọng hoặc méo hình. Lưu crop thực tế và danh sách ô bị loại.
 - Rà lỗi nội dung, giải phẫu, niên đại, ký hiệu, sơ đồ và tính nhất quán; ảnh AI không phải bằng chứng. Không đưa lại ô đã loại chỉ vì nó còn trong tấm nguồn.
 

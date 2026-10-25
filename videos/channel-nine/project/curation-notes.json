@@ -1,0 +1,6 @@
+{
+  "status": "not_started_no_images",
+  "accepted_ids": [],
+  "rejected_ids": [],
+  "reason": "First image generation failed with usage_limit_reached; zero images available for review"
+}

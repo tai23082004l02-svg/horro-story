@@ -6,6 +6,6 @@ Trao đổi bằng tiếng Việt; mặc định sản phẩm cho khán giả M�
 
 Giữ hình đứng yên, không zoom/pan/rung/Ken Burns; không thanh tiêu đề, tên chương hoặc bộ đếm trên khung video. Video dài trung bình khoảng 4 giây/cảnh, cảnh đơn giản 3–4 giây, cảnh giải thích 5–6 giây. Shorts đơn giản 2–3 giây, giải thích 4–5 giây. Cắt theo ý lời kể, không ép mọi cảnh bằng nhau.
 
-Dùng Kokoro tiếng Anh Mỹ, mặc định am_michael; hình nhiều ô và xuất 720p đã được người dùng chọn. Không tự nâng lên 1080p hoặc tạo thử nâng nét. Phong cách nội dung/màu sắc có thể thích nghi với thể loại; không tự mang tên kênh cũ vào repo mới.
+Dùng Kokoro tiếng Anh Mỹ, mặc định am_michael, xuất 720p. Theo yêu cầu mới về ảnh nét hơn, dự án Channel Nine ưu tiên mỗi cảnh một ảnh nguồn đủ lớn, thay cho ô nhỏ phóng lên; xem VIDEO_GUIDELINES.md. Không tự nâng lên 1080p hoặc tạo thử nâng nét. Phong cách nội dung/màu sắc có thể thích nghi với thể loại; không tự mang tên kênh cũ vào repo mới.
 
 Bàn giao bằng GitHub, kiểm tra tệp và liên kết thật. Không tự đăng/lên lịch video hoặc gửi bình luận lên YouTube. Không coi hướng dẫn là bằng chứng đã hoàn thành sản phẩm.

@@ -1,0 +1,62 @@
+{
+  "title": "The Last Voice on Channel Nine",
+  "type": "Original fictional horror for entertainment",
+  "narration_language": "American English",
+  "voice": "Kokoro am_michael speed1.07",
+  "setting": {
+    "station": "Blackpine Relay, raised wooden building on steep pine ridge, rainy midnight",
+    "floorplan": "front porch/entrance -> main radio desk room with downhill window -> narrow rear hallway/cabinet -> rear exit/car; outside window is ten feet above downhill ground",
+    "home": "Lena house: open front door, warm hall telephone, dark stairs to upstairs bedroom"
+  },
+  "characters": {
+    "Daniel": "32, olive skin, short wavy dark hair, stubble, brown canvas field jacket/charcoal hoodie, left palm scar; first-person narrator",
+    "Lena": "adult29 sister, curly dark hair, blue sleep shirt, at home throughout",
+    "double": "Daniel appearance, right palm scar, wrong closed smile; not an unrelated masked killer"
+  },
+  "rules": [
+    "A voice connection lets the presence move toward the answered endpoint.",
+    "The entity learns/repeats voices; supposed four-minute future may be manipulation rather than a trustworthy prophecy.",
+    "Daniel first identifies himself during normal radio check, giving a reason the station knows his name and voice.",
+    "The landline connection to Lena is opened in section04, before the antenna is disconnected.",
+    "Disconnecting the antenna suppresses station manifestations but does not sever the telephone path.",
+    "Daniel almost calls again from the road but ends the call before answer; this is too late to undo section04.",
+    "The ending pays off the untouched telephone line and the repeated three knocks."
+  ],
+  "clues_and_payoffs": [
+    {
+      "clue": "radio check identifies Daniel",
+      "payoff": "copied voice/name is not unearned knowledge"
+    },
+    {
+      "clue": "four-minute warning and white mug",
+      "payoff": "the warning helps cause the described outcome, making it unreliable"
+    },
+    {
+      "clue": "red key behind battery",
+      "payoff": "opens cabinet with both antenna and telephone junction"
+    },
+    {
+      "clue": "radio speaks Lena words before telephone",
+      "payoff": "shows systems/identities are connected"
+    },
+    {
+      "clue": "scar on wrong hand",
+      "payoff": "double is not Daniel seen outside"
+    },
+    {
+      "clue": "two cables; only antenna disconnected",
+      "payoff": "presence already reached Lena house via earlier answered call"
+    }
+  ],
+  "visual_constraints": [
+    "single image per shot at source>=1280x720",
+    "final1280x72024fps",
+    "no low-resolution grid upsampling",
+    "static images/straight cuts",
+    "no title bars/counters or camera motion",
+    "Clock in opening reads12:13; later mug scene reads12:17, or hide unreadable dial rather than render contradictory time.",
+    "Broken mug has three main pieces; double right palm scar must not become narrator left palm scar."
+  ],
+  "scope": "112 candidate concepts;96 selected audio-timed shots; no new image generated",
+  "safety_of_representation": "All characters adult fiction; no real victim/suspect portrayed; no gore"
+}

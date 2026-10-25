@@ -1,0 +1,88 @@
+{
+  "seed": 197309,
+  "provenance": "original procedural noise, oscillators, and synthetic-voice processing",
+  "cues": [
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Whatever happens don't let her answer",
+      "chapter": "01",
+      "start": 43.855000000000004,
+      "end": 46.230000000000004
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "You just made it easier",
+      "chapter": "02",
+      "start": 70.23,
+      "end": 71.605
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "You should have picked up",
+      "chapter": "03",
+      "start": 95.26,
+      "end": 96.16000000000001
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Don't touch the antenna",
+      "chapter": "05",
+      "start": 198.41999999999996,
+      "end": 199.56999999999996
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "I'm trying to help you",
+      "chapter": "05",
+      "start": 199.56999999999996,
+      "end": 200.61999999999998
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Look at me",
+      "chapter": "05",
+      "start": 211.46999999999997,
+      "end": 212.19499999999996
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Cut the power",
+      "chapter": "06",
+      "start": 245.52499999999995,
+      "end": 246.34999999999994
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Please Daniel Pick up",
+      "chapter": "06",
+      "start": 262.4549999999999,
+      "end": 263.97999999999996
+    },
+    {
+      "kind": "radio_voice_bandpass",
+      "phrase": "Lena Who are you talking to",
+      "chapter": "08",
+      "start": 345.71,
+      "end": 347.51
+    },
+    {
+      "kind": "three_soft_knocks",
+      "start": 12.225,
+      "spacing_seconds": 0.43
+    },
+    {
+      "kind": "window_tap",
+      "start": 131.69
+    },
+    {
+      "kind": "ending_three_knocks",
+      "start": 373.67,
+      "spacing_seconds": 0.31
+    },
+    {
+      "kind": "original_synth_phone_ring",
+      "start": 352.42249999999996
+    }
+  ],
+  "duration": 374.75
+}
