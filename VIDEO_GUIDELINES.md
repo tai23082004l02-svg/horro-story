@@ -13,7 +13,8 @@ Kế thừa lựa chọn đã chốt từ dự án trước; áp dụng cho repo
 
 ## Hình ảnh
 
-- Mẫu mặc định: minh họa 2D vẽ tay, viền đen, màu phẳng, bố cục dễ hiểu. Có thể dùng bảng màu tối và ánh sáng tương phản cho kinh dị, nhưng chủ thể và phụ đề vẫn phải rõ trên điện thoại.
+- **Cập nhật theo yêu cầu hiện tại của người dùng (25/10/2026): tạm bỏ mặc định 2D vẽ tay, viền đen, màu phẳng bên dưới.** Video Hinterkaifeck dùng minh họa bán hiện thực, ánh sáng điện ảnh, màu xanh xám/nâu trầm và điểm sáng vàng, tạo bất an bằng không gian/chi tiết; không cần máu me trực diện. Với vụ án có thật phải phân biệt hình tái hiện với ảnh chứng cứ và không khẳng định ảnh AI là chân dung thật. Các quy tắc nhiều ô, 720p, hình tĩnh và nhịp dựng vẫn giữ. Chỉ khôi phục mặc định cũ khi có yêu cầu mới.
+- Mẫu mặc định cũ (đang tạm ngưng): minh họa 2D vẽ tay, viền đen, màu phẳng, bố cục dễ hiểu. Có thể dùng bảng màu tối và ánh sáng tương phản cho kinh dị, nhưng chủ thể và phụ đề vẫn phải rõ trên điện thoại.
 - Lập story bible và nhóm hình tham chiếu trước khi tạo hàng loạt: tuổi, tóc, trang phục, vóc dáng, phụ kiện, địa điểm, đạo cụ và quy tắc thế giới. Theo dõi tuổi tác/thời gian; không để một nhân vật sống qua nhiều thế hệ ngoài ý kịch bản.
 - Cảnh nhiều người phải đủ người theo lời kể, phân biệt ngoại hình, tư thế và vai trò. Không mặc định mọi cảnh chỉ có một nhân vật.
 - Xen cảnh toàn, tương tác nhóm, cận mặt, đồ vật, môi trường và hình giải thích. Mỗi hình phục vụ một ý cụ thể.

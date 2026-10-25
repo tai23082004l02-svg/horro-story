@@ -1,0 +1,2882 @@
+[
+  {
+    "start": 0.375,
+    "end": 3.3000000000000003,
+    "text": "Imagine arriving at a farm to repair an engine.",
+    "chapter": "01",
+    "lines": [
+      "Imagine arriving at a",
+      "farm to repair an engine."
+    ]
+  },
+  {
+    "start": 3.325,
+    "end": 4.574999999999999,
+    "text": "The doors are closed.",
+    "chapter": "01",
+    "lines": [
+      "The doors are closed."
+    ]
+  },
+  {
+    "start": 4.6,
+    "end": 6.375,
+    "text": "The family does not answer.",
+    "chapter": "01",
+    "lines": [
+      "The family does not answer."
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 9.2875,
+    "text": "You hear cattle, and a dog, but no human voice.",
+    "chapter": "01",
+    "lines": [
+      "You hear cattle, and a",
+      "dog, but no human voice."
+    ]
+  },
+  {
+    "start": 9.3125,
+    "end": 11.2125,
+    "text": "You wait, then get on with your work.",
+    "chapter": "01",
+    "lines": [
+      "You wait, then get on with your work."
+    ]
+  },
+  {
+    "start": 11.2375,
+    "end": 12.4,
+    "text": "Hours pass.",
+    "chapter": "01",
+    "lines": [
+      "Hours pass."
+    ]
+  },
+  {
+    "start": 12.425,
+    "end": 15.3875,
+    "text": "When you leave, you still have not seen a single person.",
+    "chapter": "01",
+    "lines": [
+      "When you leave, you still",
+      "have not seen a single person."
+    ]
+  },
+  {
+    "start": 15.4125,
+    "end": 19.1,
+    "text": "Later that afternoon, neighbors discover six people dead inside the",
+    "chapter": "01",
+    "lines": [
+      "Later that afternoon, neighbors",
+      "discover six people dead inside the"
+    ]
+  },
+  {
+    "start": 19.125,
+    "end": 20.0625,
+    "text": "property.",
+    "chapter": "01",
+    "lines": [
+      "property."
+    ]
+  },
+  {
+    "start": 20.0875,
+    "end": 23.675,
+    "text": "This happened at Hinterkaifeck, in Bavaria, in April of nineteen",
+    "chapter": "01",
+    "lines": [
+      "This happened at Hinterkaifeck,",
+      "in Bavaria, in April of nineteen"
+    ]
+  },
+  {
+    "start": 23.7,
+    "end": 24.625,
+    "text": "twenty-two.",
+    "chapter": "01",
+    "lines": [
+      "twenty-two."
+    ]
+  },
+  {
+    "start": 24.65,
+    "end": 28.3525,
+    "text": "And it leaves a question more unsettling than an empty house.",
+    "chapter": "01",
+    "lines": [
+      "And it leaves a question more",
+      "unsettling than an empty house."
+    ]
+  },
+  {
+    "start": 28.880000000000003,
+    "end": 31.417500000000004,
+    "text": "Was somebody still there while the mechanic worked?",
+    "chapter": "01",
+    "lines": [
+      "Was somebody still there",
+      "while the mechanic worked?"
+    ]
+  },
+  {
+    "start": 31.442500000000003,
+    "end": 35.080000000000005,
+    "text": "Reports of activity after the killings have made this case famous.",
+    "chapter": "01",
+    "lines": [
+      "Reports of activity after the",
+      "killings have made this case famous."
+    ]
+  },
+  {
+    "start": 35.105000000000004,
+    "end": 37.755,
+    "text": "But the evidence is not a camera recording.",
+    "chapter": "01",
+    "lines": [
+      "But the evidence is",
+      "not a camera recording."
+    ]
+  },
+  {
+    "start": 37.78,
+    "end": 41.88,
+    "text": "It is a collection of observations, statements, and later recollections",
+    "chapter": "01",
+    "lines": [
+      "It is a collection of observations,",
+      "statements, and later recollections"
+    ]
+  },
+  {
+    "start": 41.905,
+    "end": 43.9675,
+    "text": ". Some details are strong.",
+    "chapter": "01",
+    "lines": [
+      ". Some details are strong."
+    ]
+  },
+  {
+    "start": 43.9925,
+    "end": 46.755,
+    "text": "Others have become sharper in the telling than they ever were in the",
+    "chapter": "01",
+    "lines": [
+      "Others have become sharper in the",
+      "telling than they ever were in the"
+    ]
+  },
+  {
+    "start": 46.78,
+    "end": 47.7425,
+    "text": "record.",
+    "chapter": "01",
+    "lines": [
+      "record."
+    ]
+  },
+  {
+    "start": 47.7675,
+    "end": 51.4675,
+    "text": "This is the story of six lives, a farm that seemed to keep",
+    "chapter": "01",
+    "lines": [
+      "This is the story of six lives,",
+      "a farm that seemed to keep"
+    ]
+  },
+  {
+    "start": 51.4925,
+    "end": 55.080000000000005,
+    "text": "functioning, and an investigation that never established who was",
+    "chapter": "01",
+    "lines": [
+      "functioning, and an investigation",
+      "that never established who was"
+    ]
+  },
+  {
+    "start": 55.105000000000004,
+    "end": 56.432500000000005,
+    "text": "responsible.",
+    "chapter": "01",
+    "lines": [
+      "responsible."
+    ]
+  },
+  {
+    "start": 56.935,
+    "end": 60.5475,
+    "text": "The images you see are illustrative reconstructions, not",
+    "chapter": "01",
+    "lines": [
+      "The images you see are",
+      "illustrative reconstructions, not"
+    ]
+  },
+  {
+    "start": 60.5725,
+    "end": 62.725,
+    "text": "photographs of the crime scene.",
+    "chapter": "01",
+    "lines": [
+      "photographs of the crime scene."
+    ]
+  },
+  {
+    "start": 63.660000000000004,
+    "end": 67.285,
+    "text": "Hinterkaifeck was a working farm near the small settlement of Groebern,",
+    "chapter": "02",
+    "lines": [
+      "Hinterkaifeck was a working farm near",
+      "the small settlement of Groebern,"
+    ]
+  },
+  {
+    "start": 67.31,
+    "end": 68.485,
+    "text": "north of Munich.",
+    "chapter": "02",
+    "lines": [
+      "north of Munich."
+    ]
+  },
+  {
+    "start": 68.51,
+    "end": 72.2225,
+    "text": "It was apart from its neighbors, but not beyond their sight or hearing.",
+    "chapter": "02",
+    "lines": [
+      "It was apart from its neighbors, but",
+      "not beyond their sight or hearing."
+    ]
+  },
+  {
+    "start": 72.2475,
+    "end": 76.335,
+    "text": "Calling it a house lost in an endless forest creates the wrong picture.",
+    "chapter": "02",
+    "lines": [
+      "Calling it a house lost in an endless",
+      "forest creates the wrong picture."
+    ]
+  },
+  {
+    "start": 76.36,
+    "end": 79.66,
+    "text": "Fields and paths connected it to ordinary village life.",
+    "chapter": "02",
+    "lines": [
+      "Fields and paths connected",
+      "it to ordinary village life."
+    ]
+  },
+  {
+    "start": 79.685,
+    "end": 83.285,
+    "text": "The older couple were Andreas Gruber, sixty-three, and his wife,",
+    "chapter": "02",
+    "lines": [
+      "The older couple were Andreas",
+      "Gruber, sixty-three, and his wife,"
+    ]
+  },
+  {
+    "start": 83.31,
+    "end": 85.3975,
+    "text": "Cazilia, seventy-two.",
+    "chapter": "02",
+    "lines": [
+      "Cazilia, seventy-two."
+    ]
+  },
+  {
+    "start": 85.4225,
+    "end": 88.735,
+    "text": "Their daughter, Viktoria Gabriel, was thirty-five.",
+    "chapter": "02",
+    "lines": [
+      "Their daughter, Viktoria",
+      "Gabriel, was thirty-five."
+    ]
+  },
+  {
+    "start": 88.76,
+    "end": 92.8375,
+    "text": "Her husband, Karl, had been reported killed in the First World War.",
+    "chapter": "02",
+    "lines": [
+      "Her husband, Karl, had been reported",
+      "killed in the First World War."
+    ]
+  },
+  {
+    "start": 93.39,
+    "end": 97.38999999999999,
+    "text": "Viktoria had two children: seven-year-old Cazilia, often",
+    "chapter": "02",
+    "lines": [
+      "Viktoria had two children:",
+      "seven-year-old Cazilia, often"
+    ]
+  },
+  {
+    "start": 97.41499999999999,
+    "end": 100.065,
+    "text": "called Cilli, and two-year-old Josef.",
+    "chapter": "02",
+    "lines": [
+      "called Cilli, and two-year-old Josef."
+    ]
+  },
+  {
+    "start": 100.09,
+    "end": 103.34,
+    "text": "On March thirty-first, a new employee arrived.",
+    "chapter": "02",
+    "lines": [
+      "On March thirty-first,",
+      "a new employee arrived."
+    ]
+  },
+  {
+    "start": 103.36500000000001,
+    "end": 105.88999999999999,
+    "text": "Maria Baumgartner was forty-five.",
+    "chapter": "02",
+    "lines": [
+      "Maria Baumgartner was forty-five."
+    ]
+  },
+  {
+    "start": 105.91499999999999,
+    "end": 109.09,
+    "text": "Her sister accompanied her to the farm and then left.",
+    "chapter": "02",
+    "lines": [
+      "Her sister accompanied her",
+      "to the farm and then left."
+    ]
+  },
+  {
+    "start": 109.11500000000001,
+    "end": 111.3025,
+    "text": "Maria had come to begin a job.",
+    "chapter": "02",
+    "lines": [
+      "Maria had come to begin a job."
+    ]
+  },
+  {
+    "start": 111.3275,
+    "end": 113.72749999999999,
+    "text": "She would not survive her first night there.",
+    "chapter": "02",
+    "lines": [
+      "She would not survive",
+      "her first night there."
+    ]
+  },
+  {
+    "start": 113.7525,
+    "end": 117.9675,
+    "text": "These people are often reduced to a list at the beginning of a mystery.",
+    "chapter": "02",
+    "lines": [
+      "These people are often reduced to a",
+      "list at the beginning of a mystery."
+    ]
+  },
+  {
+    "start": 118.445,
+    "end": 121.8825,
+    "text": "But their daily lives explain why absences would eventually",
+    "chapter": "02",
+    "lines": [
+      "But their daily lives explain",
+      "why absences would eventually"
+    ]
+  },
+  {
+    "start": 121.9075,
+    "end": 126.04499999999999,
+    "text": "matter: a child missing school, a family missing worship",
+    "chapter": "02",
+    "lines": [
+      "matter: a child missing school,",
+      "a family missing worship"
+    ]
+  },
+  {
+    "start": 126.07,
+    "end": 128.7325,
+    "text": ", work left without an owner to answer.",
+    "chapter": "02",
+    "lines": [
+      ", work left without an owner to answer."
+    ]
+  },
+  {
+    "start": 128.7575,
+    "end": 131.1575,
+    "text": "Six different lives were interrupted.",
+    "chapter": "02",
+    "lines": [
+      "Six different lives were interrupted."
+    ]
+  },
+  {
+    "start": 131.1825,
+    "end": 134.7575,
+    "text": "The youngest two could not possibly have understood the adult conflicts",
+    "chapter": "02",
+    "lines": [
+      "The youngest two could not possibly",
+      "have understood the adult conflicts"
+    ]
+  },
+  {
+    "start": 134.7825,
+    "end": 137.38500000000002,
+    "text": "later used to explain their deaths.",
+    "chapter": "02",
+    "lines": [
+      "later used to explain their deaths."
+    ]
+  },
+  {
+    "start": 138.31999999999996,
+    "end": 141.83249999999998,
+    "text": "Before the murders, there were reports of disturbing incidents.",
+    "chapter": "03",
+    "lines": [
+      "Before the murders, there were",
+      "reports of disturbing incidents."
+    ]
+  },
+  {
+    "start": 141.8575,
+    "end": 145.40749999999997,
+    "text": "Neighbors said Andreas had described a damaged lock and tracks in the",
+    "chapter": "03",
+    "lines": [
+      "Neighbors said Andreas had described",
+      "a damaged lock and tracks in the"
+    ]
+  },
+  {
+    "start": 145.43249999999998,
+    "end": 149.23249999999996,
+    "text": "snow leading toward the farm, without a matching trail away.",
+    "chapter": "03",
+    "lines": [
+      "snow leading toward the farm,",
+      "without a matching trail away."
+    ]
+  },
+  {
+    "start": 149.25749999999996,
+    "end": 152.76999999999998,
+    "text": "Other accounts mention an unfamiliar newspaper and noises in the roof",
+    "chapter": "03",
+    "lines": [
+      "Other accounts mention an unfamiliar",
+      "newspaper and noises in the roof"
+    ]
+  },
+  {
+    "start": 152.795,
+    "end": 156.96999999999997,
+    "text": "space. A former servant was said to have believed the place was haunted.",
+    "chapter": "03",
+    "lines": [
+      "space. A former servant was said to",
+      "have believed the place was haunted."
+    ]
+  },
+  {
+    "start": 156.99499999999998,
+    "end": 160.81999999999996,
+    "text": "It is easy to combine these into a perfect sequence: a stranger",
+    "chapter": "03",
+    "lines": [
+      "It is easy to combine these into",
+      "a perfect sequence: a stranger"
+    ]
+  },
+  {
+    "start": 160.84499999999997,
+    "end": 163.90749999999997,
+    "text": "arrives, hides upstairs, and waits.",
+    "chapter": "03",
+    "lines": [
+      "arrives, hides upstairs, and waits."
+    ]
+  },
+  {
+    "start": 163.93249999999998,
+    "end": 168.12249999999997,
+    "text": "The surviving material does not let us watch that sequence happen.",
+    "chapter": "03",
+    "lines": [
+      "The surviving material does not",
+      "let us watch that sequence happen."
+    ]
+  },
+  {
+    "start": 168.64999999999998,
+    "end": 171.88749999999996,
+    "text": "The research chronology distinguishes contemporary statements from",
+    "chapter": "03",
+    "lines": [
+      "The research chronology distinguishes",
+      "contemporary statements from"
+    ]
+  },
+  {
+    "start": 171.91249999999997,
+    "end": 174.19999999999996,
+    "text": "stories recorded years afterward.",
+    "chapter": "03",
+    "lines": [
+      "stories recorded years afterward."
+    ]
+  },
+  {
+    "start": 174.22499999999997,
+    "end": 177.88749999999996,
+    "text": "Some descriptions of the attic noises, for example, survive through",
+    "chapter": "03",
+    "lines": [
+      "Some descriptions of the attic",
+      "noises, for example, survive through"
+    ]
+  },
+  {
+    "start": 177.91249999999997,
+    "end": 181.41249999999997,
+    "text": "secondhand accounts given long after nineteen twenty-two.",
+    "chapter": "03",
+    "lines": [
+      "secondhand accounts given long",
+      "after nineteen twenty-two."
+    ]
+  },
+  {
+    "start": 181.43749999999997,
+    "end": 185.13749999999996,
+    "text": "Even a genuine track in snow cannot identify a person,",
+    "chapter": "03",
+    "lines": [
+      "Even a genuine track in snow",
+      "cannot identify a person,"
+    ]
+  },
+  {
+    "start": 185.16249999999997,
+    "end": 189.24999999999997,
+    "text": "establish how long they stayed, or explain another route out",
+    "chapter": "03",
+    "lines": [
+      "establish how long they stayed,",
+      "or explain another route out"
+    ]
+  },
+  {
+    "start": 189.27499999999998,
+    "end": 192.01249999999996,
+    "text": ". A noise has many possible causes.",
+    "chapter": "03",
+    "lines": [
+      ". A noise has many possible causes."
+    ]
+  },
+  {
+    "start": 192.03749999999997,
+    "end": 194.47499999999997,
+    "text": "That does not make the witnesses liars.",
+    "chapter": "03",
+    "lines": [
+      "That does not make the witnesses liars."
+    ]
+  },
+  {
+    "start": 194.49999999999997,
+    "end": 197.65249999999997,
+    "text": "It means the uncertainty belongs in the story.",
+    "chapter": "03",
+    "lines": [
+      "It means the uncertainty",
+      "belongs in the story."
+    ]
+  },
+  {
+    "start": 198.22999999999996,
+    "end": 201.52999999999997,
+    "text": "Andreas appears to have been concerned about interference at his",
+    "chapter": "03",
+    "lines": [
+      "Andreas appears to have been",
+      "concerned about interference at his"
+    ]
+  },
+  {
+    "start": 201.55499999999998,
+    "end": 202.59249999999997,
+    "text": "property.",
+    "chapter": "03",
+    "lines": [
+      "property."
+    ]
+  },
+  {
+    "start": 202.61749999999998,
+    "end": 206.76749999999996,
+    "text": "Whether all the famous warning signs came from the same intruder remains",
+    "chapter": "03",
+    "lines": [
+      "Whether all the famous warning signs",
+      "came from the same intruder remains"
+    ]
+  },
+  {
+    "start": 206.79249999999996,
+    "end": 207.89249999999996,
+    "text": "unknown.",
+    "chapter": "03",
+    "lines": [
+      "unknown."
+    ]
+  },
+  {
+    "start": 207.91749999999996,
+    "end": 211.98,
+    "text": "The attic becomes frightening precisely because we cannot say who",
+    "chapter": "03",
+    "lines": [
+      "The attic becomes frightening",
+      "precisely because we cannot say who"
+    ]
+  },
+  {
+    "start": 212.005,
+    "end": 214.345,
+    "text": ", if anyone, occupied it.",
+    "chapter": "03",
+    "lines": [
+      ", if anyone, occupied it."
+    ]
+  },
+  {
+    "start": 215.30499999999995,
+    "end": 218.51749999999996,
+    "text": "The killings are generally placed on the evening of Friday, March",
+    "chapter": "04",
+    "lines": [
+      "The killings are generally placed",
+      "on the evening of Friday, March"
+    ]
+  },
+  {
+    "start": 218.54249999999996,
+    "end": 219.66749999999996,
+    "text": "thirty-first.",
+    "chapter": "04",
+    "lines": [
+      "thirty-first."
+    ]
+  },
+  {
+    "start": 219.69249999999997,
+    "end": 223.25499999999994,
+    "text": "Investigators reconstructed an attack in the barn area and attacks",
+    "chapter": "04",
+    "lines": [
+      "Investigators reconstructed an",
+      "attack in the barn area and attacks"
+    ]
+  },
+  {
+    "start": 223.27999999999994,
+    "end": 225.07999999999996,
+    "text": "inside the living quarters.",
+    "chapter": "04",
+    "lines": [
+      "inside the living quarters."
+    ]
+  },
+  {
+    "start": 225.10499999999996,
+    "end": 228.65499999999994,
+    "text": "Andreas, his wife, Viktoria, and Cilli were found in the",
+    "chapter": "04",
+    "lines": [
+      "Andreas, his wife, Viktoria,",
+      "and Cilli were found in the"
+    ]
+  },
+  {
+    "start": 228.67999999999995,
+    "end": 231.57999999999996,
+    "text": "barn. Maria was found in her room.",
+    "chapter": "04",
+    "lines": [
+      "barn. Maria was found in her room."
+    ]
+  },
+  {
+    "start": 231.60499999999996,
+    "end": 234.66749999999996,
+    "text": "Josef was found in his carriage inside the house.",
+    "chapter": "04",
+    "lines": [
+      "Josef was found in his",
+      "carriage inside the house."
+    ]
+  },
+  {
+    "start": 234.69249999999997,
+    "end": 237.30499999999995,
+    "text": "All six had suffered fatal violence.",
+    "chapter": "04",
+    "lines": [
+      "All six had suffered fatal violence."
+    ]
+  },
+  {
+    "start": 237.32999999999996,
+    "end": 240.35749999999996,
+    "text": "We do not need to show it to understand the loss.",
+    "chapter": "04",
+    "lines": [
+      "We do not need to show it",
+      "to understand the loss."
+    ]
+  },
+  {
+    "start": 240.88499999999996,
+    "end": 244.44749999999996,
+    "text": "A commonly repeated reconstruction has members of the family drawn into",
+    "chapter": "04",
+    "lines": [
+      "A commonly repeated reconstruction",
+      "has members of the family drawn into"
+    ]
+  },
+  {
+    "start": 244.47249999999997,
+    "end": 246.23499999999996,
+    "text": "the barn one after another.",
+    "chapter": "04",
+    "lines": [
+      "the barn one after another."
+    ]
+  },
+  {
+    "start": 246.25999999999996,
+    "end": 248.85999999999996,
+    "text": "But no survivor described that sequence.",
+    "chapter": "04",
+    "lines": [
+      "But no survivor described that sequence."
+    ]
+  },
+  {
+    "start": 248.88499999999996,
+    "end": 252.55999999999995,
+    "text": "The precise order, the reason they entered, and the number of attackers",
+    "chapter": "04",
+    "lines": [
+      "The precise order, the reason they",
+      "entered, and the number of attackers"
+    ]
+  },
+  {
+    "start": 252.58499999999995,
+    "end": 254.85999999999996,
+    "text": "were not established by an eyewitness.",
+    "chapter": "04",
+    "lines": [
+      "were not established by an eyewitness."
+    ]
+  },
+  {
+    "start": 254.88499999999996,
+    "end": 258.79749999999996,
+    "text": "The connected buildings mattered: the barn, stable, and living rooms",
+    "chapter": "04",
+    "lines": [
+      "The connected buildings mattered:",
+      "the barn, stable, and living rooms"
+    ]
+  },
+  {
+    "start": 258.82249999999993,
+    "end": 260.80999999999995,
+    "text": "formed a route through the property.",
+    "chapter": "04",
+    "lines": [
+      "formed a route through the property."
+    ]
+  },
+  {
+    "start": 260.8349999999999,
+    "end": 264.5725,
+    "text": "Someone could move between agricultural spaces and the house.",
+    "chapter": "04",
+    "lines": [
+      "Someone could move between",
+      "agricultural spaces and the house."
+    ]
+  },
+  {
+    "start": 264.59749999999997,
+    "end": 267.97249999999997,
+    "text": "That is a fact about the building, not proof that its layout was",
+    "chapter": "04",
+    "lines": [
+      "That is a fact about the building,",
+      "not proof that its layout was"
+    ]
+  },
+  {
+    "start": 267.99749999999995,
+    "end": 269.7374999999999,
+    "text": "familiar to the killer.",
+    "chapter": "04",
+    "lines": [
+      "familiar to the killer."
+    ]
+  },
+  {
+    "start": 270.26499999999993,
+    "end": 273.43999999999994,
+    "text": "As the night ended, the farm remained standing.",
+    "chapter": "04",
+    "lines": [
+      "As the night ended, the",
+      "farm remained standing."
+    ]
+  },
+  {
+    "start": 273.4649999999999,
+    "end": 276.9525,
+    "text": "There was no obvious disaster visible from the road.",
+    "chapter": "04",
+    "lines": [
+      "There was no obvious disaster",
+      "visible from the road."
+    ]
+  },
+  {
+    "start": 276.97749999999996,
+    "end": 280.55249999999995,
+    "text": "To someone passing outside, the difference between a quiet",
+    "chapter": "04",
+    "lines": [
+      "To someone passing outside,",
+      "the difference between a quiet"
+    ]
+  },
+  {
+    "start": 280.57749999999993,
+    "end": 284.4799999999999,
+    "text": "household and a catastrophe could be impossible to see.",
+    "chapter": "04",
+    "lines": [
+      "household and a catastrophe",
+      "could be impossible to see."
+    ]
+  },
+  {
+    "start": 285.44,
+    "end": 289.2775,
+    "text": "On Saturday, visitors came to the property and received no answer.",
+    "chapter": "05",
+    "lines": [
+      "On Saturday, visitors came to the",
+      "property and received no answer."
+    ]
+  },
+  {
+    "start": 289.30249999999995,
+    "end": 291.115,
+    "text": "Cilli did not appear at school.",
+    "chapter": "05",
+    "lines": [
+      "Cilli did not appear at school."
+    ]
+  },
+  {
+    "start": 291.14,
+    "end": 294.0775,
+    "text": "By Sunday, the family was absent from church.",
+    "chapter": "05",
+    "lines": [
+      "By Sunday, the family",
+      "was absent from church."
+    ]
+  },
+  {
+    "start": 294.10249999999996,
+    "end": 297.79,
+    "text": "Each observation was troubling, but each could also seem explainable in",
+    "chapter": "05",
+    "lines": [
+      "Each observation was troubling, but",
+      "each could also seem explainable in"
+    ]
+  },
+  {
+    "start": 297.815,
+    "end": 298.9775,
+    "text": "isolation.",
+    "chapter": "05",
+    "lines": [
+      "isolation."
+    ]
+  },
+  {
+    "start": 299.0025,
+    "end": 302.8775,
+    "text": "A working farm was not a place where every closed door immediately meant",
+    "chapter": "05",
+    "lines": [
+      "A working farm was not a place where",
+      "every closed door immediately meant"
+    ]
+  },
+  {
+    "start": 302.9025,
+    "end": 304.065,
+    "text": "an emergency.",
+    "chapter": "05",
+    "lines": [
+      "an emergency."
+    ]
+  },
+  {
+    "start": 304.09,
+    "end": 307.0025,
+    "text": "There were animals to tend and errands to run.",
+    "chapter": "05",
+    "lines": [
+      "There were animals to",
+      "tend and errands to run."
+    ]
+  },
+  {
+    "start": 307.0275,
+    "end": 310.7025,
+    "text": "People could assume that somebody else had spoken to the household.",
+    "chapter": "05",
+    "lines": [
+      "People could assume that somebody",
+      "else had spoken to the household."
+    ]
+  },
+  {
+    "start": 310.72749999999996,
+    "end": 313.7175,
+    "text": "On Monday, the postman made his delivery.",
+    "chapter": "05",
+    "lines": [
+      "On Monday, the postman made his delivery."
+    ]
+  },
+  {
+    "start": 314.27,
+    "end": 317.8825,
+    "text": "A later statement recalled a detail at the kitchen window: the little",
+    "chapter": "05",
+    "lines": [
+      "A later statement recalled a detail",
+      "at the kitchen window: the little"
+    ]
+  },
+  {
+    "start": 317.90749999999997,
+    "end": 320.82,
+    "text": "carriage he usually noticed was no longer there.",
+    "chapter": "05",
+    "lines": [
+      "carriage he usually noticed",
+      "was no longer there."
+    ]
+  },
+  {
+    "start": 320.84499999999997,
+    "end": 324.645,
+    "text": "It is a haunting memory, but it was recorded decades afterward.",
+    "chapter": "05",
+    "lines": [
+      "It is a haunting memory, but it",
+      "was recorded decades afterward."
+    ]
+  },
+  {
+    "start": 324.66999999999996,
+    "end": 327.9575,
+    "text": "Its date matters when deciding how much weight to give it.",
+    "chapter": "05",
+    "lines": [
+      "Its date matters when deciding",
+      "how much weight to give it."
+    ]
+  },
+  {
+    "start": 327.98249999999996,
+    "end": 332.145,
+    "text": "Other reported signs, including smoke and activity around the farm,",
+    "chapter": "05",
+    "lines": [
+      "Other reported signs, including",
+      "smoke and activity around the farm,"
+    ]
+  },
+  {
+    "start": 332.16999999999996,
+    "end": 335.945,
+    "text": "helped create the impression that ordinary life continued.",
+    "chapter": "05",
+    "lines": [
+      "helped create the impression",
+      "that ordinary life continued."
+    ]
+  },
+  {
+    "start": 335.96999999999997,
+    "end": 339.6075,
+    "text": "None provides a continuous account of what happened inside.",
+    "chapter": "05",
+    "lines": [
+      "None provides a continuous",
+      "account of what happened inside."
+    ]
+  },
+  {
+    "start": 339.6325,
+    "end": 341.57249999999993,
+    "text": "That gap is essential.",
+    "chapter": "05",
+    "lines": [
+      "That gap is essential."
+    ]
+  },
+  {
+    "start": 342.09999999999997,
+    "end": 346.275,
+    "text": "We know the bodies were not discovered until Tuesday, April fourth.",
+    "chapter": "05",
+    "lines": [
+      "We know the bodies were not discovered",
+      "until Tuesday, April fourth."
+    ]
+  },
+  {
+    "start": 346.29999999999995,
+    "end": 349.9875,
+    "text": "We do not know, hour by hour, who entered the property between the",
+    "chapter": "05",
+    "lines": [
+      "We do not know, hour by hour, who",
+      "entered the property between the"
+    ]
+  },
+  {
+    "start": 350.0125,
+    "end": 351.9625,
+    "text": "murders and that discovery.",
+    "chapter": "05",
+    "lines": [
+      "murders and that discovery."
+    ]
+  },
+  {
+    "start": 351.98749999999995,
+    "end": 356.0625,
+    "text": "The delay gave the case its terrible shape: visible buildings,",
+    "chapter": "05",
+    "lines": [
+      "The delay gave the case its",
+      "terrible shape: visible buildings,"
+    ]
+  },
+  {
+    "start": 356.0875,
+    "end": 360.16499999999996,
+    "text": "audible animals, and no one who could answer for the people within.",
+    "chapter": "05",
+    "lines": [
+      "audible animals, and no one who",
+      "could answer for the people within."
+    ]
+  },
+  {
+    "start": 361.09999999999997,
+    "end": 364.5625,
+    "text": "Tuesday brought one of the case's most unsettling witnesses.",
+    "chapter": "06",
+    "lines": [
+      "Tuesday brought one of the",
+      "case's most unsettling witnesses."
+    ]
+  },
+  {
+    "start": 364.5875,
+    "end": 368.7375,
+    "text": "Albert Hofner arrived to repair a small engine used on the farm.",
+    "chapter": "06",
+    "lines": [
+      "Albert Hofner arrived to repair",
+      "a small engine used on the farm."
+    ]
+  },
+  {
+    "start": 368.7625,
+    "end": 371.775,
+    "text": "According to the account preserved in the research chronology, he",
+    "chapter": "06",
+    "lines": [
+      "According to the account preserved",
+      "in the research chronology, he"
+    ]
+  },
+  {
+    "start": 371.79999999999995,
+    "end": 374.725,
+    "text": "arrived in the morning and could not find the residents.",
+    "chapter": "06",
+    "lines": [
+      "arrived in the morning and",
+      "could not find the residents."
+    ]
+  },
+  {
+    "start": 374.75,
+    "end": 377.5625,
+    "text": "He looked around, heard animals, and waited.",
+    "chapter": "06",
+    "lines": [
+      "He looked around, heard",
+      "animals, and waited."
+    ]
+  },
+  {
+    "start": 377.5875,
+    "end": 381.075,
+    "text": "Then he worked in the attached engine shed for several hours.",
+    "chapter": "06",
+    "lines": [
+      "Then he worked in the attached",
+      "engine shed for several hours."
+    ]
+  },
+  {
+    "start": 381.09999999999997,
+    "end": 385.175,
+    "text": "He sang or whistled as he worked, and tested the engine afterward",
+    "chapter": "06",
+    "lines": [
+      "He sang or whistled as he worked,",
+      "and tested the engine afterward"
+    ]
+  },
+  {
+    "start": 385.2,
+    "end": 387.87749999999994,
+    "text": ". Still, no resident came out.",
+    "chapter": "06",
+    "lines": [
+      ". Still, no resident came out."
+    ]
+  },
+  {
+    "start": 388.38,
+    "end": 392.3925,
+    "text": "His account also described the dog and the state of a barn door.",
+    "chapter": "06",
+    "lines": [
+      "His account also described the",
+      "dog and the state of a barn door."
+    ]
+  },
+  {
+    "start": 392.41749999999996,
+    "end": 396.5675,
+    "text": "Details appeared to have changed during his visit: he later saw the dog",
+    "chapter": "06",
+    "lines": [
+      "Details appeared to have changed",
+      "during his visit: he later saw the dog"
+    ]
+  },
+  {
+    "start": 396.5925,
+    "end": 400.1425,
+    "text": "tied outside, and noticed a barn entrance open.",
+    "chapter": "06",
+    "lines": [
+      "tied outside, and noticed",
+      "a barn entrance open."
+    ]
+  },
+  {
+    "start": 400.16749999999996,
+    "end": 404.3175,
+    "text": "The exact comparison depends on his observations and on statements from",
+    "chapter": "06",
+    "lines": [
+      "The exact comparison depends on his",
+      "observations and on statements from"
+    ]
+  },
+  {
+    "start": 404.3425,
+    "end": 406.355,
+    "text": "the people who arrived later.",
+    "chapter": "06",
+    "lines": [
+      "the people who arrived later."
+    ]
+  },
+  {
+    "start": 406.38,
+    "end": 410.38,
+    "text": "If these descriptions are accurate, they suggest another person had",
+    "chapter": "06",
+    "lines": [
+      "If these descriptions are accurate,",
+      "they suggest another person had"
+    ]
+  },
+  {
+    "start": 410.405,
+    "end": 413.28249999999997,
+    "text": "access to the property during that period.",
+    "chapter": "06",
+    "lines": [
+      "access to the property during that period."
+    ]
+  },
+  {
+    "start": 413.81,
+    "end": 417.735,
+    "text": "They do not tell us whether that person was the murderer, an accomplice,",
+    "chapter": "06",
+    "lines": [
+      "They do not tell us whether that",
+      "person was the murderer, an accomplice,"
+    ]
+  },
+  {
+    "start": 417.76,
+    "end": 420.8725,
+    "text": "or somebody whose presence was never explained.",
+    "chapter": "06",
+    "lines": [
+      "or somebody whose presence",
+      "was never explained."
+    ]
+  },
+  {
+    "start": 420.8975,
+    "end": 423.3725,
+    "text": "Imagine the limit of Hofner's view.",
+    "chapter": "06",
+    "lines": [
+      "Imagine the limit of Hofner's view."
+    ]
+  },
+  {
+    "start": 423.3975,
+    "end": 427.21000000000004,
+    "text": "A shed wall, an engine, the sound of his own tools.",
+    "chapter": "06",
+    "lines": [
+      "A shed wall, an engine,",
+      "the sound of his own tools."
+    ]
+  },
+  {
+    "start": 427.235,
+    "end": 430.61,
+    "text": "He could be close to the center of the mystery without seeing it.",
+    "chapter": "06",
+    "lines": [
+      "He could be close to the center",
+      "of the mystery without seeing it."
+    ]
+  },
+  {
+    "start": 430.635,
+    "end": 434.7475,
+    "text": "He eventually left and reported that the repair was done, but nobody",
+    "chapter": "06",
+    "lines": [
+      "He eventually left and reported",
+      "that the repair was done, but nobody"
+    ]
+  },
+  {
+    "start": 434.7725,
+    "end": 436.1499999999999,
+    "text": "had answered him.",
+    "chapter": "06",
+    "lines": [
+      "had answered him."
+    ]
+  },
+  {
+    "start": 437.085,
+    "end": 439.46000000000004,
+    "text": "Concern finally became a search.",
+    "chapter": "07",
+    "lines": [
+      "Concern finally became a search."
+    ]
+  },
+  {
+    "start": 439.485,
+    "end": 443.08500000000004,
+    "text": "Neighbor Lorenz Schlittenbauer went to Hinterkaifeck with Michael Poell",
+    "chapter": "07",
+    "lines": [
+      "Neighbor Lorenz Schlittenbauer went",
+      "to Hinterkaifeck with Michael Poell"
+    ]
+  },
+  {
+    "start": 443.11,
+    "end": 444.535,
+    "text": "and Jakob Sigl.",
+    "chapter": "07",
+    "lines": [
+      "and Jakob Sigl."
+    ]
+  },
+  {
+    "start": 444.56,
+    "end": 448.56,
+    "text": "On April fourth, the men entered the agricultural part of the property",
+    "chapter": "07",
+    "lines": [
+      "On April fourth, the men entered the",
+      "agricultural part of the property"
+    ]
+  },
+  {
+    "start": 448.585,
+    "end": 450.3475,
+    "text": "and found four victims.",
+    "chapter": "07",
+    "lines": [
+      "and found four victims."
+    ]
+  },
+  {
+    "start": 450.3725,
+    "end": 452.66,
+    "text": "The others were found inside the house.",
+    "chapter": "07",
+    "lines": [
+      "The others were found inside the house."
+    ]
+  },
+  {
+    "start": 452.685,
+    "end": 454.4725,
+    "text": "The police were notified.",
+    "chapter": "07",
+    "lines": [
+      "The police were notified."
+    ]
+  },
+  {
+    "start": 454.4975,
+    "end": 458.0725,
+    "text": "Before investigators could preserve the scene, however, people had",
+    "chapter": "07",
+    "lines": [
+      "Before investigators could preserve",
+      "the scene, however, people had"
+    ]
+  },
+  {
+    "start": 458.09749999999997,
+    "end": 459.685,
+    "text": "already moved through it.",
+    "chapter": "07",
+    "lines": [
+      "already moved through it."
+    ]
+  },
+  {
+    "start": 459.71,
+    "end": 462.28749999999997,
+    "text": "Schlittenbauer moved some of the bodies.",
+    "chapter": "07",
+    "lines": [
+      "Schlittenbauer moved some of the bodies."
+    ]
+  },
+  {
+    "start": 462.78999999999996,
+    "end": 466.3275,
+    "text": "His explanation was that he was looking for little Josef, whom he had",
+    "chapter": "07",
+    "lines": [
+      "His explanation was that he was",
+      "looking for little Josef, whom he had"
+    ]
+  },
+  {
+    "start": 466.35249999999996,
+    "end": 470.4775,
+    "text": "acknowledged as his son, and thought the child might still be saved.",
+    "chapter": "07",
+    "lines": [
+      "acknowledged as his son, and thought",
+      "the child might still be saved."
+    ]
+  },
+  {
+    "start": 470.5025,
+    "end": 473.65250000000003,
+    "text": "Other visitors and onlookers added to the disturbance.",
+    "chapter": "07",
+    "lines": [
+      "Other visitors and onlookers",
+      "added to the disturbance."
+    ]
+  },
+  {
+    "start": 473.6775,
+    "end": 476.8275,
+    "text": "These actions would later become part of the suspicion surrounding",
+    "chapter": "07",
+    "lines": [
+      "These actions would later become",
+      "part of the suspicion surrounding"
+    ]
+  },
+  {
+    "start": 476.85249999999996,
+    "end": 477.9775,
+    "text": "Schlittenbauer.",
+    "chapter": "07",
+    "lines": [
+      "Schlittenbauer."
+    ]
+  },
+  {
+    "start": 478.0025,
+    "end": 481.4775,
+    "text": "They also created a practical problem independent of anybody's",
+    "chapter": "07",
+    "lines": [
+      "They also created a practical",
+      "problem independent of anybody's"
+    ]
+  },
+  {
+    "start": 481.5025,
+    "end": 485.315,
+    "text": "guilt: the first documented scene was already an altered",
+    "chapter": "07",
+    "lines": [
+      "guilt: the first documented",
+      "scene was already an altered"
+    ]
+  },
+  {
+    "start": 485.34,
+    "end": 486.2525,
+    "text": "scene.",
+    "chapter": "07",
+    "lines": [
+      "scene."
+    ]
+  },
+  {
+    "start": 486.2775,
+    "end": 490.365,
+    "text": "Investigators had to ask the discoverers to explain and reconstruct what",
+    "chapter": "07",
+    "lines": [
+      "Investigators had to ask the discoverers",
+      "to explain and reconstruct what"
+    ]
+  },
+  {
+    "start": 490.39,
+    "end": 492.24249999999995,
+    "text": "they had originally seen.",
+    "chapter": "07",
+    "lines": [
+      "they had originally seen."
+    ]
+  },
+  {
+    "start": 492.77,
+    "end": 496.595,
+    "text": "A footprint, an open door, or an object out of place could have more",
+    "chapter": "07",
+    "lines": [
+      "A footprint, an open door, or an",
+      "object out of place could have more"
+    ]
+  },
+  {
+    "start": 496.62,
+    "end": 497.9325,
+    "text": "than one author.",
+    "chapter": "07",
+    "lines": [
+      "than one author."
+    ]
+  },
+  {
+    "start": 497.9575,
+    "end": 501.245,
+    "text": "In a modern investigation, access would be controlled",
+    "chapter": "07",
+    "lines": [
+      "In a modern investigation,",
+      "access would be controlled"
+    ]
+  },
+  {
+    "start": 501.27,
+    "end": 502.47,
+    "text": "immediately.",
+    "chapter": "07",
+    "lines": [
+      "immediately."
+    ]
+  },
+  {
+    "start": 502.495,
+    "end": 506.4325,
+    "text": "Here, the urgent human response and the need to preserve evidence",
+    "chapter": "07",
+    "lines": [
+      "Here, the urgent human response",
+      "and the need to preserve evidence"
+    ]
+  },
+  {
+    "start": 506.4575,
+    "end": 507.5075,
+    "text": "collided.",
+    "chapter": "07",
+    "lines": [
+      "collided."
+    ]
+  },
+  {
+    "start": 507.53249999999997,
+    "end": 510.345,
+    "text": "The case had not simply lost four days.",
+    "chapter": "07",
+    "lines": [
+      "The case had not simply lost four days."
+    ]
+  },
+  {
+    "start": 510.37,
+    "end": 513.92,
+    "text": "It had lost some of the distinctions between what the attacker left and",
+    "chapter": "07",
+    "lines": [
+      "It had lost some of the distinctions",
+      "between what the attacker left and"
+    ]
+  },
+  {
+    "start": 513.9449999999999,
+    "end": 515.96,
+    "text": "what everyone else changed.",
+    "chapter": "07",
+    "lines": [
+      "what everyone else changed."
+    ]
+  },
+  {
+    "start": 516.895,
+    "end": 519.77,
+    "text": "The physical evidence did not resolve the mystery.",
+    "chapter": "08",
+    "lines": [
+      "The physical evidence did",
+      "not resolve the mystery."
+    ]
+  },
+  {
+    "start": 519.795,
+    "end": 522.4074999999999,
+    "text": "Money and valuables remained at the property.",
+    "chapter": "08",
+    "lines": [
+      "Money and valuables",
+      "remained at the property."
+    ]
+  },
+  {
+    "start": 522.4324999999999,
+    "end": 526.1075,
+    "text": "That complicated a simple robbery explanation, although it could not",
+    "chapter": "08",
+    "lines": [
+      "That complicated a simple robbery",
+      "explanation, although it could not"
+    ]
+  },
+  {
+    "start": 526.1324999999999,
+    "end": 528.3075,
+    "text": "prove that nothing had been taken.",
+    "chapter": "08",
+    "lines": [
+      "prove that nothing had been taken."
+    ]
+  },
+  {
+    "start": 528.3325,
+    "end": 532.2824999999999,
+    "text": "Leaving some money behind does not reveal a killer's entire motive.",
+    "chapter": "08",
+    "lines": [
+      "Leaving some money behind does not",
+      "reveal a killer's entire motive."
+    ]
+  },
+  {
+    "start": 532.3074999999999,
+    "end": 534.9825,
+    "text": "Nor was the weapon immediately established.",
+    "chapter": "08",
+    "lines": [
+      "Nor was the weapon",
+      "immediately established."
+    ]
+  },
+  {
+    "start": 535.0074999999999,
+    "end": 538.3075,
+    "text": "During the dismantling of the farm the following year, a heavy",
+    "chapter": "08",
+    "lines": [
+      "During the dismantling of the",
+      "farm the following year, a heavy"
+    ]
+  },
+  {
+    "start": 538.3325,
+    "end": 541.795,
+    "text": "agricultural tool was found hidden in the roof space.",
+    "chapter": "08",
+    "lines": [
+      "agricultural tool was found",
+      "hidden in the roof space."
+    ]
+  },
+  {
+    "start": 541.8199999999999,
+    "end": 545.2574999999999,
+    "text": "It was a root-cutting hoe, often described in English as a",
+    "chapter": "08",
+    "lines": [
+      "It was a root-cutting hoe,",
+      "often described in English as a"
+    ]
+  },
+  {
+    "start": 545.2824999999999,
+    "end": 546.3225,
+    "text": "mattock.",
+    "chapter": "08",
+    "lines": [
+      "mattock."
+    ]
+  },
+  {
+    "start": 546.8749999999999,
+    "end": 550.525,
+    "text": "A surviving account of the prosecutor's report described its unusual",
+    "chapter": "08",
+    "lines": [
+      "A surviving account of the prosecutor's",
+      "report described its unusual"
+    ]
+  },
+  {
+    "start": 550.55,
+    "end": 553.5374999999999,
+    "text": "construction, including a projecting screw.",
+    "chapter": "08",
+    "lines": [
+      "construction, including",
+      "a projecting screw."
+    ]
+  },
+  {
+    "start": 553.5624999999999,
+    "end": 556.4499999999999,
+    "text": "Investigators connected the tool to the injuries.",
+    "chapter": "08",
+    "lines": [
+      "Investigators connected",
+      "the tool to the injuries."
+    ]
+  },
+  {
+    "start": 556.4749999999999,
+    "end": 559.8125,
+    "text": "The farm tool mattered because it came from the property and because it",
+    "chapter": "08",
+    "lines": [
+      "The farm tool mattered because it",
+      "came from the property and because it"
+    ]
+  },
+  {
+    "start": 559.8375,
+    "end": 561.1999999999999,
+    "text": "had been concealed.",
+    "chapter": "08",
+    "lines": [
+      "had been concealed."
+    ]
+  },
+  {
+    "start": 561.2249999999999,
+    "end": 563.8,
+    "text": "But it did not arrive with a name attached.",
+    "chapter": "08",
+    "lines": [
+      "But it did not arrive",
+      "with a name attached."
+    ]
+  },
+  {
+    "start": 563.8249999999999,
+    "end": 567.0124999999999,
+    "text": "Someone familiar with the farm might know where to find it.",
+    "chapter": "08",
+    "lines": [
+      "Someone familiar with the farm",
+      "might know where to find it."
+    ]
+  },
+  {
+    "start": 567.0374999999999,
+    "end": 570.4499999999999,
+    "text": "A stranger could also find a tool in a working agricultural",
+    "chapter": "08",
+    "lines": [
+      "A stranger could also find a",
+      "tool in a working agricultural"
+    ]
+  },
+  {
+    "start": 570.4749999999999,
+    "end": 571.3625,
+    "text": "building.",
+    "chapter": "08",
+    "lines": [
+      "building."
+    ]
+  },
+  {
+    "start": 571.3874999999999,
+    "end": 575.55,
+    "text": "Every object invited a story, and more than one story could fit",
+    "chapter": "08",
+    "lines": [
+      "Every object invited a story,",
+      "and more than one story could fit"
+    ]
+  },
+  {
+    "start": 575.5749999999999,
+    "end": 579.655,
+    "text": ". This is why a plausible reconstruction is not the same",
+    "chapter": "08",
+    "lines": [
+      ". This is why a plausible",
+      "reconstruction is not the same"
+    ]
+  },
+  {
+    "start": 579.68,
+    "end": 581.6925,
+    "text": "thing as a solved case.",
+    "chapter": "08",
+    "lines": [
+      "thing as a solved case."
+    ]
+  },
+  {
+    "start": 581.7175,
+    "end": 584.4425,
+    "text": "The tool narrowed part of the mechanism.",
+    "chapter": "08",
+    "lines": [
+      "The tool narrowed part of the mechanism."
+    ]
+  },
+  {
+    "start": 584.4675,
+    "end": 587.53,
+    "text": "The remaining valuables complicated motive.",
+    "chapter": "08",
+    "lines": [
+      "The remaining valuables",
+      "complicated motive."
+    ]
+  },
+  {
+    "start": 587.555,
+    "end": 591.3299999999999,
+    "text": "Neither established the identity of the person who used violence that",
+    "chapter": "08",
+    "lines": [
+      "Neither established the identity of",
+      "the person who used violence that"
+    ]
+  },
+  {
+    "start": 591.3549999999999,
+    "end": 592.245,
+    "text": "night.",
+    "chapter": "08",
+    "lines": [
+      "night."
+    ]
+  },
+  {
+    "start": 593.2049999999999,
+    "end": 596.655,
+    "text": "Return to the question that makes Hinterkaifeck so disturbing.",
+    "chapter": "09",
+    "lines": [
+      "Return to the question that makes",
+      "Hinterkaifeck so disturbing."
+    ]
+  },
+  {
+    "start": 596.68,
+    "end": 599.6049999999999,
+    "text": "Did the killer remain on the farm after the murders?",
+    "chapter": "09",
+    "lines": [
+      "Did the killer remain on",
+      "the farm after the murders?"
+    ]
+  },
+  {
+    "start": 599.6299999999999,
+    "end": 603.405,
+    "text": "The suggestion comes from several strands: reports of smoke,",
+    "chapter": "09",
+    "lines": [
+      "The suggestion comes from several",
+      "strands: reports of smoke,"
+    ]
+  },
+  {
+    "start": 603.43,
+    "end": 607.3924999999999,
+    "text": "indications interpreted as food preparation, the condition of the",
+    "chapter": "09",
+    "lines": [
+      "indications interpreted as food",
+      "preparation, the condition of the"
+    ]
+  },
+  {
+    "start": 607.4174999999999,
+    "end": 610.1424999999999,
+    "text": "animals, and the mechanic's observations.",
+    "chapter": "09",
+    "lines": [
+      "animals, and the mechanic's observations."
+    ]
+  },
+  {
+    "start": 610.1674999999999,
+    "end": 614.0049999999999,
+    "text": "Taken together, they make continued human activity a serious",
+    "chapter": "09",
+    "lines": [
+      "Taken together, they make",
+      "continued human activity a serious"
+    ]
+  },
+  {
+    "start": 614.0299999999999,
+    "end": 615.2299999999999,
+    "text": "possibility.",
+    "chapter": "09",
+    "lines": [
+      "possibility."
+    ]
+  },
+  {
+    "start": 615.2549999999999,
+    "end": 617.4825,
+    "text": "But each strand has limits.",
+    "chapter": "09",
+    "lines": [
+      "But each strand has limits."
+    ]
+  },
+  {
+    "start": 618.0099999999999,
+    "end": 621.6349999999999,
+    "text": "The research chronology explicitly cautions that the extent of feeding",
+    "chapter": "09",
+    "lines": [
+      "The research chronology explicitly",
+      "cautions that the extent of feeding"
+    ]
+  },
+  {
+    "start": 621.6599999999999,
+    "end": 625.0849999999999,
+    "text": "and milking between the killings and discovery is uncertain.",
+    "chapter": "09",
+    "lines": [
+      "and milking between the killings",
+      "and discovery is uncertain."
+    ]
+  },
+  {
+    "start": 625.1099999999999,
+    "end": 628.0724999999999,
+    "text": "Smoke cannot tell you whose hand tended a fire.",
+    "chapter": "09",
+    "lines": [
+      "Smoke cannot tell you",
+      "whose hand tended a fire."
+    ]
+  },
+  {
+    "start": 628.0974999999999,
+    "end": 631.7349999999999,
+    "text": "A meal's remains cannot, by themselves, give every event a",
+    "chapter": "09",
+    "lines": [
+      "A meal's remains cannot, by",
+      "themselves, give every event a"
+    ]
+  },
+  {
+    "start": 631.7599999999999,
+    "end": 633.2349999999999,
+    "text": "reliable time.",
+    "chapter": "09",
+    "lines": [
+      "reliable time."
+    ]
+  },
+  {
+    "start": 633.2599999999999,
+    "end": 636.8475,
+    "text": "And a dog seen in different places points toward movement, not an",
+    "chapter": "09",
+    "lines": [
+      "And a dog seen in different places",
+      "points toward movement, not an"
+    ]
+  },
+  {
+    "start": 636.8725,
+    "end": 638.5099999999999,
+    "text": "identified person.",
+    "chapter": "09",
+    "lines": [
+      "identified person."
+    ]
+  },
+  {
+    "start": 638.5349999999999,
+    "end": 640.41,
+    "text": "One person might have stayed.",
+    "chapter": "09",
+    "lines": [
+      "One person might have stayed."
+    ]
+  },
+  {
+    "start": 640.435,
+    "end": 642.06,
+    "text": "Someone might have returned.",
+    "chapter": "09",
+    "lines": [
+      "Someone might have returned."
+    ]
+  },
+  {
+    "start": 642.0849999999999,
+    "end": 644.8625,
+    "text": "Some observations might be incomplete.",
+    "chapter": "09",
+    "lines": [
+      "Some observations might be incomplete."
+    ]
+  },
+  {
+    "start": 645.3899999999999,
+    "end": 648.9649999999999,
+    "text": "These possibilities do not carry equal proof simply because we can",
+    "chapter": "09",
+    "lines": [
+      "These possibilities do not carry",
+      "equal proof simply because we can"
+    ]
+  },
+  {
+    "start": 648.9899999999999,
+    "end": 650.1899999999999,
+    "text": "imagine them.",
+    "chapter": "09",
+    "lines": [
+      "imagine them."
+    ]
+  },
+  {
+    "start": 650.2149999999999,
+    "end": 654.0024999999999,
+    "text": "What we can say is narrower: the reports are difficult to reconcile with",
+    "chapter": "09",
+    "lines": [
+      "What we can say is narrower: the",
+      "reports are difficult to reconcile with"
+    ]
+  },
+  {
+    "start": 654.0274999999999,
+    "end": 657.54,
+    "text": "a completely observed, sealed, empty property.",
+    "chapter": "09",
+    "lines": [
+      "a completely observed,",
+      "sealed, empty property."
+    ]
+  },
+  {
+    "start": 657.5649999999999,
+    "end": 661.39,
+    "text": "What we cannot say is that a murderer certainly spent four uninterrupted",
+    "chapter": "09",
+    "lines": [
+      "What we cannot say is that a murderer",
+      "certainly spent four uninterrupted"
+    ]
+  },
+  {
+    "start": 661.415,
+    "end": 664.2025,
+    "text": "days comfortably living beside the victims.",
+    "chapter": "09",
+    "lines": [
+      "days comfortably living",
+      "beside the victims."
+    ]
+  },
+  {
+    "start": 664.2275,
+    "end": 668.3149999999999,
+    "text": "That familiar claim turns an inference into an eyewitness account",
+    "chapter": "09",
+    "lines": [
+      "That familiar claim turns an",
+      "inference into an eyewitness account"
+    ]
+  },
+  {
+    "start": 668.3399999999999,
+    "end": 671.7524999999999,
+    "text": ". The real mystery is already powerful enough without making the",
+    "chapter": "09",
+    "lines": [
+      ". The real mystery is already",
+      "powerful enough without making the"
+    ]
+  },
+  {
+    "start": 671.7774999999999,
+    "end": 673.93,
+    "text": "evidence say more than it does.",
+    "chapter": "09",
+    "lines": [
+      "evidence say more than it does."
+    ]
+  },
+  {
+    "start": 674.8899999999999,
+    "end": 678.0899999999999,
+    "text": "Suspicion repeatedly returned to people with connections to the",
+    "chapter": "10",
+    "lines": [
+      "Suspicion repeatedly returned to",
+      "people with connections to the"
+    ]
+  },
+  {
+    "start": 678.1149999999999,
+    "end": 679.2899999999998,
+    "text": "household.",
+    "chapter": "10",
+    "lines": [
+      "household."
+    ]
+  },
+  {
+    "start": 679.3149999999998,
+    "end": 682.9649999999999,
+    "text": "Lorenz Schlittenbauer had a relationship with Viktoria, and there had",
+    "chapter": "10",
+    "lines": [
+      "Lorenz Schlittenbauer had a relationship",
+      "with Viktoria, and there had"
+    ]
+  },
+  {
+    "start": 682.9899999999999,
+    "end": 686.9149999999998,
+    "text": "been conflict over Josef's paternity and financial support.",
+    "chapter": "10",
+    "lines": [
+      "been conflict over Josef's",
+      "paternity and financial support."
+    ]
+  },
+  {
+    "start": 686.9399999999998,
+    "end": 690.4024999999999,
+    "text": "His conduct during the discovery also drew attention.",
+    "chapter": "10",
+    "lines": [
+      "His conduct during the",
+      "discovery also drew attention."
+    ]
+  },
+  {
+    "start": 690.4274999999999,
+    "end": 693.5399999999998,
+    "text": "Those are reasons investigators examined him.",
+    "chapter": "10",
+    "lines": [
+      "Those are reasons",
+      "investigators examined him."
+    ]
+  },
+  {
+    "start": 693.5649999999998,
+    "end": 694.9899999999999,
+    "text": "They are not a verdict.",
+    "chapter": "10",
+    "lines": [
+      "They are not a verdict."
+    ]
+  },
+  {
+    "start": 695.0149999999999,
+    "end": 698.9149999999998,
+    "text": "He was never convicted of these murders, and this film does not identify",
+    "chapter": "10",
+    "lines": [
+      "He was never convicted of these",
+      "murders, and this film does not identify"
+    ]
+  },
+  {
+    "start": 698.9399999999998,
+    "end": 700.4674999999999,
+    "text": "him as the killer.",
+    "chapter": "10",
+    "lines": [
+      "him as the killer."
+    ]
+  },
+  {
+    "start": 700.9949999999999,
+    "end": 704.5199999999999,
+    "text": "Another disturbing part of the family history is documented:",
+    "chapter": "10",
+    "lines": [
+      "Another disturbing part of the",
+      "family history is documented:"
+    ]
+  },
+  {
+    "start": 704.5449999999998,
+    "end": 708.2324999999998,
+    "text": "Andreas and Viktoria had been prosecuted for incest in nineteen",
+    "chapter": "10",
+    "lines": [
+      "Andreas and Viktoria had been",
+      "prosecuted for incest in nineteen"
+    ]
+  },
+  {
+    "start": 708.2574999999998,
+    "end": 709.2699999999999,
+    "text": "fifteen.",
+    "chapter": "10",
+    "lines": [
+      "fifteen."
+    ]
+  },
+  {
+    "start": 709.2949999999998,
+    "end": 712.9699999999999,
+    "text": "When discussing this, it is important to remember the unequal power",
+    "chapter": "10",
+    "lines": [
+      "When discussing this, it is important",
+      "to remember the unequal power"
+    ]
+  },
+  {
+    "start": 712.9949999999999,
+    "end": 716.8574999999998,
+    "text": "between a father and daughter, and to avoid turning Viktoria's history",
+    "chapter": "10",
+    "lines": [
+      "between a father and daughter, and",
+      "to avoid turning Viktoria's history"
+    ]
+  },
+  {
+    "start": 716.8824999999998,
+    "end": 718.8324999999999,
+    "text": "into an excuse for her murder.",
+    "chapter": "10",
+    "lines": [
+      "into an excuse for her murder."
+    ]
+  },
+  {
+    "start": 718.8574999999998,
+    "end": 722.7324999999998,
+    "text": "The record does not establish that this history caused the killings.",
+    "chapter": "10",
+    "lines": [
+      "The record does not establish that",
+      "this history caused the killings."
+    ]
+  },
+  {
+    "start": 722.7574999999998,
+    "end": 726.7574999999998,
+    "text": "Other suggestions involved outsiders or people seeking money.",
+    "chapter": "10",
+    "lines": [
+      "Other suggestions involved",
+      "outsiders or people seeking money."
+    ]
+  },
+  {
+    "start": 726.7824999999998,
+    "end": 730.1974999999999,
+    "text": "A stranger might account for unfamiliar traces.",
+    "chapter": "10",
+    "lines": [
+      "A stranger might account",
+      "for unfamiliar traces."
+    ]
+  },
+  {
+    "start": 730.6749999999998,
+    "end": 733.7999999999998,
+    "text": "A familiar person might account for knowledge of the buildings.",
+    "chapter": "10",
+    "lines": [
+      "A familiar person might account",
+      "for knowledge of the buildings."
+    ]
+  },
+  {
+    "start": 733.8249999999998,
+    "end": 737.3749999999999,
+    "text": "Yet neither category explains every uncertain detail.",
+    "chapter": "10",
+    "lines": [
+      "Yet neither category explains",
+      "every uncertain detail."
+    ]
+  },
+  {
+    "start": 737.3999999999999,
+    "end": 740.8874999999999,
+    "text": "If a theory can absorb any evidence, it can become impossible to",
+    "chapter": "10",
+    "lines": [
+      "If a theory can absorb any evidence,",
+      "it can become impossible to"
+    ]
+  },
+  {
+    "start": 740.9124999999999,
+    "end": 741.8124999999999,
+    "text": "test.",
+    "chapter": "10",
+    "lines": [
+      "test."
+    ]
+  },
+  {
+    "start": 741.8374999999999,
+    "end": 745.9499999999999,
+    "text": "The useful question is not which suspect makes the most dramatic ending.",
+    "chapter": "10",
+    "lines": [
+      "The useful question is not which",
+      "suspect makes the most dramatic ending."
+    ]
+  },
+  {
+    "start": 745.9749999999999,
+    "end": 749.5624999999999,
+    "text": "It is which claim can be supported independently, which claim",
+    "chapter": "10",
+    "lines": [
+      "It is which claim can be supported",
+      "independently, which claim"
+    ]
+  },
+  {
+    "start": 749.5874999999999,
+    "end": 753.3374999999999,
+    "text": "contradicts the record, and what remains unexplained.",
+    "chapter": "10",
+    "lines": [
+      "contradicts the record, and",
+      "what remains unexplained."
+    ]
+  },
+  {
+    "start": 753.3624999999998,
+    "end": 756.3999999999999,
+    "text": "Hinterkaifeck offers suspicion in abundance.",
+    "chapter": "10",
+    "lines": [
+      "Hinterkaifeck offers",
+      "suspicion in abundance."
+    ]
+  },
+  {
+    "start": 756.4249999999998,
+    "end": 759.6874999999999,
+    "text": "It does not offer the proof needed to turn a named person into the",
+    "chapter": "10",
+    "lines": [
+      "It does not offer the proof needed",
+      "to turn a named person into the"
+    ]
+  },
+  {
+    "start": 759.7124999999999,
+    "end": 760.7899999999998,
+    "text": "answer.",
+    "chapter": "10",
+    "lines": [
+      "answer."
+    ]
+  },
+  {
+    "start": 761.7749999999997,
+    "end": 765.8874999999998,
+    "text": "One theory imagines Viktoria's husband, Karl Gabriel, secretly",
+    "chapter": "11",
+    "lines": [
+      "One theory imagines Viktoria's",
+      "husband, Karl Gabriel, secretly"
+    ]
+  },
+  {
+    "start": 765.9124999999998,
+    "end": 768.9249999999997,
+    "text": "surviving the war and returning to take revenge.",
+    "chapter": "11",
+    "lines": [
+      "surviving the war and",
+      "returning to take revenge."
+    ]
+  },
+  {
+    "start": 768.9499999999997,
+    "end": 772.4124999999998,
+    "text": "It has the shape of a thriller: a missing soldier, a hidden",
+    "chapter": "11",
+    "lines": [
+      "It has the shape of a thriller:",
+      "a missing soldier, a hidden"
+    ]
+  },
+  {
+    "start": 772.4374999999998,
+    "end": 774.9624999999997,
+    "text": "identity, a violent homecoming.",
+    "chapter": "11",
+    "lines": [
+      "identity, a violent homecoming."
+    ]
+  },
+  {
+    "start": 774.9874999999997,
+    "end": 778.3624999999997,
+    "text": "The case researchers point to a less cinematic record.",
+    "chapter": "11",
+    "lines": [
+      "The case researchers point",
+      "to a less cinematic record."
+    ]
+  },
+  {
+    "start": 778.3874999999997,
+    "end": 782.4124999999998,
+    "text": "Authorities investigated Karl's death, received confirmation of his",
+    "chapter": "11",
+    "lines": [
+      "Authorities investigated Karl's",
+      "death, received confirmation of his"
+    ]
+  },
+  {
+    "start": 782.4374999999998,
+    "end": 786.5374999999998,
+    "text": "burial in France, and had testimony from former comrades.",
+    "chapter": "11",
+    "lines": [
+      "burial in France, and had",
+      "testimony from former comrades."
+    ]
+  },
+  {
+    "start": 786.5624999999998,
+    "end": 790.7524999999998,
+    "text": "That does not identify the person responsible at Hinterkaifeck.",
+    "chapter": "11",
+    "lines": [
+      "That does not identify the person",
+      "responsible at Hinterkaifeck."
+    ]
+  },
+  {
+    "start": 791.2549999999998,
+    "end": 794.8049999999997,
+    "text": "It does mean the returning-husband story should not be presented as",
+    "chapter": "11",
+    "lines": [
+      "It does mean the returning-husband",
+      "story should not be presented as"
+    ]
+  },
+  {
+    "start": 794.8299999999997,
+    "end": 796.3424999999997,
+    "text": "equally supported.",
+    "chapter": "11",
+    "lines": [
+      "equally supported."
+    ]
+  },
+  {
+    "start": 796.3674999999997,
+    "end": 800.1424999999998,
+    "text": "The same caution applies to supernatural explanations.",
+    "chapter": "11",
+    "lines": [
+      "The same caution applies to",
+      "supernatural explanations."
+    ]
+  },
+  {
+    "start": 800.1674999999998,
+    "end": 804.0924999999997,
+    "text": "A frightened servant and noises above a ceiling do not establish a",
+    "chapter": "11",
+    "lines": [
+      "A frightened servant and noises",
+      "above a ceiling do not establish a"
+    ]
+  },
+  {
+    "start": 804.1174999999997,
+    "end": 805.1174999999997,
+    "text": "haunting.",
+    "chapter": "11",
+    "lines": [
+      "haunting."
+    ]
+  },
+  {
+    "start": 805.1424999999997,
+    "end": 809.1924999999998,
+    "text": "A ghost story can connect every gap because it does not have to leave",
+    "chapter": "11",
+    "lines": [
+      "A ghost story can connect every gap",
+      "because it does not have to leave"
+    ]
+  },
+  {
+    "start": 809.2174999999997,
+    "end": 810.2674999999998,
+    "text": "evidence.",
+    "chapter": "11",
+    "lines": [
+      "evidence."
+    ]
+  },
+  {
+    "start": 810.2924999999998,
+    "end": 814.4574999999998,
+    "text": "A historical investigation has to live with the gaps instead.",
+    "chapter": "11",
+    "lines": [
+      "A historical investigation has",
+      "to live with the gaps instead."
+    ]
+  },
+  {
+    "start": 814.9849999999998,
+    "end": 819.0349999999997,
+    "text": "Over the years, repeated retellings have also made precise details seem",
+    "chapter": "11",
+    "lines": [
+      "Over the years, repeated retellings",
+      "have also made precise details seem"
+    ]
+  },
+  {
+    "start": 819.0599999999997,
+    "end": 823.0974999999997,
+    "text": "settled: exactly who walked into the barn first, exactly how",
+    "chapter": "11",
+    "lines": [
+      "settled: exactly who walked",
+      "into the barn first, exactly how"
+    ]
+  },
+  {
+    "start": 823.1224999999997,
+    "end": 826.4474999999998,
+    "text": "long an intruder waited, exactly what they ate.",
+    "chapter": "11",
+    "lines": [
+      "long an intruder waited,",
+      "exactly what they ate."
+    ]
+  },
+  {
+    "start": 826.4724999999997,
+    "end": 828.9724999999997,
+    "text": "Much of that precision is reconstruction.",
+    "chapter": "11",
+    "lines": [
+      "Much of that precision is reconstruction."
+    ]
+  },
+  {
+    "start": 828.9974999999997,
+    "end": 832.8099999999998,
+    "text": "Even a source can contain an error, or a remembered detail",
+    "chapter": "11",
+    "lines": [
+      "Even a source can contain an",
+      "error, or a remembered detail"
+    ]
+  },
+  {
+    "start": 832.8349999999998,
+    "end": 834.7224999999997,
+    "text": "recorded decades late.",
+    "chapter": "11",
+    "lines": [
+      "recorded decades late."
+    ]
+  },
+  {
+    "start": 834.7474999999997,
+    "end": 837.9974999999998,
+    "text": "Our responsibility is to keep those limits visible.",
+    "chapter": "11",
+    "lines": [
+      "Our responsibility is to",
+      "keep those limits visible."
+    ]
+  },
+  {
+    "start": 838.0224999999998,
+    "end": 842.1349999999998,
+    "text": "Rejecting a dramatic explanation does not solve Hinterkaifeck",
+    "chapter": "11",
+    "lines": [
+      "Rejecting a dramatic explanation",
+      "does not solve Hinterkaifeck"
+    ]
+  },
+  {
+    "start": 842.1599999999997,
+    "end": 846.3274999999998,
+    "text": ". It helps preserve the difference between a real tragedy and",
+    "chapter": "11",
+    "lines": [
+      ". It helps preserve the difference",
+      "between a real tragedy and"
+    ]
+  },
+  {
+    "start": 846.3524999999997,
+    "end": 848.9049999999997,
+    "text": "a story that has borrowed its names.",
+    "chapter": "11",
+    "lines": [
+      "a story that has borrowed its names."
+    ]
+  },
+  {
+    "start": 849.8649999999998,
+    "end": 852.7399999999998,
+    "text": "The buildings were demolished in nineteen twenty-three.",
+    "chapter": "12",
+    "lines": [
+      "The buildings were demolished",
+      "in nineteen twenty-three."
+    ]
+  },
+  {
+    "start": 852.7649999999998,
+    "end": 855.7774999999998,
+    "text": "The people who could have explained what happened are gone.",
+    "chapter": "12",
+    "lines": [
+      "The people who could have",
+      "explained what happened are gone."
+    ]
+  },
+  {
+    "start": 855.8024999999998,
+    "end": 859.7649999999998,
+    "text": "Modern methods cannot recover an intact scene that was never preserved",
+    "chapter": "12",
+    "lines": [
+      "Modern methods cannot recover an",
+      "intact scene that was never preserved"
+    ]
+  },
+  {
+    "start": 859.7899999999997,
+    "end": 863.9024999999998,
+    "text": "for them. Even a future answer to a family relationship would not",
+    "chapter": "12",
+    "lines": [
+      "for them. Even a future answer to",
+      "a family relationship would not"
+    ]
+  },
+  {
+    "start": 863.9274999999998,
+    "end": 866.5274999999998,
+    "text": "automatically identify a murderer.",
+    "chapter": "12",
+    "lines": [
+      "automatically identify a murderer."
+    ]
+  },
+  {
+    "start": 866.5524999999998,
+    "end": 868.9024999999998,
+    "text": "The case remains unresolved.",
+    "chapter": "12",
+    "lines": [
+      "The case remains unresolved."
+    ]
+  },
+  {
+    "start": 868.9274999999998,
+    "end": 871.5024999999998,
+    "text": "So where does that leave the opening question?",
+    "chapter": "12",
+    "lines": [
+      "So where does that leave",
+      "the opening question?"
+    ]
+  },
+  {
+    "start": 871.5274999999998,
+    "end": 875.4274999999998,
+    "text": "Hofner repaired an engine at a farm whose residents could no longer",
+    "chapter": "12",
+    "lines": [
+      "Hofner repaired an engine at a farm",
+      "whose residents could no longer"
+    ]
+  },
+  {
+    "start": 875.4524999999998,
+    "end": 876.6924999999998,
+    "text": "answer him.",
+    "chapter": "12",
+    "lines": [
+      "answer him."
+    ]
+  },
+  {
+    "start": 877.1949999999997,
+    "end": 880.8949999999998,
+    "text": "His account, and the other reports of activity, suggest that somebody",
+    "chapter": "12",
+    "lines": [
+      "His account, and the other reports",
+      "of activity, suggest that somebody"
+    ]
+  },
+  {
+    "start": 880.9199999999997,
+    "end": 883.5824999999998,
+    "text": "may have moved through the property after the killings.",
+    "chapter": "12",
+    "lines": [
+      "may have moved through the",
+      "property after the killings."
+    ]
+  },
+  {
+    "start": 883.6074999999997,
+    "end": 887.5449999999997,
+    "text": "The identity, timing, and purpose of that person remain uncertain.",
+    "chapter": "12",
+    "lines": [
+      "The identity, timing, and purpose",
+      "of that person remain uncertain."
+    ]
+  },
+  {
+    "start": 887.5699999999997,
+    "end": 890.7699999999998,
+    "text": "We should resist filling those empty spaces with certainty simply",
+    "chapter": "12",
+    "lines": [
+      "We should resist filling those",
+      "empty spaces with certainty simply"
+    ]
+  },
+  {
+    "start": 890.7949999999997,
+    "end": 893.0949999999998,
+    "text": "because certainty feels like an ending.",
+    "chapter": "12",
+    "lines": [
+      "because certainty feels like an ending."
+    ]
+  },
+  {
+    "start": 893.1199999999998,
+    "end": 896.8449999999998,
+    "text": "Hinterkaifeck is not only a puzzle about who might have hidden upstairs.",
+    "chapter": "12",
+    "lines": [
+      "Hinterkaifeck is not only a puzzle",
+      "about who might have hidden upstairs."
+    ]
+  },
+  {
+    "start": 896.8699999999998,
+    "end": 900.9574999999998,
+    "text": "It is also the story of Andreas, Cazilia, Viktoria,",
+    "chapter": "12",
+    "lines": [
+      "It is also the story of",
+      "Andreas, Cazilia, Viktoria,"
+    ]
+  },
+  {
+    "start": 900.9824999999997,
+    "end": 903.0574999999998,
+    "text": "Cilli, Josef, and Maria.",
+    "chapter": "12",
+    "lines": [
+      "Cilli, Josef, and Maria."
+    ]
+  },
+  {
+    "start": 903.0824999999998,
+    "end": 905.5974999999997,
+    "text": "A child who should have returned to school.",
+    "chapter": "12",
+    "lines": [
+      "A child who should have",
+      "returned to school."
+    ]
+  },
+  {
+    "start": 906.1499999999997,
+    "end": 908.1374999999998,
+    "text": "A worker who had just arrived.",
+    "chapter": "12",
+    "lines": [
+      "A worker who had just arrived."
+    ]
+  },
+  {
+    "start": 908.1624999999998,
+    "end": 911.2999999999998,
+    "text": "A family whose silence was understood too late.",
+    "chapter": "12",
+    "lines": [
+      "A family whose silence",
+      "was understood too late."
+    ]
+  },
+  {
+    "start": 911.3249999999998,
+    "end": 912.9374999999998,
+    "text": "The farm is gone.",
+    "chapter": "12",
+    "lines": [
+      "The farm is gone."
+    ]
+  },
+  {
+    "start": 912.9624999999997,
+    "end": 914.5749999999998,
+    "text": "The question remains.",
+    "chapter": "12",
+    "lines": [
+      "The question remains."
+    ]
+  },
+  {
+    "start": 914.5999999999998,
+    "end": 918.2499999999998,
+    "text": "But remembering what the evidence cannot tell us is part of remembering",
+    "chapter": "12",
+    "lines": [
+      "But remembering what the evidence",
+      "cannot tell us is part of remembering"
+    ]
+  },
+  {
+    "start": 918.2749999999997,
+    "end": 920.0649999999998,
+    "text": "these people honestly.",
+    "chapter": "12",
+    "lines": [
+      "these people honestly."
+    ]
+  }
+]

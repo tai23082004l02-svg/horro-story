@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "duration_seconds": 920.6666666666666,
+  "frames": 22096,
+  "shots": 225,
+  "unique_image_files": 225,
+  "average_shot_seconds": 4.091851851851851,
+  "shortest_shot_seconds": 3.0,
+  "longest_shot_seconds": 5.583333333333333,
+  "caption_cues": 298,
+  "caption_text_coverage": "all narration words in order",
+  "caption_timing": "Kokoro model token durations; not uniform word allocation",
+  "caption_intra_shot_change": {
+    "status": "passed",
+    "timestamps_seconds": [
+      0.125,
+      1.0
+    ],
+    "top_mean_pixel_delta": 0.4965778459821429,
+    "subtitle_area_changed_pixels": 5853
+  },
+  "video": {
+    "codec_name": "h264",
+    "width": 1280,
+    "height": 720,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "24/1",
+    "nb_frames": "22096"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 1
+  },
+  "actual_final_aac_input_measurement": {
+    "input_i": "-15.99",
+    "input_tp": "-2.32",
+    "input_lra": "2.20",
+    "input_thresh": "-26.38",
+    "output_i": "-16.02",
+    "output_tp": "-2.32",
+    "output_lra": "2.10",
+    "output_thresh": "-26.41",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "full_decode": "passed; video and audio; ffmpeg -xerror; zero diagnostics",
+  "file_bytes": 42685657,
+  "sha256": "036221dc63be21e62523ed978e1f74a87ddb93b8ef0a23669960294b06aea0e9",
+  "visual_review": "all source contact sheets inspected; rejected cells excluded; selected final frames inspected separately",
+  "manual_listening": "not claimed; no complete human listening pass in this environment",
+  "limitations": [
+    "Illustrative AI reconstructions, not exact architecture or authentic likenesses.",
+    "English TTS uses approximate name pronunciation; not a native German performance.",
+    "Research consulted published summaries and selected historical quotations, not complete original archives.",
+    "Historical case remains unsolved."
+  ]
+}

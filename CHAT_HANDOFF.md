@@ -2,7 +2,13 @@
 
 ## Trạng thái hiện tại
 
-Repo: https://github.com/tai23082004l02-svg/horro-story, nhánh bàn giao main. Ngày 25/10/2026, người dùng yêu cầu chuyển quy tắc làm video đã chốt sang đây để sản xuất thể loại khác. Hiện chỉ thiết lập quy trình, **chưa có video hoặc chủ đề được giao sản xuất trong repo này**.
+Repo: https://github.com/tai23082004l02-svg/horro-story, nhánh bàn giao main. Ngày 25/10/2026, người dùng giao triển khai chủ đề Hinterkaifeck.
+
+Đã sản xuất [Did Someone Stay? The Unsolved Hinterkaifeck Murders](videos/hinterkaifeck/README.md): 920,667 giây (khoảng 15:21), 225 hình khác nhau, trung bình 4,09 giây/cảnh, 298 mục phụ đề, 1280×720/24 fps/H.264/yuv420p/AAC 48 kHz mono. Kokoro am_michael speed 1.07. Bản cuối giải mã toàn bộ không lỗi; AAC đo thực tế −15,99 LUFS / −2,32 dBTP. [Báo cáo](videos/hinterkaifeck/validation-summary.json) có SHA-256 và phạm vi kiểm tra. Nguồn, kịch bản, thumbnail, nội dung đăng và [dự án dựng lại](videos/hinterkaifeck/project/README.md) đều có tệp thật. Không có tác vụ sản xuất còn dở hoặc lỗi kiểm tra bắt buộc còn mở trong bản này; việc đăng YouTube thuộc người dùng.
+
+Người dùng đã **tạm bỏ mặc định minh họa 2D vẽ tay, viền đen, màu phẳng**. Phong cách cho vụ án kinh dị hiện tại là bán hiện thực, ánh sáng điện ảnh, xanh xám/nâu trầm và điểm sáng vàng; hình tĩnh và không máu me trực diện. Không tự khôi phục mặc định cũ khi chưa có yêu cầu mới. Giữ nhiều ô, 720p và các quy tắc nhịp dựng.
+
+Giới hạn: ảnh AI là tái hiện, không phải chân dung hoặc bằng chứng thật; vụ án chưa giải; không nhận hung thủ đã chắc chắn ở lại bốn ngày. Nghiên cứu dựa trên tài liệu công bố và trích dẫn, chưa kiểm tra toàn bộ hồ sơ gốc; chưa có lượt nghe/xem thủ công toàn bộ phim. Cache mô hình và virtualenv nằm ngoài repo; trên máy mới cần kiểm tra lại theo hướng dẫn dự án.
 
 Đọc AGENTS.md → VIDEO_GUIDELINES.md → PRODUCTION_WORKFLOW.md → DELIVERY_CHECKLIST.md, rồi tài liệu sản phẩm liên quan nếu có. Yêu cầu hiện tại của người dùng được ưu tiên.
 

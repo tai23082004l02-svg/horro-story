@@ -1,0 +1,35 @@
+{
+  "speech_model": "hexgrad/Kokoro-82M",
+  "snapshot": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+  "model_files": [
+    {
+      "file": "config.json",
+      "sha256": "5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f",
+      "bytes": 2351
+    },
+    {
+      "file": "kokoro-v1_0.pth",
+      "sha256": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4",
+      "bytes": 327212226
+    },
+    {
+      "file": "voices/am_michael.pt",
+      "sha256": "9a443b79a4b22489a5b0ab7c651a0bcd1a30bef675c28333f06971abbd47bd37",
+      "bytes": 523435
+    }
+  ],
+  "voice": "am_michael",
+  "speed": 1.07,
+  "device": "cpu",
+  "image_generation_tool": "image_gen",
+  "image_model_version": "not exposed by tool",
+  "image_grids": 15,
+  "selected_panels": 225,
+  "runtime_ffmpeg": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "generated_contact_sheets_total": 16,
+  "retained_contact_sheets": 15,
+  "generated_panels_total": 256,
+  "retained_panels": 240,
+  "unselected_retained_panels": 15,
+  "superseded_sheet_panels": 16
+}

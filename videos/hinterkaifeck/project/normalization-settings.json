@@ -1,0 +1,20 @@
+{
+  "target_i": -16,
+  "normalizer_tp_headroom": -2.5,
+  "delivery_max_tp": -1.5,
+  "raw_measurement": {
+    "input_i": "-27.68",
+    "input_tp": "-3.78",
+    "input_lra": "3.30",
+    "input_thresh": "-38.09",
+    "output_i": "-17.46",
+    "output_tp": "-2.50",
+    "output_lra": "2.10",
+    "output_thresh": "-27.85",
+    "normalization_type": "dynamic",
+    "target_offset": "1.46"
+  },
+  "second_pass_filter": "loudnorm=I=-16:TP=-2.5:LRA=9:measured_I=-27.68:measured_TP=-3.78:measured_LRA=3.30:measured_thresh=-38.09:offset=1.46:linear=true:print_format=json",
+  "post_normalization_mastering": "volume=0.85dB,alimiter=limit=0.6:level=false:attack=5:release=50:latency=true,volume=0.95dB",
+  "mastering_basis": "First encoded AAC measured -16.77 LUFS / -1.37 dBTP. Pre-limiter +0.85 dB and limiter produced -16.94 LUFS / -3.24 dBTP. Final +0.95 dB trim calibrated for this exact recording; validate final output independently."
+}

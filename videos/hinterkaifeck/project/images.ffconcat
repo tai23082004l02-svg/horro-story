@@ -1,0 +1,678 @@
+ffconcat version 1.0
+file 'assets/shots/01-01.jpg'
+option framerate 24
+duration 3.375000000
+file 'assets/shots/01-02.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/01-03.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/01-04.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/01-05.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/01-06.jpg'
+option framerate 24
+duration 4.583333333
+file 'assets/shots/01-07.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/01-08.jpg'
+option framerate 24
+duration 3.208333333
+file 'assets/shots/01-09.jpg'
+option framerate 24
+duration 3.666666667
+file 'assets/shots/01-10.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/01-11.jpg'
+option framerate 24
+duration 4.208333333
+file 'assets/shots/01-12.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/01-13.jpg'
+option framerate 24
+duration 4.625000000
+file 'assets/shots/01-14.jpg'
+option framerate 24
+duration 3.916666667
+file 'assets/shots/01-15.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/01-16.jpg'
+option framerate 24
+duration 3.083333333
+file 'assets/shots/02-01.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/02-02.jpg'
+option framerate 24
+duration 4.916666667
+file 'assets/shots/02-03.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/02-04.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/02-05.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/02-06.jpg'
+option framerate 24
+duration 4.541666667
+file 'assets/shots/02-16.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/02-07.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/02-08.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/02-10.jpg'
+option framerate 24
+duration 4.458333333
+file 'assets/shots/02-11.jpg'
+option framerate 24
+duration 3.208333333
+file 'assets/shots/02-12.jpg'
+option framerate 24
+duration 4.625000000
+file 'assets/shots/02-13.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/02-14.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/02-extra01.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/02-15.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/02-09.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/02-extra02.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/03-01.jpg'
+option framerate 24
+duration 3.916666667
+file 'assets/shots/03-02.jpg'
+option framerate 24
+duration 3.541666667
+file 'assets/shots/03-extra02.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/03-03.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/03-04.jpg'
+option framerate 24
+duration 5.125000000
+file 'assets/shots/03-05.jpg'
+option framerate 24
+duration 5.125000000
+file 'assets/shots/03-06.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/03-07.jpg'
+option framerate 24
+duration 4.375000000
+file 'assets/shots/03-08.jpg'
+option framerate 24
+duration 4.708333333
+file 'assets/shots/03-09.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/03-10.jpg'
+option framerate 24
+duration 3.708333333
+file 'assets/shots/03-extra01.jpg'
+option framerate 24
+duration 4.250000000
+file 'assets/shots/03-11.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/03-12.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/03-13.jpg'
+option framerate 24
+duration 5.041666667
+file 'assets/shots/03-14.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/03-15.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/03-16.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/04-01.jpg'
+option framerate 24
+duration 3.291666667
+file 'assets/shots/04-02.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/04-extra01.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/04-03.jpg'
+option framerate 24
+duration 3.500000000
+file 'assets/shots/04-04.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/04-05.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/04-06.jpg'
+option framerate 24
+duration 3.625000000
+file 'assets/shots/04-07.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/04-08.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/04-09.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/04-extra02.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/04-10.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/04-11.jpg'
+option framerate 24
+duration 3.750000000
+file 'assets/shots/04-12.jpg'
+option framerate 24
+duration 5.083333333
+file 'assets/shots/04-13.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/04-14.jpg'
+option framerate 24
+duration 3.541666667
+file 'assets/shots/04-15.jpg'
+option framerate 24
+duration 4.250000000
+file 'assets/shots/04-16.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/05-01.jpg'
+option framerate 24
+duration 4.250000000
+file 'assets/shots/05-05.jpg'
+option framerate 24
+duration 4.833333333
+file 'assets/shots/05-03.jpg'
+option framerate 24
+duration 4.875000000
+file 'assets/shots/05-06.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/05-07.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/05-09.jpg'
+option framerate 24
+duration 3.708333333
+file 'assets/shots/05-10.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/05-11.jpg'
+option framerate 24
+duration 3.208333333
+file 'assets/shots/05-12.jpg'
+option framerate 24
+duration 3.291666667
+file 'assets/shots/05-15.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/05-13.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/05-14.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/05-08.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/05-extra02.jpg'
+option framerate 24
+duration 3.666666667
+file 'assets/shots/05-02.jpg'
+option framerate 24
+duration 3.750000000
+file 'assets/shots/05-16.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/05-extra03.jpg'
+option framerate 24
+duration 4.750000000
+file 'assets/shots/05-extra01.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/05-04.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/06-01.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/06-02.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/06-03.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/06-04.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/06-08.jpg'
+option framerate 24
+duration 3.500000000
+file 'assets/shots/06-10.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/06-05.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/06-13.jpg'
+option framerate 24
+duration 3.458333333
+file 'assets/shots/06-12.jpg'
+option framerate 24
+duration 3.791666667
+file 'assets/shots/06-14.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/06-extra01.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/06-11.jpg'
+option framerate 24
+duration 4.208333333
+file 'assets/shots/06-extra02.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/06-extra03.jpg'
+option framerate 24
+duration 3.625000000
+file 'assets/shots/06-09.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/06-07.jpg'
+option framerate 24
+duration 3.541666667
+file 'assets/shots/06-06.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/06-15.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/06-16.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/07-01.jpg'
+option framerate 24
+duration 4.583333333
+file 'assets/shots/07-02.jpg'
+option framerate 24
+duration 4.583333333
+file 'assets/shots/07-extra01.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/07-03.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/07-04.jpg'
+option framerate 24
+duration 5.208333333
+file 'assets/shots/07-05.jpg'
+option framerate 24
+duration 4.750000000
+file 'assets/shots/07-06.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/07-07.jpg'
+option framerate 24
+duration 4.541666667
+file 'assets/shots/07-08.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/07-09.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/07-10.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/07-11.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/07-extra02.jpg'
+option framerate 24
+duration 4.208333333
+file 'assets/shots/07-12.jpg'
+option framerate 24
+duration 3.375000000
+file 'assets/shots/07-13.jpg'
+option framerate 24
+duration 4.541666667
+file 'assets/shots/07-14.jpg'
+option framerate 24
+duration 5.041666667
+file 'assets/shots/07-15.jpg'
+option framerate 24
+duration 4.541666667
+file 'assets/shots/07-16.jpg'
+option framerate 24
+duration 4.458333333
+file 'assets/shots/08-01.jpg'
+option framerate 24
+duration 3.250000000
+file 'assets/shots/08-02.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/08-03.jpg'
+option framerate 24
+duration 4.458333333
+file 'assets/shots/08-04.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/08-05.jpg'
+option framerate 24
+duration 4.916666667
+file 'assets/shots/08-06.jpg'
+option framerate 24
+duration 4.625000000
+file 'assets/shots/08-extra01.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/08-07.jpg'
+option framerate 24
+duration 3.708333333
+file 'assets/shots/08-08.jpg'
+option framerate 24
+duration 3.625000000
+file 'assets/shots/08-extra02.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/08-09.jpg'
+option framerate 24
+duration 4.458333333
+file 'assets/shots/08-10.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/08-11.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/08-12.jpg'
+option framerate 24
+duration 4.375000000
+file 'assets/shots/08-13.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/08-14.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/08-15.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/08-16.jpg'
+option framerate 24
+duration 4.250000000
+file 'assets/shots/09-01.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/09-extra01.jpg'
+option framerate 24
+duration 5.458333333
+file 'assets/shots/09-02.jpg'
+option framerate 24
+duration 4.458333333
+file 'assets/shots/09-extra02.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/09-03.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/09-04.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/09-extra03.jpg'
+option framerate 24
+duration 3.833333333
+file 'assets/shots/09-05.jpg'
+option framerate 24
+duration 3.916666667
+file 'assets/shots/09-06.jpg'
+option framerate 24
+duration 4.500000000
+file 'assets/shots/09-07.jpg'
+option framerate 24
+duration 3.625000000
+file 'assets/shots/09-08.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/09-09.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/09-10.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/09-extra04.jpg'
+option framerate 24
+duration 4.208333333
+file 'assets/shots/09-11.jpg'
+option framerate 24
+duration 4.250000000
+file 'assets/shots/09-12.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/09-13.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/09-14.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/09-15.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/09-16.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/10-01.jpg'
+option framerate 24
+duration 4.833333333
+file 'assets/shots/10-02.jpg'
+option framerate 24
+duration 3.291666667
+file 'assets/shots/10-03.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/10-extra01.jpg'
+option framerate 24
+duration 3.458333333
+file 'assets/shots/10-04.jpg'
+option framerate 24
+duration 4.583333333
+file 'assets/shots/10-05.jpg'
+option framerate 24
+duration 5.375000000
+file 'assets/shots/10-06.jpg'
+option framerate 24
+duration 4.166666667
+file 'assets/shots/10-09.jpg'
+option framerate 24
+duration 4.750000000
+file 'assets/shots/10-07.jpg'
+option framerate 24
+duration 5.458333333
+file 'assets/shots/10-08.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/10-11.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/10-10.jpg'
+option framerate 24
+duration 4.041666667
+file 'assets/shots/10-12.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/10-extra02.jpg'
+option framerate 24
+duration 3.708333333
+file 'assets/shots/10-13.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/10-extra04.jpg'
+option framerate 24
+duration 4.416666667
+file 'assets/shots/10-14.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/10-15.jpg'
+option framerate 24
+duration 5.083333333
+file 'assets/shots/10-extra03.jpg'
+option framerate 24
+duration 5.375000000
+file 'assets/shots/10-16.jpg'
+option framerate 24
+duration 4.958333333
+file 'assets/shots/11-01.jpg'
+option framerate 24
+duration 4.000000000
+file 'assets/shots/11-extra02.jpg'
+option framerate 24
+duration 3.583333333
+file 'assets/shots/11-02.jpg'
+option framerate 24
+duration 4.333333333
+file 'assets/shots/11-03.jpg'
+option framerate 24
+duration 5.083333333
+file 'assets/shots/11-04.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/11-05.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/11-extra01.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/11-06.jpg'
+option framerate 24
+duration 4.625000000
+file 'assets/shots/11-07.jpg'
+option framerate 24
+duration 4.875000000
+file 'assets/shots/11-extra03.jpg'
+option framerate 24
+duration 4.958333333
+file 'assets/shots/11-08.jpg'
+option framerate 24
+duration 5.166666667
+file 'assets/shots/11-09.jpg'
+option framerate 24
+duration 4.083333333
+file 'assets/shots/11-10.jpg'
+option framerate 24
+duration 5.583333333
+file 'assets/shots/11-11.jpg'
+option framerate 24
+duration 4.833333333
+file 'assets/shots/11-12.jpg'
+option framerate 24
+duration 4.208333333
+file 'assets/shots/11-extra04.jpg'
+option framerate 24
+duration 4.375000000
+file 'assets/shots/11-13.jpg'
+option framerate 24
+duration 4.666666667
+file 'assets/shots/11-14.jpg'
+option framerate 24
+duration 4.291666667
+file 'assets/shots/11-15.jpg'
+option framerate 24
+duration 3.875000000
+file 'assets/shots/11-16.jpg'
+option framerate 24
+duration 3.250000000
+file 'assets/shots/12-01.jpg'
+option framerate 24
+duration 3.291666667
+file 'assets/shots/12-02.jpg'
+option framerate 24
+duration 3.041666667
+file 'assets/shots/12-extra03.jpg'
+option framerate 24
+duration 3.458333333
+file 'assets/shots/12-03.jpg'
+option framerate 24
+duration 3.333333333
+file 'assets/shots/12-extra01.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/12-04.jpg'
+option framerate 24
+duration 3.458333333
+file 'assets/shots/12-07.jpg'
+option framerate 24
+duration 3.250000000
+file 'assets/shots/12-05.jpg'
+option framerate 24
+duration 3.375000000
+file 'assets/shots/12-06.jpg'
+option framerate 24
+duration 3.250000000
+file 'assets/shots/12-extra02.jpg'
+option framerate 24
+duration 3.750000000
+file 'assets/shots/12-08.jpg'
+option framerate 24
+duration 3.958333333
+file 'assets/shots/12-09.jpg'
+option framerate 24
+duration 3.208333333
+file 'assets/shots/12-10.jpg'
+option framerate 24
+duration 3.083333333
+file 'assets/shots/12-11.jpg'
+option framerate 24
+duration 3.000000000
+file 'assets/shots/12-extra05.jpg'
+option framerate 24
+duration 4.125000000
+file 'assets/shots/12-12.jpg'
+option framerate 24
+duration 3.541666667
+file 'assets/shots/12-13.jpg'
+option framerate 24
+duration 3.625000000
+file 'assets/shots/12-14.jpg'
+option framerate 24
+duration 3.166666667
+file 'assets/shots/12-15.jpg'
+option framerate 24
+duration 3.250000000
+file 'assets/shots/12-16.jpg'
+option framerate 24
+duration 3.041666667
+file 'assets/shots/12-extra04.jpg'
+option framerate 24
+duration 3.000000000
+file 'assets/shots/12-extra04.jpg'
+option framerate 24

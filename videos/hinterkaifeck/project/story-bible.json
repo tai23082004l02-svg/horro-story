@@ -1,0 +1,75 @@
+{
+  "project": "Hinterkaifeck historical documentary",
+  "fiction": false,
+  "case_status": "unresolved",
+  "period": "Rural Bavaria, March31–April4 1922; later demolition1923 and present-day reflection",
+  "visual_style": "Semi-realistic cinematic illustrations; black-outline flat-color 2D default suspended by user",
+  "palette": [
+    "cold blue gray",
+    "warm amber practical light",
+    "muted brown wool",
+    "white plaster",
+    "dark clay roof"
+  ],
+  "location": "Approximate L-shaped white plaster farm and connected timber barn/stable with attached engine shed in open fields near village; not an exact reconstruction",
+  "cast": [
+    {
+      "role": "Andreas Gruber",
+      "age": 63,
+      "appearance": "lean, gray beard, waistcoat, brimmed hat"
+    },
+    {
+      "role": "Cäzilia Gruber",
+      "age": 72,
+      "appearance": "gray hair, dark headscarf"
+    },
+    {
+      "role": "Viktoria Gabriel",
+      "age": 35,
+      "appearance": "brown bun, brown long dress"
+    },
+    {
+      "role": "Cilli / Cäzilia Gabriel",
+      "age": 7,
+      "appearance": "braids, blue dress"
+    },
+    {
+      "role": "Josef Gruber",
+      "age": 2,
+      "appearance": "light hair, cream wool"
+    },
+    {
+      "role": "Maria Baumgartner",
+      "age": 45,
+      "appearance": "dark bun, gray dress, modest travel bag"
+    },
+    {
+      "role": "Albert Hofner",
+      "appearance": "younger mechanic, dark cap, mustache, work jacket"
+    },
+    {
+      "role": "Lorenz Schlittenbauer",
+      "appearance": "middle-aged, brown mustache, dark flat cap, dark tweed coat, neutral portrayal"
+    },
+    {
+      "role": "other neighbors",
+      "appearance": "stout clean-shaven man in tweed cap and another slim man in brimmed hat; no gray-bearded victim stand-in"
+    }
+  ],
+  "likenesses": "Illustrative stand-ins, not claims of authentic likeness; subtle consistency limitations of generated images remain",
+  "rules": [
+    "static images only",
+    "24fps 720p",
+    "no gore or bodies",
+    "no killer viewpoint or identified attacker",
+    "no supernatural figure",
+    "no fabricated readable evidence",
+    "no headers or counters"
+  ],
+  "reference_images": [
+    "assets/grids/01.png",
+    "assets/grids/02.png",
+    "assets/grids/07.png"
+  ],
+  "claim_controls": "See ../SOURCES.md; occupancy is an inference, not an eyewitness record; no verdict against any suspect"
+}

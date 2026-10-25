@@ -1,0 +1,310 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H00101010,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0.3,2,72,72,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.38,0:00:03.30,Default,,0,0,0,,Imagine arriving at a\Nfarm to repair an engine.
+Dialogue: 0,0:00:03.32,0:00:04.57,Default,,0,0,0,,The doors are closed.
+Dialogue: 0,0:00:04.60,0:00:06.38,Default,,0,0,0,,The family does not answer.
+Dialogue: 0,0:00:06.40,0:00:09.29,Default,,0,0,0,,You hear cattle, and a\Ndog, but no human voice.
+Dialogue: 0,0:00:09.31,0:00:11.21,Default,,0,0,0,,You wait, then get on with your work.
+Dialogue: 0,0:00:11.24,0:00:12.40,Default,,0,0,0,,Hours pass.
+Dialogue: 0,0:00:12.42,0:00:15.39,Default,,0,0,0,,When you leave, you still\Nhave not seen a single person.
+Dialogue: 0,0:00:15.41,0:00:19.10,Default,,0,0,0,,Later that afternoon, neighbors\Ndiscover six people dead inside the
+Dialogue: 0,0:00:19.12,0:00:20.06,Default,,0,0,0,,property.
+Dialogue: 0,0:00:20.09,0:00:23.68,Default,,0,0,0,,This happened at Hinterkaifeck,\Nin Bavaria, in April of nineteen
+Dialogue: 0,0:00:23.70,0:00:24.62,Default,,0,0,0,,twenty-two.
+Dialogue: 0,0:00:24.65,0:00:28.35,Default,,0,0,0,,And it leaves a question more\Nunsettling than an empty house.
+Dialogue: 0,0:00:28.88,0:00:31.42,Default,,0,0,0,,Was somebody still there\Nwhile the mechanic worked?
+Dialogue: 0,0:00:31.44,0:00:35.08,Default,,0,0,0,,Reports of activity after the\Nkillings have made this case famous.
+Dialogue: 0,0:00:35.11,0:00:37.76,Default,,0,0,0,,But the evidence is\Nnot a camera recording.
+Dialogue: 0,0:00:37.78,0:00:41.88,Default,,0,0,0,,It is a collection of observations,\Nstatements, and later recollections
+Dialogue: 0,0:00:41.90,0:00:43.97,Default,,0,0,0,,. Some details are strong.
+Dialogue: 0,0:00:43.99,0:00:46.76,Default,,0,0,0,,Others have become sharper in the\Ntelling than they ever were in the
+Dialogue: 0,0:00:46.78,0:00:47.74,Default,,0,0,0,,record.
+Dialogue: 0,0:00:47.77,0:00:51.47,Default,,0,0,0,,This is the story of six lives,\Na farm that seemed to keep
+Dialogue: 0,0:00:51.49,0:00:55.08,Default,,0,0,0,,functioning, and an investigation\Nthat never established who was
+Dialogue: 0,0:00:55.10,0:00:56.43,Default,,0,0,0,,responsible.
+Dialogue: 0,0:00:56.94,0:01:00.55,Default,,0,0,0,,The images you see are\Nillustrative reconstructions, not
+Dialogue: 0,0:01:00.57,0:01:02.72,Default,,0,0,0,,photographs of the crime scene.
+Dialogue: 0,0:01:03.66,0:01:07.28,Default,,0,0,0,,Hinterkaifeck was a working farm near\Nthe small settlement of Groebern,
+Dialogue: 0,0:01:07.31,0:01:08.48,Default,,0,0,0,,north of Munich.
+Dialogue: 0,0:01:08.51,0:01:12.22,Default,,0,0,0,,It was apart from its neighbors, but\Nnot beyond their sight or hearing.
+Dialogue: 0,0:01:12.25,0:01:16.33,Default,,0,0,0,,Calling it a house lost in an endless\Nforest creates the wrong picture.
+Dialogue: 0,0:01:16.36,0:01:19.66,Default,,0,0,0,,Fields and paths connected\Nit to ordinary village life.
+Dialogue: 0,0:01:19.68,0:01:23.28,Default,,0,0,0,,The older couple were Andreas\NGruber, sixty-three, and his wife,
+Dialogue: 0,0:01:23.31,0:01:25.40,Default,,0,0,0,,Cazilia, seventy-two.
+Dialogue: 0,0:01:25.42,0:01:28.74,Default,,0,0,0,,Their daughter, Viktoria\NGabriel, was thirty-five.
+Dialogue: 0,0:01:28.76,0:01:32.84,Default,,0,0,0,,Her husband, Karl, had been reported\Nkilled in the First World War.
+Dialogue: 0,0:01:33.39,0:01:37.39,Default,,0,0,0,,Viktoria had two children:\Nseven-year-old Cazilia, often
+Dialogue: 0,0:01:37.42,0:01:40.06,Default,,0,0,0,,called Cilli, and two-year-old Josef.
+Dialogue: 0,0:01:40.09,0:01:43.34,Default,,0,0,0,,On March thirty-first,\Na new employee arrived.
+Dialogue: 0,0:01:43.36,0:01:45.89,Default,,0,0,0,,Maria Baumgartner was forty-five.
+Dialogue: 0,0:01:45.92,0:01:49.09,Default,,0,0,0,,Her sister accompanied her\Nto the farm and then left.
+Dialogue: 0,0:01:49.12,0:01:51.30,Default,,0,0,0,,Maria had come to begin a job.
+Dialogue: 0,0:01:51.33,0:01:53.73,Default,,0,0,0,,She would not survive\Nher first night there.
+Dialogue: 0,0:01:53.75,0:01:57.97,Default,,0,0,0,,These people are often reduced to a\Nlist at the beginning of a mystery.
+Dialogue: 0,0:01:58.44,0:02:01.88,Default,,0,0,0,,But their daily lives explain\Nwhy absences would eventually
+Dialogue: 0,0:02:01.91,0:02:06.04,Default,,0,0,0,,matter: a child missing school,\Na family missing worship
+Dialogue: 0,0:02:06.07,0:02:08.73,Default,,0,0,0,,, work left without an owner to answer.
+Dialogue: 0,0:02:08.76,0:02:11.16,Default,,0,0,0,,Six different lives were interrupted.
+Dialogue: 0,0:02:11.18,0:02:14.76,Default,,0,0,0,,The youngest two could not possibly\Nhave understood the adult conflicts
+Dialogue: 0,0:02:14.78,0:02:17.39,Default,,0,0,0,,later used to explain their deaths.
+Dialogue: 0,0:02:18.32,0:02:21.83,Default,,0,0,0,,Before the murders, there were\Nreports of disturbing incidents.
+Dialogue: 0,0:02:21.86,0:02:25.41,Default,,0,0,0,,Neighbors said Andreas had described\Na damaged lock and tracks in the
+Dialogue: 0,0:02:25.43,0:02:29.23,Default,,0,0,0,,snow leading toward the farm,\Nwithout a matching trail away.
+Dialogue: 0,0:02:29.26,0:02:32.77,Default,,0,0,0,,Other accounts mention an unfamiliar\Nnewspaper and noises in the roof
+Dialogue: 0,0:02:32.79,0:02:36.97,Default,,0,0,0,,space. A former servant was said to\Nhave believed the place was haunted.
+Dialogue: 0,0:02:36.99,0:02:40.82,Default,,0,0,0,,It is easy to combine these into\Na perfect sequence: a stranger
+Dialogue: 0,0:02:40.84,0:02:43.91,Default,,0,0,0,,arrives, hides upstairs, and waits.
+Dialogue: 0,0:02:43.93,0:02:48.12,Default,,0,0,0,,The surviving material does not\Nlet us watch that sequence happen.
+Dialogue: 0,0:02:48.65,0:02:51.89,Default,,0,0,0,,The research chronology distinguishes\Ncontemporary statements from
+Dialogue: 0,0:02:51.91,0:02:54.20,Default,,0,0,0,,stories recorded years afterward.
+Dialogue: 0,0:02:54.22,0:02:57.89,Default,,0,0,0,,Some descriptions of the attic\Nnoises, for example, survive through
+Dialogue: 0,0:02:57.91,0:03:01.41,Default,,0,0,0,,secondhand accounts given long\Nafter nineteen twenty-two.
+Dialogue: 0,0:03:01.44,0:03:05.14,Default,,0,0,0,,Even a genuine track in snow\Ncannot identify a person,
+Dialogue: 0,0:03:05.16,0:03:09.25,Default,,0,0,0,,establish how long they stayed,\Nor explain another route out
+Dialogue: 0,0:03:09.27,0:03:12.01,Default,,0,0,0,,. A noise has many possible causes.
+Dialogue: 0,0:03:12.04,0:03:14.47,Default,,0,0,0,,That does not make the witnesses liars.
+Dialogue: 0,0:03:14.50,0:03:17.65,Default,,0,0,0,,It means the uncertainty\Nbelongs in the story.
+Dialogue: 0,0:03:18.23,0:03:21.53,Default,,0,0,0,,Andreas appears to have been\Nconcerned about interference at his
+Dialogue: 0,0:03:21.55,0:03:22.59,Default,,0,0,0,,property.
+Dialogue: 0,0:03:22.62,0:03:26.77,Default,,0,0,0,,Whether all the famous warning signs\Ncame from the same intruder remains
+Dialogue: 0,0:03:26.79,0:03:27.89,Default,,0,0,0,,unknown.
+Dialogue: 0,0:03:27.92,0:03:31.98,Default,,0,0,0,,The attic becomes frightening\Nprecisely because we cannot say who
+Dialogue: 0,0:03:32.00,0:03:34.34,Default,,0,0,0,,, if anyone, occupied it.
+Dialogue: 0,0:03:35.30,0:03:38.52,Default,,0,0,0,,The killings are generally placed\Non the evening of Friday, March
+Dialogue: 0,0:03:38.54,0:03:39.67,Default,,0,0,0,,thirty-first.
+Dialogue: 0,0:03:39.69,0:03:43.25,Default,,0,0,0,,Investigators reconstructed an\Nattack in the barn area and attacks
+Dialogue: 0,0:03:43.28,0:03:45.08,Default,,0,0,0,,inside the living quarters.
+Dialogue: 0,0:03:45.10,0:03:48.65,Default,,0,0,0,,Andreas, his wife, Viktoria,\Nand Cilli were found in the
+Dialogue: 0,0:03:48.68,0:03:51.58,Default,,0,0,0,,barn. Maria was found in her room.
+Dialogue: 0,0:03:51.60,0:03:54.67,Default,,0,0,0,,Josef was found in his\Ncarriage inside the house.
+Dialogue: 0,0:03:54.69,0:03:57.30,Default,,0,0,0,,All six had suffered fatal violence.
+Dialogue: 0,0:03:57.33,0:04:00.36,Default,,0,0,0,,We do not need to show it\Nto understand the loss.
+Dialogue: 0,0:04:00.88,0:04:04.45,Default,,0,0,0,,A commonly repeated reconstruction\Nhas members of the family drawn into
+Dialogue: 0,0:04:04.47,0:04:06.23,Default,,0,0,0,,the barn one after another.
+Dialogue: 0,0:04:06.26,0:04:08.86,Default,,0,0,0,,But no survivor described that sequence.
+Dialogue: 0,0:04:08.88,0:04:12.56,Default,,0,0,0,,The precise order, the reason they\Nentered, and the number of attackers
+Dialogue: 0,0:04:12.58,0:04:14.86,Default,,0,0,0,,were not established by an eyewitness.
+Dialogue: 0,0:04:14.88,0:04:18.80,Default,,0,0,0,,The connected buildings mattered:\Nthe barn, stable, and living rooms
+Dialogue: 0,0:04:18.82,0:04:20.81,Default,,0,0,0,,formed a route through the property.
+Dialogue: 0,0:04:20.83,0:04:24.57,Default,,0,0,0,,Someone could move between\Nagricultural spaces and the house.
+Dialogue: 0,0:04:24.60,0:04:27.97,Default,,0,0,0,,That is a fact about the building,\Nnot proof that its layout was
+Dialogue: 0,0:04:28.00,0:04:29.74,Default,,0,0,0,,familiar to the killer.
+Dialogue: 0,0:04:30.26,0:04:33.44,Default,,0,0,0,,As the night ended, the\Nfarm remained standing.
+Dialogue: 0,0:04:33.46,0:04:36.95,Default,,0,0,0,,There was no obvious disaster\Nvisible from the road.
+Dialogue: 0,0:04:36.98,0:04:40.55,Default,,0,0,0,,To someone passing outside,\Nthe difference between a quiet
+Dialogue: 0,0:04:40.58,0:04:44.48,Default,,0,0,0,,household and a catastrophe\Ncould be impossible to see.
+Dialogue: 0,0:04:45.44,0:04:49.28,Default,,0,0,0,,On Saturday, visitors came to the\Nproperty and received no answer.
+Dialogue: 0,0:04:49.30,0:04:51.12,Default,,0,0,0,,Cilli did not appear at school.
+Dialogue: 0,0:04:51.14,0:04:54.08,Default,,0,0,0,,By Sunday, the family\Nwas absent from church.
+Dialogue: 0,0:04:54.10,0:04:57.79,Default,,0,0,0,,Each observation was troubling, but\Neach could also seem explainable in
+Dialogue: 0,0:04:57.82,0:04:58.98,Default,,0,0,0,,isolation.
+Dialogue: 0,0:04:59.00,0:05:02.88,Default,,0,0,0,,A working farm was not a place where\Nevery closed door immediately meant
+Dialogue: 0,0:05:02.90,0:05:04.06,Default,,0,0,0,,an emergency.
+Dialogue: 0,0:05:04.09,0:05:07.00,Default,,0,0,0,,There were animals to\Ntend and errands to run.
+Dialogue: 0,0:05:07.03,0:05:10.70,Default,,0,0,0,,People could assume that somebody\Nelse had spoken to the household.
+Dialogue: 0,0:05:10.73,0:05:13.72,Default,,0,0,0,,On Monday, the postman made his delivery.
+Dialogue: 0,0:05:14.27,0:05:17.88,Default,,0,0,0,,A later statement recalled a detail\Nat the kitchen window: the little
+Dialogue: 0,0:05:17.91,0:05:20.82,Default,,0,0,0,,carriage he usually noticed\Nwas no longer there.
+Dialogue: 0,0:05:20.84,0:05:24.64,Default,,0,0,0,,It is a haunting memory, but it\Nwas recorded decades afterward.
+Dialogue: 0,0:05:24.67,0:05:27.96,Default,,0,0,0,,Its date matters when deciding\Nhow much weight to give it.
+Dialogue: 0,0:05:27.98,0:05:32.14,Default,,0,0,0,,Other reported signs, including\Nsmoke and activity around the farm,
+Dialogue: 0,0:05:32.17,0:05:35.94,Default,,0,0,0,,helped create the impression\Nthat ordinary life continued.
+Dialogue: 0,0:05:35.97,0:05:39.61,Default,,0,0,0,,None provides a continuous\Naccount of what happened inside.
+Dialogue: 0,0:05:39.63,0:05:41.57,Default,,0,0,0,,That gap is essential.
+Dialogue: 0,0:05:42.10,0:05:46.28,Default,,0,0,0,,We know the bodies were not discovered\Nuntil Tuesday, April fourth.
+Dialogue: 0,0:05:46.30,0:05:49.99,Default,,0,0,0,,We do not know, hour by hour, who\Nentered the property between the
+Dialogue: 0,0:05:50.01,0:05:51.96,Default,,0,0,0,,murders and that discovery.
+Dialogue: 0,0:05:51.99,0:05:56.06,Default,,0,0,0,,The delay gave the case its\Nterrible shape: visible buildings,
+Dialogue: 0,0:05:56.09,0:06:00.16,Default,,0,0,0,,audible animals, and no one who\Ncould answer for the people within.
+Dialogue: 0,0:06:01.10,0:06:04.56,Default,,0,0,0,,Tuesday brought one of the\Ncase's most unsettling witnesses.
+Dialogue: 0,0:06:04.59,0:06:08.74,Default,,0,0,0,,Albert Hofner arrived to repair\Na small engine used on the farm.
+Dialogue: 0,0:06:08.76,0:06:11.78,Default,,0,0,0,,According to the account preserved\Nin the research chronology, he
+Dialogue: 0,0:06:11.80,0:06:14.72,Default,,0,0,0,,arrived in the morning and\Ncould not find the residents.
+Dialogue: 0,0:06:14.75,0:06:17.56,Default,,0,0,0,,He looked around, heard\Nanimals, and waited.
+Dialogue: 0,0:06:17.59,0:06:21.08,Default,,0,0,0,,Then he worked in the attached\Nengine shed for several hours.
+Dialogue: 0,0:06:21.10,0:06:25.18,Default,,0,0,0,,He sang or whistled as he worked,\Nand tested the engine afterward
+Dialogue: 0,0:06:25.20,0:06:27.88,Default,,0,0,0,,. Still, no resident came out.
+Dialogue: 0,0:06:28.38,0:06:32.39,Default,,0,0,0,,His account also described the\Ndog and the state of a barn door.
+Dialogue: 0,0:06:32.42,0:06:36.57,Default,,0,0,0,,Details appeared to have changed\Nduring his visit: he later saw the dog
+Dialogue: 0,0:06:36.59,0:06:40.14,Default,,0,0,0,,tied outside, and noticed\Na barn entrance open.
+Dialogue: 0,0:06:40.17,0:06:44.32,Default,,0,0,0,,The exact comparison depends on his\Nobservations and on statements from
+Dialogue: 0,0:06:44.34,0:06:46.36,Default,,0,0,0,,the people who arrived later.
+Dialogue: 0,0:06:46.38,0:06:50.38,Default,,0,0,0,,If these descriptions are accurate,\Nthey suggest another person had
+Dialogue: 0,0:06:50.40,0:06:53.28,Default,,0,0,0,,access to the property during that period.
+Dialogue: 0,0:06:53.81,0:06:57.74,Default,,0,0,0,,They do not tell us whether that\Nperson was the murderer, an accomplice,
+Dialogue: 0,0:06:57.76,0:07:00.87,Default,,0,0,0,,or somebody whose presence\Nwas never explained.
+Dialogue: 0,0:07:00.90,0:07:03.37,Default,,0,0,0,,Imagine the limit of Hofner's view.
+Dialogue: 0,0:07:03.40,0:07:07.21,Default,,0,0,0,,A shed wall, an engine,\Nthe sound of his own tools.
+Dialogue: 0,0:07:07.24,0:07:10.61,Default,,0,0,0,,He could be close to the center\Nof the mystery without seeing it.
+Dialogue: 0,0:07:10.64,0:07:14.75,Default,,0,0,0,,He eventually left and reported\Nthat the repair was done, but nobody
+Dialogue: 0,0:07:14.77,0:07:16.15,Default,,0,0,0,,had answered him.
+Dialogue: 0,0:07:17.08,0:07:19.46,Default,,0,0,0,,Concern finally became a search.
+Dialogue: 0,0:07:19.48,0:07:23.08,Default,,0,0,0,,Neighbor Lorenz Schlittenbauer went\Nto Hinterkaifeck with Michael Poell
+Dialogue: 0,0:07:23.11,0:07:24.54,Default,,0,0,0,,and Jakob Sigl.
+Dialogue: 0,0:07:24.56,0:07:28.56,Default,,0,0,0,,On April fourth, the men entered the\Nagricultural part of the property
+Dialogue: 0,0:07:28.58,0:07:30.35,Default,,0,0,0,,and found four victims.
+Dialogue: 0,0:07:30.37,0:07:32.66,Default,,0,0,0,,The others were found inside the house.
+Dialogue: 0,0:07:32.68,0:07:34.47,Default,,0,0,0,,The police were notified.
+Dialogue: 0,0:07:34.50,0:07:38.07,Default,,0,0,0,,Before investigators could preserve\Nthe scene, however, people had
+Dialogue: 0,0:07:38.10,0:07:39.68,Default,,0,0,0,,already moved through it.
+Dialogue: 0,0:07:39.71,0:07:42.29,Default,,0,0,0,,Schlittenbauer moved some of the bodies.
+Dialogue: 0,0:07:42.79,0:07:46.33,Default,,0,0,0,,His explanation was that he was\Nlooking for little Josef, whom he had
+Dialogue: 0,0:07:46.35,0:07:50.48,Default,,0,0,0,,acknowledged as his son, and thought\Nthe child might still be saved.
+Dialogue: 0,0:07:50.50,0:07:53.65,Default,,0,0,0,,Other visitors and onlookers\Nadded to the disturbance.
+Dialogue: 0,0:07:53.68,0:07:56.83,Default,,0,0,0,,These actions would later become\Npart of the suspicion surrounding
+Dialogue: 0,0:07:56.85,0:07:57.98,Default,,0,0,0,,Schlittenbauer.
+Dialogue: 0,0:07:58.00,0:08:01.48,Default,,0,0,0,,They also created a practical\Nproblem independent of anybody's
+Dialogue: 0,0:08:01.50,0:08:05.32,Default,,0,0,0,,guilt: the first documented\Nscene was already an altered
+Dialogue: 0,0:08:05.34,0:08:06.25,Default,,0,0,0,,scene.
+Dialogue: 0,0:08:06.28,0:08:10.36,Default,,0,0,0,,Investigators had to ask the discoverers\Nto explain and reconstruct what
+Dialogue: 0,0:08:10.39,0:08:12.24,Default,,0,0,0,,they had originally seen.
+Dialogue: 0,0:08:12.77,0:08:16.60,Default,,0,0,0,,A footprint, an open door, or an\Nobject out of place could have more
+Dialogue: 0,0:08:16.62,0:08:17.93,Default,,0,0,0,,than one author.
+Dialogue: 0,0:08:17.96,0:08:21.24,Default,,0,0,0,,In a modern investigation,\Naccess would be controlled
+Dialogue: 0,0:08:21.27,0:08:22.47,Default,,0,0,0,,immediately.
+Dialogue: 0,0:08:22.50,0:08:26.43,Default,,0,0,0,,Here, the urgent human response\Nand the need to preserve evidence
+Dialogue: 0,0:08:26.46,0:08:27.51,Default,,0,0,0,,collided.
+Dialogue: 0,0:08:27.53,0:08:30.34,Default,,0,0,0,,The case had not simply lost four days.
+Dialogue: 0,0:08:30.37,0:08:33.92,Default,,0,0,0,,It had lost some of the distinctions\Nbetween what the attacker left and
+Dialogue: 0,0:08:33.94,0:08:35.96,Default,,0,0,0,,what everyone else changed.
+Dialogue: 0,0:08:36.90,0:08:39.77,Default,,0,0,0,,The physical evidence did\Nnot resolve the mystery.
+Dialogue: 0,0:08:39.79,0:08:42.41,Default,,0,0,0,,Money and valuables\Nremained at the property.
+Dialogue: 0,0:08:42.43,0:08:46.11,Default,,0,0,0,,That complicated a simple robbery\Nexplanation, although it could not
+Dialogue: 0,0:08:46.13,0:08:48.31,Default,,0,0,0,,prove that nothing had been taken.
+Dialogue: 0,0:08:48.33,0:08:52.28,Default,,0,0,0,,Leaving some money behind does not\Nreveal a killer's entire motive.
+Dialogue: 0,0:08:52.31,0:08:54.98,Default,,0,0,0,,Nor was the weapon\Nimmediately established.
+Dialogue: 0,0:08:55.01,0:08:58.31,Default,,0,0,0,,During the dismantling of the\Nfarm the following year, a heavy
+Dialogue: 0,0:08:58.33,0:09:01.79,Default,,0,0,0,,agricultural tool was found\Nhidden in the roof space.
+Dialogue: 0,0:09:01.82,0:09:05.26,Default,,0,0,0,,It was a root-cutting hoe,\Noften described in English as a
+Dialogue: 0,0:09:05.28,0:09:06.32,Default,,0,0,0,,mattock.
+Dialogue: 0,0:09:06.87,0:09:10.52,Default,,0,0,0,,A surviving account of the prosecutor's\Nreport described its unusual
+Dialogue: 0,0:09:10.55,0:09:13.54,Default,,0,0,0,,construction, including\Na projecting screw.
+Dialogue: 0,0:09:13.56,0:09:16.45,Default,,0,0,0,,Investigators connected\Nthe tool to the injuries.
+Dialogue: 0,0:09:16.47,0:09:19.81,Default,,0,0,0,,The farm tool mattered because it\Ncame from the property and because it
+Dialogue: 0,0:09:19.84,0:09:21.20,Default,,0,0,0,,had been concealed.
+Dialogue: 0,0:09:21.22,0:09:23.80,Default,,0,0,0,,But it did not arrive\Nwith a name attached.
+Dialogue: 0,0:09:23.82,0:09:27.01,Default,,0,0,0,,Someone familiar with the farm\Nmight know where to find it.
+Dialogue: 0,0:09:27.04,0:09:30.45,Default,,0,0,0,,A stranger could also find a\Ntool in a working agricultural
+Dialogue: 0,0:09:30.47,0:09:31.36,Default,,0,0,0,,building.
+Dialogue: 0,0:09:31.39,0:09:35.55,Default,,0,0,0,,Every object invited a story,\Nand more than one story could fit
+Dialogue: 0,0:09:35.57,0:09:39.66,Default,,0,0,0,,. This is why a plausible\Nreconstruction is not the same
+Dialogue: 0,0:09:39.68,0:09:41.69,Default,,0,0,0,,thing as a solved case.
+Dialogue: 0,0:09:41.72,0:09:44.44,Default,,0,0,0,,The tool narrowed part of the mechanism.
+Dialogue: 0,0:09:44.47,0:09:47.53,Default,,0,0,0,,The remaining valuables\Ncomplicated motive.
+Dialogue: 0,0:09:47.55,0:09:51.33,Default,,0,0,0,,Neither established the identity of\Nthe person who used violence that
+Dialogue: 0,0:09:51.35,0:09:52.24,Default,,0,0,0,,night.
+Dialogue: 0,0:09:53.20,0:09:56.66,Default,,0,0,0,,Return to the question that makes\NHinterkaifeck so disturbing.
+Dialogue: 0,0:09:56.68,0:09:59.60,Default,,0,0,0,,Did the killer remain on\Nthe farm after the murders?
+Dialogue: 0,0:09:59.63,0:10:03.40,Default,,0,0,0,,The suggestion comes from several\Nstrands: reports of smoke,
+Dialogue: 0,0:10:03.43,0:10:07.39,Default,,0,0,0,,indications interpreted as food\Npreparation, the condition of the
+Dialogue: 0,0:10:07.42,0:10:10.14,Default,,0,0,0,,animals, and the mechanic's observations.
+Dialogue: 0,0:10:10.17,0:10:14.00,Default,,0,0,0,,Taken together, they make\Ncontinued human activity a serious
+Dialogue: 0,0:10:14.03,0:10:15.23,Default,,0,0,0,,possibility.
+Dialogue: 0,0:10:15.25,0:10:17.48,Default,,0,0,0,,But each strand has limits.
+Dialogue: 0,0:10:18.01,0:10:21.63,Default,,0,0,0,,The research chronology explicitly\Ncautions that the extent of feeding
+Dialogue: 0,0:10:21.66,0:10:25.08,Default,,0,0,0,,and milking between the killings\Nand discovery is uncertain.
+Dialogue: 0,0:10:25.11,0:10:28.07,Default,,0,0,0,,Smoke cannot tell you\Nwhose hand tended a fire.
+Dialogue: 0,0:10:28.10,0:10:31.73,Default,,0,0,0,,A meal's remains cannot, by\Nthemselves, give every event a
+Dialogue: 0,0:10:31.76,0:10:33.23,Default,,0,0,0,,reliable time.
+Dialogue: 0,0:10:33.26,0:10:36.85,Default,,0,0,0,,And a dog seen in different places\Npoints toward movement, not an
+Dialogue: 0,0:10:36.87,0:10:38.51,Default,,0,0,0,,identified person.
+Dialogue: 0,0:10:38.53,0:10:40.41,Default,,0,0,0,,One person might have stayed.
+Dialogue: 0,0:10:40.43,0:10:42.06,Default,,0,0,0,,Someone might have returned.
+Dialogue: 0,0:10:42.08,0:10:44.86,Default,,0,0,0,,Some observations might be incomplete.
+Dialogue: 0,0:10:45.39,0:10:48.96,Default,,0,0,0,,These possibilities do not carry\Nequal proof simply because we can
+Dialogue: 0,0:10:48.99,0:10:50.19,Default,,0,0,0,,imagine them.
+Dialogue: 0,0:10:50.21,0:10:54.00,Default,,0,0,0,,What we can say is narrower: the\Nreports are difficult to reconcile with
+Dialogue: 0,0:10:54.03,0:10:57.54,Default,,0,0,0,,a completely observed,\Nsealed, empty property.
+Dialogue: 0,0:10:57.56,0:11:01.39,Default,,0,0,0,,What we cannot say is that a murderer\Ncertainly spent four uninterrupted
+Dialogue: 0,0:11:01.42,0:11:04.20,Default,,0,0,0,,days comfortably living\Nbeside the victims.
+Dialogue: 0,0:11:04.23,0:11:08.32,Default,,0,0,0,,That familiar claim turns an\Ninference into an eyewitness account
+Dialogue: 0,0:11:08.34,0:11:11.75,Default,,0,0,0,,. The real mystery is already\Npowerful enough without making the
+Dialogue: 0,0:11:11.78,0:11:13.93,Default,,0,0,0,,evidence say more than it does.
+Dialogue: 0,0:11:14.89,0:11:18.09,Default,,0,0,0,,Suspicion repeatedly returned to\Npeople with connections to the
+Dialogue: 0,0:11:18.11,0:11:19.29,Default,,0,0,0,,household.
+Dialogue: 0,0:11:19.31,0:11:22.96,Default,,0,0,0,,Lorenz Schlittenbauer had a relationship\Nwith Viktoria, and there had
+Dialogue: 0,0:11:22.99,0:11:26.91,Default,,0,0,0,,been conflict over Josef's\Npaternity and financial support.
+Dialogue: 0,0:11:26.94,0:11:30.40,Default,,0,0,0,,His conduct during the\Ndiscovery also drew attention.
+Dialogue: 0,0:11:30.43,0:11:33.54,Default,,0,0,0,,Those are reasons\Ninvestigators examined him.
+Dialogue: 0,0:11:33.56,0:11:34.99,Default,,0,0,0,,They are not a verdict.
+Dialogue: 0,0:11:35.01,0:11:38.91,Default,,0,0,0,,He was never convicted of these\Nmurders, and this film does not identify
+Dialogue: 0,0:11:38.94,0:11:40.47,Default,,0,0,0,,him as the killer.
+Dialogue: 0,0:11:40.99,0:11:44.52,Default,,0,0,0,,Another disturbing part of the\Nfamily history is documented:
+Dialogue: 0,0:11:44.54,0:11:48.23,Default,,0,0,0,,Andreas and Viktoria had been\Nprosecuted for incest in nineteen
+Dialogue: 0,0:11:48.26,0:11:49.27,Default,,0,0,0,,fifteen.
+Dialogue: 0,0:11:49.29,0:11:52.97,Default,,0,0,0,,When discussing this, it is important\Nto remember the unequal power
+Dialogue: 0,0:11:52.99,0:11:56.86,Default,,0,0,0,,between a father and daughter, and\Nto avoid turning Viktoria's history
+Dialogue: 0,0:11:56.88,0:11:58.83,Default,,0,0,0,,into an excuse for her murder.
+Dialogue: 0,0:11:58.86,0:12:02.73,Default,,0,0,0,,The record does not establish that\Nthis history caused the killings.
+Dialogue: 0,0:12:02.76,0:12:06.76,Default,,0,0,0,,Other suggestions involved\Noutsiders or people seeking money.
+Dialogue: 0,0:12:06.78,0:12:10.20,Default,,0,0,0,,A stranger might account\Nfor unfamiliar traces.
+Dialogue: 0,0:12:10.67,0:12:13.80,Default,,0,0,0,,A familiar person might account\Nfor knowledge of the buildings.
+Dialogue: 0,0:12:13.82,0:12:17.37,Default,,0,0,0,,Yet neither category explains\Nevery uncertain detail.
+Dialogue: 0,0:12:17.40,0:12:20.89,Default,,0,0,0,,If a theory can absorb any evidence,\Nit can become impossible to
+Dialogue: 0,0:12:20.91,0:12:21.81,Default,,0,0,0,,test.
+Dialogue: 0,0:12:21.84,0:12:25.95,Default,,0,0,0,,The useful question is not which\Nsuspect makes the most dramatic ending.
+Dialogue: 0,0:12:25.97,0:12:29.56,Default,,0,0,0,,It is which claim can be supported\Nindependently, which claim
+Dialogue: 0,0:12:29.59,0:12:33.34,Default,,0,0,0,,contradicts the record, and\Nwhat remains unexplained.
+Dialogue: 0,0:12:33.36,0:12:36.40,Default,,0,0,0,,Hinterkaifeck offers\Nsuspicion in abundance.
+Dialogue: 0,0:12:36.42,0:12:39.69,Default,,0,0,0,,It does not offer the proof needed\Nto turn a named person into the
+Dialogue: 0,0:12:39.71,0:12:40.79,Default,,0,0,0,,answer.
+Dialogue: 0,0:12:41.77,0:12:45.89,Default,,0,0,0,,One theory imagines Viktoria's\Nhusband, Karl Gabriel, secretly
+Dialogue: 0,0:12:45.91,0:12:48.92,Default,,0,0,0,,surviving the war and\Nreturning to take revenge.
+Dialogue: 0,0:12:48.95,0:12:52.41,Default,,0,0,0,,It has the shape of a thriller:\Na missing soldier, a hidden
+Dialogue: 0,0:12:52.44,0:12:54.96,Default,,0,0,0,,identity, a violent homecoming.
+Dialogue: 0,0:12:54.99,0:12:58.36,Default,,0,0,0,,The case researchers point\Nto a less cinematic record.
+Dialogue: 0,0:12:58.39,0:13:02.41,Default,,0,0,0,,Authorities investigated Karl's\Ndeath, received confirmation of his
+Dialogue: 0,0:13:02.44,0:13:06.54,Default,,0,0,0,,burial in France, and had\Ntestimony from former comrades.
+Dialogue: 0,0:13:06.56,0:13:10.75,Default,,0,0,0,,That does not identify the person\Nresponsible at Hinterkaifeck.
+Dialogue: 0,0:13:11.25,0:13:14.80,Default,,0,0,0,,It does mean the returning-husband\Nstory should not be presented as
+Dialogue: 0,0:13:14.83,0:13:16.34,Default,,0,0,0,,equally supported.
+Dialogue: 0,0:13:16.37,0:13:20.14,Default,,0,0,0,,The same caution applies to\Nsupernatural explanations.
+Dialogue: 0,0:13:20.17,0:13:24.09,Default,,0,0,0,,A frightened servant and noises\Nabove a ceiling do not establish a
+Dialogue: 0,0:13:24.12,0:13:25.12,Default,,0,0,0,,haunting.
+Dialogue: 0,0:13:25.14,0:13:29.19,Default,,0,0,0,,A ghost story can connect every gap\Nbecause it does not have to leave
+Dialogue: 0,0:13:29.22,0:13:30.27,Default,,0,0,0,,evidence.
+Dialogue: 0,0:13:30.29,0:13:34.46,Default,,0,0,0,,A historical investigation has\Nto live with the gaps instead.
+Dialogue: 0,0:13:34.98,0:13:39.03,Default,,0,0,0,,Over the years, repeated retellings\Nhave also made precise details seem
+Dialogue: 0,0:13:39.06,0:13:43.10,Default,,0,0,0,,settled: exactly who walked\Ninto the barn first, exactly how
+Dialogue: 0,0:13:43.12,0:13:46.45,Default,,0,0,0,,long an intruder waited,\Nexactly what they ate.
+Dialogue: 0,0:13:46.47,0:13:48.97,Default,,0,0,0,,Much of that precision is reconstruction.
+Dialogue: 0,0:13:49.00,0:13:52.81,Default,,0,0,0,,Even a source can contain an\Nerror, or a remembered detail
+Dialogue: 0,0:13:52.83,0:13:54.72,Default,,0,0,0,,recorded decades late.
+Dialogue: 0,0:13:54.75,0:13:58.00,Default,,0,0,0,,Our responsibility is to\Nkeep those limits visible.
+Dialogue: 0,0:13:58.02,0:14:02.13,Default,,0,0,0,,Rejecting a dramatic explanation\Ndoes not solve Hinterkaifeck
+Dialogue: 0,0:14:02.16,0:14:06.33,Default,,0,0,0,,. It helps preserve the difference\Nbetween a real tragedy and
+Dialogue: 0,0:14:06.35,0:14:08.90,Default,,0,0,0,,a story that has borrowed its names.
+Dialogue: 0,0:14:09.86,0:14:12.74,Default,,0,0,0,,The buildings were demolished\Nin nineteen twenty-three.
+Dialogue: 0,0:14:12.76,0:14:15.78,Default,,0,0,0,,The people who could have\Nexplained what happened are gone.
+Dialogue: 0,0:14:15.80,0:14:19.76,Default,,0,0,0,,Modern methods cannot recover an\Nintact scene that was never preserved
+Dialogue: 0,0:14:19.79,0:14:23.90,Default,,0,0,0,,for them. Even a future answer to\Na family relationship would not
+Dialogue: 0,0:14:23.93,0:14:26.53,Default,,0,0,0,,automatically identify a murderer.
+Dialogue: 0,0:14:26.55,0:14:28.90,Default,,0,0,0,,The case remains unresolved.
+Dialogue: 0,0:14:28.93,0:14:31.50,Default,,0,0,0,,So where does that leave\Nthe opening question?
+Dialogue: 0,0:14:31.53,0:14:35.43,Default,,0,0,0,,Hofner repaired an engine at a farm\Nwhose residents could no longer
+Dialogue: 0,0:14:35.45,0:14:36.69,Default,,0,0,0,,answer him.
+Dialogue: 0,0:14:37.19,0:14:40.89,Default,,0,0,0,,His account, and the other reports\Nof activity, suggest that somebody
+Dialogue: 0,0:14:40.92,0:14:43.58,Default,,0,0,0,,may have moved through the\Nproperty after the killings.
+Dialogue: 0,0:14:43.61,0:14:47.54,Default,,0,0,0,,The identity, timing, and purpose\Nof that person remain uncertain.
+Dialogue: 0,0:14:47.57,0:14:50.77,Default,,0,0,0,,We should resist filling those\Nempty spaces with certainty simply
+Dialogue: 0,0:14:50.79,0:14:53.09,Default,,0,0,0,,because certainty feels like an ending.
+Dialogue: 0,0:14:53.12,0:14:56.84,Default,,0,0,0,,Hinterkaifeck is not only a puzzle\Nabout who might have hidden upstairs.
+Dialogue: 0,0:14:56.87,0:15:00.96,Default,,0,0,0,,It is also the story of\NAndreas, Cazilia, Viktoria,
+Dialogue: 0,0:15:00.98,0:15:03.06,Default,,0,0,0,,Cilli, Josef, and Maria.
+Dialogue: 0,0:15:03.08,0:15:05.60,Default,,0,0,0,,A child who should have\Nreturned to school.
+Dialogue: 0,0:15:06.15,0:15:08.14,Default,,0,0,0,,A worker who had just arrived.
+Dialogue: 0,0:15:08.16,0:15:11.30,Default,,0,0,0,,A family whose silence\Nwas understood too late.
+Dialogue: 0,0:15:11.32,0:15:12.94,Default,,0,0,0,,The farm is gone.
+Dialogue: 0,0:15:12.96,0:15:14.57,Default,,0,0,0,,The question remains.
+Dialogue: 0,0:15:14.60,0:15:18.25,Default,,0,0,0,,But remembering what the evidence\Ncannot tell us is part of remembering
+Dialogue: 0,0:15:18.27,0:15:20.06,Default,,0,0,0,,these people honestly.
