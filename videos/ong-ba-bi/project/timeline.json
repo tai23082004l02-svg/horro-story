@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 5.625,
+    "text": "Did you know Vietnam has a bogeyman who carries children away in sacks?",
+    "image": "project/assets/scene-01.png"
+  },
+  {
+    "id": 2,
+    "start": 5.625,
+    "end": 8.708333333333334,
+    "text": "They call him Ong Ba Bi.",
+    "image": "project/assets/scene-02.png"
+  },
+  {
+    "id": 3,
+    "start": 8.708333333333334,
+    "end": 13.5,
+    "text": "Parents used his name to frighten children into behaving.",
+    "image": "project/assets/scene-03.png"
+  },
+  {
+    "id": 4,
+    "start": 13.5,
+    "end": 17.5,
+    "text": "Three sacks. Nine straps. Twelve eyes.",
+    "image": "project/assets/scene-04.png"
+  },
+  {
+    "id": 5,
+    "start": 17.5,
+    "end": 22.0,
+    "text": "Behave, or he will take you. That was the warning.",
+    "image": "project/assets/scene-05.png"
+  },
+  {
+    "id": 6,
+    "start": 22.0,
+    "end": 26.25,
+    "text": "Now imagine that warning becoming a nightmare.",
+    "image": "project/assets/scene-06.png"
+  },
+  {
+    "id": 7,
+    "start": 26.25,
+    "end": 31.75,
+    "text": "He bends beneath your ceiling. His footsteps stop outside your room.",
+    "image": "project/assets/scene-07.png"
+  },
+  {
+    "id": 8,
+    "start": 31.75,
+    "end": 35.208333333333336,
+    "text": "The sacks on his back are breathing.",
+    "image": "project/assets/scene-08.png"
+  },
+  {
+    "id": 9,
+    "start": 35.208333333333336,
+    "end": 40.583333333333336,
+    "text": "His smile splits open. He didn't come to frighten you. He's hungry.",
+    "image": "project/assets/scene-09.png"
+  },
+  {
+    "id": 10,
+    "start": 40.583333333333336,
+    "end": 45.5,
+    "text": "You hide beneath the covers. But the ceiling is watching.",
+    "image": "project/assets/scene-10.png"
+  },
+  {
+    "id": 11,
+    "start": 45.5,
+    "end": 50.708333333333336,
+    "text": "The walls fold inward. Wood turns into woven cloth.",
+    "image": "project/assets/scene-11.png"
+  },
+  {
+    "id": 12,
+    "start": 50.708333333333336,
+    "end": 56.29166666666667,
+    "text": "Those footsteps weren't outside. You're already inside his sack.",
+    "image": "project/assets/scene-12.png"
+  }
+]
