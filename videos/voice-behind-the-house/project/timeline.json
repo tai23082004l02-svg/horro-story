@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 5.583333333333333,
+    "text": "At midnight, a voice called from the banana trees behind our house.",
+    "image": "project/assets/scene-01.png"
+  },
+  {
+    "id": 2,
+    "start": 5.583333333333333,
+    "end": 9.208333333333332,
+    "text": "It sounded exactly like my mother.",
+    "image": "project/assets/scene-02.png"
+  },
+  {
+    "id": 3,
+    "start": 9.208333333333332,
+    "end": 12.833333333333332,
+    "text": "\"Come outside, honey. Bring the lamp.\"",
+    "image": "project/assets/scene-03.png"
+  },
+  {
+    "id": 4,
+    "start": 12.833333333333332,
+    "end": 16.75,
+    "text": "I picked it up. She sounded so close.",
+    "image": "project/assets/scene-04.png"
+  },
+  {
+    "id": 5,
+    "start": 16.75,
+    "end": 20.458333333333332,
+    "text": "I walked to the back door without answering.",
+    "image": "project/assets/scene-05.png"
+  },
+  {
+    "id": 6,
+    "start": 20.458333333333332,
+    "end": 24.208333333333332,
+    "text": "My fingers were already touching the lock.",
+    "image": "project/assets/scene-06.png"
+  },
+  {
+    "id": 7,
+    "start": 24.208333333333332,
+    "end": 27.541666666666664,
+    "text": "Then my phone started ringing.",
+    "image": "project/assets/scene-07.png"
+  },
+  {
+    "id": 8,
+    "start": 27.541666666666664,
+    "end": 31.499999999999996,
+    "text": "It was Mom. She was still at the hospital.",
+    "image": "project/assets/scene-08.png"
+  },
+  {
+    "id": 9,
+    "start": 31.499999999999996,
+    "end": 36.83333333333333,
+    "text": "\"Listen carefully. If you hear me outside tonight, do not answer.\"",
+    "image": "project/assets/scene-09.png"
+  },
+  {
+    "id": 10,
+    "start": 36.83333333333333,
+    "end": 40.33333333333333,
+    "text": "I pulled my hand away from the lock.",
+    "image": "project/assets/scene-10.png"
+  },
+  {
+    "id": 11,
+    "start": 40.33333333333333,
+    "end": 44.58333333333333,
+    "text": "Something pressed against the other side of the door.",
+    "image": "project/assets/scene-11.png"
+  },
+  {
+    "id": 12,
+    "start": 44.58333333333333,
+    "end": 49.541666666666664,
+    "text": "Then her voice whispered, \"I know you are standing there.\"",
+    "image": "project/assets/scene-12.png"
+  }
+]

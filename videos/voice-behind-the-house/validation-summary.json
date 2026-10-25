@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "duration_seconds": 49.6,
+  "scenes": 12,
+  "mean_scene_seconds": 4.133333333333334,
+  "caption_cues": 26,
+  "loudness_lufs": -16.58,
+  "true_peak_dbtp": -1.86,
+  "decode": "passed",
+  "caption_bounds": "passed",
+  "sha256": "5c85c574cb13bdec211c4cdcbf0aaf836b31c342a8d6d32d15b8914cb61c7626",
+  "streams": [
+    {
+      "codec": "h264",
+      "type": "video",
+      "width": 720,
+      "height": 1280,
+      "fps": "24/1",
+      "sample_rate": null
+    },
+    {
+      "codec": "aac",
+      "type": "audio",
+      "width": null,
+      "height": null,
+      "fps": "0/0",
+      "sample_rate": "48000"
+    }
+  ],
+  "manual_review": "All three original sheets inspected visually. Exported frames sampled. No complete manual audio/video playback.",
+  "source_resolution": "Four panels per 941x1672 sheet, trimmed and enlarged for 720x1280 export."
+}

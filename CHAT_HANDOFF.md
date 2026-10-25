@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện tại
 
+**Video mới — The Voice Behind the House:** Người dùng chốt kinh dị dân gian Việt Nam, lời kể tiếng Anh cho khán giả Mỹ và nhịp trung bình khoảng 4 giây/cảnh. Sản phẩm tại `videos/voice-behind-the-house/`: 12 cảnh từ 3 sheet 2×2, ảnh tĩnh, dọc 720×1280, Kokoro am_michael tốc độ 1.0, phụ đề tiếng Anh theo token timing. Ảnh ô khoảng470×836 được phóng lên720p, không gọi là ảnh gốc720p. Đây là truyện hư cấu mới, độc lập Channel Nine. Xem validation-summary.json để biết số đo và phạm vi QA thực tế. Không tự đăng YouTube.
+
 **Tác vụ mới đang dở — Channel Nine:** Người dùng chọn làm video mới theo hướng ảnh nét hơn, kinh dị giải trí; không làm lại Hinterkaifeck. Đã chuẩn bị [The Last Voice on Channel Nine](videos/channel-nine/README.md), truyện hư cấu mới: bản nghe có sound design dài374,750 giây, Kokoro am_michael1.07, AAC48kHz stereo; đo bản AAC thực tế−16,00LUFS/−3,14dBTP, giải mã audio và coverage phụ đề đạt. Có raw voice/mix/bed, script, SRT, story bible,112 prompt ứng viên và96 cảnh được chọn có timing.
 
 **Chặn ngoài môi trường:** image_gen trả HTTP429 usage_limit_reached ngay lần tạo ảnh mới đầu tiên. Công cụ báo reset dự kiến25/10/2026 13:12:11 giờ Việt Nam; phải thử lại sau thay đổi trạng thái thật, không lặp gọi hoặc lách hạn mức. **0/96 ảnh mới, chưa có thumbnail hoặc MP4.** [Báo cáo audio](videos/channel-nine/validation-summary.json) ghi rõ trạng thái partial. [Hướng dẫn tiếp tục](videos/channel-nine/project/README.md) và image-generation.md liệt kê phần còn lại. render_video.py mới chỉ chạy preflight thiếu ảnh; chưa chạy đường dựng/validate_video.py. Không nhận video đã hoàn thành. Không dùng lại ảnh Hinterkaifeck cho truyện này.
