@@ -1,0 +1,446 @@
+{
+ "total_seconds": 263.21,
+ "segments": [
+  {
+   "block": 1,
+   "text": "How do you build something this big in the middle of the ocean?",
+   "idx": 1,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-001.mp3",
+   "duration": 3.744,
+   "start": 0.0,
+   "end": 3.744
+  },
+  {
+   "block": 1,
+   "text": "There is no road to the construction site.",
+   "idx": 2,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-002.mp3",
+   "duration": 2.76,
+   "start": 4.094,
+   "end": 6.854
+  },
+  {
+   "block": 1,
+   "text": "A ship moves beneath the crane.",
+   "idx": 3,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-003.mp3",
+   "duration": 2.424,
+   "start": 7.204,
+   "end": 9.628
+  },
+  {
+   "block": 1,
+   "text": "And the finished platform has to face weather that can stop the entire operation.",
+   "idx": 4,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-004.mp3",
+   "duration": 5.064,
+   "start": 9.978,
+   "end": 15.042
+  },
+  {
+   "block": 1,
+   "text": "The answer starts with the enormous structure hidden below the waves.",
+   "idx": 5,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-005.mp3",
+   "duration": 4.464,
+   "start": 15.392,
+   "end": 19.856
+  },
+  {
+   "block": 2,
+   "text": "First, a distinction.",
+   "idx": 6,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-006.mp3",
+   "duration": 2.184,
+   "start": 20.756,
+   "end": 22.94
+  },
+  {
+   "block": 2,
+   "text": "Some offshore platforms stand on the seabed.",
+   "idx": 7,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-007.mp3",
+   "duration": 3.12,
+   "start": 23.29,
+   "end": 26.41
+  },
+  {
+   "block": 2,
+   "text": "Others float.",
+   "idx": 8,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-008.mp3",
+   "duration": 1.296,
+   "start": 26.76,
+   "end": 28.056
+  },
+  {
+   "block": 2,
+   "text": "We are following a fixed steel-jacket platform: a deck supported by a braced steel framework, with piles securing it into the ground below.",
+   "idx": 9,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-009.mp3",
+   "duration": 9.696,
+   "start": 28.406,
+   "end": 38.102
+  },
+  {
+   "block": 2,
+   "text": "This is one important design, not a blueprint for every offshore structure.",
+   "idx": 10,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-010.mp3",
+   "duration": 5.304,
+   "start": 38.452,
+   "end": 43.756
+  },
+  {
+   "block": 3,
+   "text": "Much of the work happens on shore.",
+   "idx": 11,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-011.mp3",
+   "duration": 2.424,
+   "start": 44.656,
+   "end": 47.08
+  },
+  {
+   "block": 3,
+   "text": "In a fabrication yard, crews assemble the steel framework and build the equipment modules that will sit above it.",
+   "idx": 12,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-012.mp3",
+   "duration": 6.672,
+   "start": 47.43,
+   "end": 54.102
+  },
+  {
+   "block": 3,
+   "text": "Working here allows large sections to be put together before they go offshore.",
+   "idx": 13,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-013.mp3",
+   "duration": 4.92,
+   "start": 54.452,
+   "end": 59.372
+  },
+  {
+   "block": 3,
+   "text": "The challenge becomes moving those sections, then connecting them at sea.",
+   "idx": 14,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-014.mp3",
+   "duration": 4.68,
+   "start": 59.722,
+   "end": 64.402
+  },
+  {
+   "block": 4,
+   "text": "The jacket and deck modules travel offshore on specialized vessels or barges.",
+   "idx": 15,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-015.mp3",
+   "duration": 5.688,
+   "start": 65.302,
+   "end": 70.99
+  },
+  {
+   "block": 4,
+   "text": "Cargo has to be secured for the trip, and the installation team needs suitable conditions at the destination.",
+   "idx": 16,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-016.mp3",
+   "duration": 6.624,
+   "start": 71.34,
+   "end": 77.964
+  },
+  {
+   "block": 4,
+   "text": "A giant component can be strong enough for service and still demand extremely careful handling on the way there.",
+   "idx": 17,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-017.mp3",
+   "duration": 6.768,
+   "start": 78.314,
+   "end": 85.082
+  },
+  {
+   "block": 5,
+   "text": "At the site, the jacket has to be placed upright on the seabed.",
+   "idx": 18,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-018.mp3",
+   "duration": 4.416,
+   "start": 85.982,
+   "end": 90.398
+  },
+  {
+   "block": 5,
+   "text": "Methods vary.",
+   "idx": 19,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-019.mp3",
+   "duration": 1.392,
+   "start": 90.748,
+   "end": 92.14
+  },
+  {
+   "block": 5,
+   "text": "Some jackets are launched and then upended; others can be lifted directly from a barge.",
+   "idx": 20,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-020.mp3",
+   "duration": 5.88,
+   "start": 92.49,
+   "end": 98.37
+  },
+  {
+   "block": 5,
+   "text": "For our illustration, a crane vessel lifts and positions the jacket.",
+   "idx": 21,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-021.mp3",
+   "duration": 4.92,
+   "start": 98.72,
+   "end": 103.64
+  },
+  {
+   "block": 5,
+   "text": "Its movement is controlled throughout the operation.",
+   "idx": 22,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-022.mp3",
+   "duration": 3.168,
+   "start": 103.99,
+   "end": 107.158
+  },
+  {
+   "block": 6,
+   "text": "Placing the framework is only part of the job.",
+   "idx": 23,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-023.mp3",
+   "duration": 3.36,
+   "start": 108.058,
+   "end": 111.418
+  },
+  {
+   "block": 6,
+   "text": "Steel piles are driven into the seabed to secure the foundation.",
+   "idx": 24,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-024.mp3",
+   "duration": 4.224,
+   "start": 111.768,
+   "end": 115.992
+  },
+  {
+   "block": 6,
+   "text": "In this simplified example, they pass through guides at the jacket legs.",
+   "idx": 25,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-025.mp3",
+   "duration": 4.824,
+   "start": 116.342,
+   "end": 121.166
+  },
+  {
+   "block": 6,
+   "text": "A cutaway makes the connection visible: deck to framework, framework to piles, piles to the surrounding ground.",
+   "idx": 26,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-026.mp3",
+   "duration": 7.8,
+   "start": 121.516,
+   "end": 129.316
+  },
+  {
+   "block": 7,
+   "text": "Now the upper sections can be installed.",
+   "idx": 27,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-027.mp3",
+   "duration": 2.616,
+   "start": 130.216,
+   "end": 132.832
+  },
+  {
+   "block": 7,
+   "text": "These are called the topsides: the decks carrying equipment and, on a manned platform, spaces for the crew.",
+   "idx": 28,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-028.mp3",
+   "duration": 7.392,
+   "start": 133.182,
+   "end": 140.574
+  },
+  {
+   "block": 7,
+   "text": "Heavy-lift vessels can place large modules onto the support structure.",
+   "idx": 29,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-029.mp3",
+   "duration": 4.824,
+   "start": 140.924,
+   "end": 145.748
+  },
+  {
+   "block": 7,
+   "text": "The lift is only one stage; connections, checks and commissioning still have to follow.",
+   "idx": 30,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-030.mp3",
+   "duration": 6.144,
+   "start": 146.098,
+   "end": 152.242
+  },
+  {
+   "block": 8,
+   "text": "The finished structure has to be designed for its location and the forces it may face.",
+   "idx": 31,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-031.mp3",
+   "duration": 5.448,
+   "start": 153.142,
+   "end": 158.59
+  },
+  {
+   "block": 8,
+   "text": "Its steel frame is part of that response, but engineering does not make a platform invincible.",
+   "idx": 32,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-032.mp3",
+   "duration": 6.24,
+   "start": 158.94,
+   "end": 165.18
+  },
+  {
+   "block": 8,
+   "text": "Inspections, maintenance and weather planning remain essential.",
+   "idx": 33,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-033.mp3",
+   "duration": 4.68,
+   "start": 165.53,
+   "end": 170.21
+  },
+  {
+   "block": 8,
+   "text": "Construction weather and survival weather are very different problems.",
+   "idx": 34,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-034.mp3",
+   "duration": 4.512,
+   "start": 170.56,
+   "end": 175.072
+  },
+  {
+   "block": 9,
+   "text": "There is also a human side to the design.",
+   "idx": 35,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-035.mp3",
+   "duration": 3.048,
+   "start": 175.972,
+   "end": 179.02
+  },
+  {
+   "block": 9,
+   "text": "A manned platform needs places to work, rest and gather in an emergency.",
+   "idx": 36,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-036.mp3",
+   "duration": 5.016,
+   "start": 179.37,
+   "end": 184.386
+  },
+  {
+   "block": 9,
+   "text": "The deck is a workplace with routes, boundaries and limited space.",
+   "idx": 37,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-037.mp3",
+   "duration": 4.56,
+   "start": 184.736,
+   "end": 189.296
+  },
+  {
+   "block": 9,
+   "text": "Equipment and accommodation have to share that space without turning every journey across it into an obstacle course.",
+   "idx": 38,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-038.mp3",
+   "duration": 7.248,
+   "start": 189.646,
+   "end": 196.894
+  },
+  {
+   "block": 10,
+   "text": "When severe weather threatens, protecting people can mean shutting in production and evacuating ahead of the storm.",
+   "idx": 39,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-039.mp3",
+   "duration": 6.768,
+   "start": 197.794,
+   "end": 204.562
+  },
+  {
+   "block": 10,
+   "text": "The decisions depend on forecasts, the facility and its emergency plan.",
+   "idx": 40,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-040.mp3",
+   "duration": 5.16,
+   "start": 204.912,
+   "end": 210.072
+  },
+  {
+   "block": 10,
+   "text": "Escape and rescue arrangements matter too.",
+   "idx": 41,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-041.mp3",
+   "duration": 3.168,
+   "start": 210.422,
+   "end": 213.59
+  },
+  {
+   "block": 10,
+   "text": "A dramatic storm shot should never imply that a helicopter can simply arrive in any conditions.",
+   "idx": 42,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-042.mp3",
+   "duration": 6.384,
+   "start": 213.94,
+   "end": 220.324
+  },
+  {
+   "block": 11,
+   "text": "In deeper water, the answer may be a floating system instead of a fixed jacket.",
+   "idx": 43,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-043.mp3",
+   "duration": 5.256,
+   "start": 221.224,
+   "end": 226.48
+  },
+  {
+   "block": 11,
+   "text": "A semi-submersible gets support from its buoyant hull and uses a mooring system to hold position.",
+   "idx": 44,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-044.mp3",
+   "duration": 6.528,
+   "start": 226.83,
+   "end": 233.358
+  },
+  {
+   "block": 11,
+   "text": "It is not standing on legs that reach the bottom.",
+   "idx": 45,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-045.mp3",
+   "duration": 3.456,
+   "start": 233.708,
+   "end": 237.164
+  },
+  {
+   "block": 11,
+   "text": "Different conditions lead engineers toward different structures.",
+   "idx": 46,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-046.mp3",
+   "duration": 3.84,
+   "start": 237.514,
+   "end": 241.354
+  },
+  {
+   "block": 12,
+   "text": "So the building above the waves is only the visible part of the project.",
+   "idx": 47,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-047.mp3",
+   "duration": 4.728,
+   "start": 242.254,
+   "end": 246.982
+  },
+  {
+   "block": 12,
+   "text": "For a fixed jacket platform, fabrication on land, transport at sea, a piled foundation and carefully planned lifts all have to fit together.",
+   "idx": 48,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-048.mp3",
+   "duration": 10.368,
+   "start": 247.332,
+   "end": 257.7
+  },
+  {
+   "block": 12,
+   "text": "What looks like a building in the ocean is a structure connected to the ground beneath it.",
+   "idx": 49,
+   "file": "/home/hatch/workspace/offshore-platform/audio/segments-s82/seg-049.mp3",
+   "duration": 5.16,
+   "start": 258.05,
+   "end": 263.21
+  }
+ ]
+}

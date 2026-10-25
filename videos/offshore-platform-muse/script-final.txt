@@ -1,0 +1,35 @@
+01. The ocean hides the answer
+How do you build something this big in the middle of the ocean? There is no road to the construction site. A ship moves beneath the crane. And the finished platform has to face weather that can stop the entire operation. The answer starts with the enormous structure hidden below the waves.
+
+02. Choose the right kind of platform
+First, a distinction. Some offshore platforms stand on the seabed. Others float. We are following a fixed steel-jacket platform: a deck supported by a braced steel framework, with piles securing it into the ground below. This is one important design, not a blueprint for every offshore structure.
+
+03. Build where the ground stays still
+Much of the work happens on shore. In a fabrication yard, crews assemble the steel framework and build the equipment modules that will sit above it. Working here allows large sections to be put together before they go offshore. The challenge becomes moving those sections, then connecting them at sea.
+
+04. Turn the construction site into a voyage
+The jacket and deck modules travel offshore on specialized vessels or barges. Cargo has to be secured for the trip, and the installation team needs suitable conditions at the destination. A giant component can be strong enough for service and still demand extremely careful handling on the way there.
+
+05. Place the steel skeleton
+At the site, the jacket has to be placed upright on the seabed. Methods vary. Some jackets are launched and then upended; others can be lifted directly from a barge. For our illustration, a crane vessel lifts and positions the jacket. Its movement is controlled throughout the operation.
+
+06. Connect it to the ground
+Placing the framework is only part of the job. Steel piles are driven into the seabed to secure the foundation. In this simplified example, they pass through guides at the jacket legs. A cutaway makes the connection visible: deck to framework, framework to piles, piles to the surrounding ground.
+
+07. Lift the building onto its foundation
+Now the upper sections can be installed. These are called the topsides: the decks carrying equipment and, on a manned platform, spaces for the crew. Heavy-lift vessels can place large modules onto the support structure. The lift is only one stage; connections, checks and commissioning still have to follow.
+
+08. The sea sets the conditions
+The finished structure has to be designed for its location and the forces it may face. Its steel frame is part of that response, but engineering does not make a platform invincible. Inspections, maintenance and weather planning remain essential. Construction weather and survival weather are very different problems.
+
+09. A workplace above the water
+There is also a human side to the design. A manned platform needs places to work, rest and gather in an emergency. The deck is a workplace with routes, boundaries and limited space. Equipment and accommodation have to share that space without turning every journey across it into an obstacle course.
+
+10. What happens when a storm approaches?
+When severe weather threatens, protecting people can mean shutting in production and evacuating ahead of the storm. The decisions depend on forecasts, the facility and its emergency plan. Escape and rescue arrangements matter too. A dramatic storm shot should never imply that a helicopter can simply arrive in any conditions.
+
+11. Deeper water changes the answer
+In deeper water, the answer may be a floating system instead of a fixed jacket. A semi-submersible gets support from its buoyant hull and uses a mooring system to hold position. It is not standing on legs that reach the bottom. Different conditions lead engineers toward different structures.
+
+12. The complete picture
+So the building above the waves is only the visible part of the project. For a fixed jacket platform, fabrication on land, transport at sea, a piled foundation and carefully planned lifts all have to fit together. What looks like a building in the ocean is a structure connected to the ground beneath it.
