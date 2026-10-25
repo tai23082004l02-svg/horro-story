@@ -1,0 +1,162 @@
+[
+  {
+    "scene": 1,
+    "source": "sheet-1.png",
+    "crop": [
+      4,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 2,
+    "source": "sheet-1.png",
+    "crop": [
+      474,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 3,
+    "source": "sheet-1.png",
+    "crop": [
+      4,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 4,
+    "source": "sheet-1.png",
+    "crop": [
+      474,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 5,
+    "source": "sheet-2.png",
+    "crop": [
+      4,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 6,
+    "source": "sheet-2.png",
+    "crop": [
+      474,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 7,
+    "source": "sheet-2.png",
+    "crop": [
+      4,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 8,
+    "source": "sheet-2.png",
+    "crop": [
+      474,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 9,
+    "source": "sheet-3.png",
+    "crop": [
+      4,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 10,
+    "source": "sheet-3.png",
+    "crop": [
+      474,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 11,
+    "source": "sheet-3.png",
+    "crop": [
+      4,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 12,
+    "source": "sheet-3.png",
+    "crop": [
+      474,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 13,
+    "source": "sheet-4.png",
+    "crop": [
+      4,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 14,
+    "source": "sheet-4.png",
+    "crop": [
+      474,
+      4,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 15,
+    "source": "sheet-4.png",
+    "crop": [
+      4,
+      840,
+      462,
+      828
+    ]
+  },
+  {
+    "scene": 16,
+    "source": "sheet-4.png",
+    "crop": [
+      474,
+      840,
+      462,
+      828
+    ]
+  }
+]

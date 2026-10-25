@@ -1,0 +1,53 @@
+{
+  "hypothesis": "A concrete cold open, fictional rules and a fair misdirection reveal will hold attention better than a list of creature facts.",
+  "beats": [
+    {
+      "shots": [
+        1
+      ],
+      "purpose": "Immediate anomaly and locked-gate question"
+    },
+    {
+      "shots": [
+        2,
+        3,
+        4
+      ],
+      "purpose": "Brief Vietnamese cultural context"
+    },
+    {
+      "shots": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "purpose": "Explicit fictional transition, voice and two rules"
+    },
+    {
+      "shots": [
+        9,
+        10
+      ],
+      "purpose": "Compliance and false relief"
+    },
+    {
+      "shots": [
+        11,
+        12
+      ],
+      "purpose": "Threat changes location"
+    },
+    {
+      "shots": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "purpose": "Explain decoy, reveal second sack and close story"
+    }
+  ],
+  "evaluation": "Compare opening retention, midpoint retention, completion rate and rewatches after user publication. No metrics exist yet.",
+  "ending": "No request to subscribe interrupts the final reveal."
+}

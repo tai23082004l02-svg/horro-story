@@ -2,6 +2,8 @@
 
 ## Trạng thái hiện tại
 
+**Mới nhất — Ong Ba Bi: Two Rules:** Người dùng đồng ý thử dạng chuyện có luật cấm/bí mật để giữ chân. `videos/ong-ba-bi-two-rules/`: câu chuyện mới74,1giây/16cảnh, hình giả tư liệu+uncanny từ4sheet2×2, Kokoro am_michael US English1.0, phụ đề token timing, dọc720p24fps. Luật không đáp/không mở bao là sáng tác, được giới thiệu rõ; không nhận là tục lệ dân gian. Bao ngoài cửa là mồi nhử; quỷ đã dưới giường kéo bao thứ hai. Hai cảnh cuối chuyển phụ đề lên trên để không che khuôn mặt. Xem validation-summary.json và SOURCES.md; chưa có dữ liệu giữ chân thực tế, không tự đăng YouTube.
+
 **Mới nhất — Ong Ba Bi:** Người dùng đổi sang giới thiệu ma quỷ dân gian Việt Nam, phong cách **siêu thực u tối**, tăng độ kinh dị; giữ giọng Anh Mỹ. `videos/ong-ba-bi/` có12 cảnh mới từ3 sheet2×2, Kokoro am_michael1.0, dọc720×1280, phụ đề theo token và âm trầm tự tổng hợp. Phần đầu dựa nguồn về Ông Ba Bị, phần sau mở bằng “Now imagine…” là ác mộng hư cấu. Không khẳng định ăn thịt trẻ con là đặc tính dân gian đã được xác minh. Xem SOURCES.md và validation-summary.json. Ảnh ô nhỏ phóng lên720p; không tự gọi native720p. Không đăng YouTube.
 
 **Video mới — The Voice Behind the House:** Người dùng chốt kinh dị dân gian Việt Nam, lời kể tiếng Anh cho khán giả Mỹ và nhịp trung bình khoảng 4 giây/cảnh. Sản phẩm tại `videos/voice-behind-the-house/`: 12 cảnh từ 3 sheet 2×2, ảnh tĩnh, dọc 720×1280, Kokoro am_michael tốc độ 1.0, phụ đề tiếng Anh theo token timing. Ảnh ô khoảng470×836 được phóng lên720p, không gọi là ảnh gốc720p. Đây là truyện hư cấu mới, độc lập Channel Nine. Xem validation-summary.json để biết số đo và phạm vi QA thực tế. Không tự đăng YouTube.

@@ -1,0 +1,13 @@
+{
+  "genre": "original folklore-inspired uncanny found-footage horror",
+  "audience": "US general/adult horror audience",
+  "protagonist": "Vietnamese adult man24, grey T shirt, black shorts",
+  "grandmother": "65, grey hair, brown blouse; remembered warning",
+  "entity": "old human-like man in dark indigo, long fingers; three sacks; only revealed under bed at end",
+  "setting": "rural Vietnamese bedroom, green door, low dark wood bed, grey sheets, ceramic tiles",
+  "rules": "Fictional: do not answer the voice; do not open the sack. Protagonist follows both.",
+  "twist": "The first sack is a decoy; the entity under bed pulls a second sack around mattress.",
+  "continuity_limits": "AI changes door angle and sack surface; door position changes are atmospheric cuts, not a perfectly continuous physical recording.",
+  "sound": "Original synthesized low drone; no recording of actual events",
+  "voice": "Kokoro am_michael US English speed1.0; approximate IPA override for Vietnamese name"
+}
